@@ -1,0 +1,7221 @@
+[{
+  "_id": {
+    "$oid": "60aeb8d2fb0d6b6df0f19596"
+  },
+  "dogecoin": {
+    "eur": 0.282165,
+    "eur_market_cap": 36644082694.75875,
+    "eur_24h_vol": 3275298418.747967,
+    "last_updated_at": 1622063308
+  }
+},{
+  "_id": {
+    "$oid": "60aeb90efb0d6b6df0f195e2"
+  },
+  "dogecoin": {
+    "eur": 0.282165,
+    "eur_market_cap": 36644082694.75875,
+    "eur_24h_vol": 3275298418.747967,
+    "last_updated_at": 1622063308
+  }
+},{
+  "_id": {
+    "$oid": "60aeb94afb0d6b6df0f1962c"
+  },
+  "dogecoin": {
+    "eur": 0.282165,
+    "eur_market_cap": 36614529819.35922,
+    "eur_24h_vol": 3275298418.747967,
+    "last_updated_at": 1622063308
+  }
+},{
+  "_id": {
+    "$oid": "60aeb987fb0d6b6df0f1967a"
+  },
+  "dogecoin": {
+    "eur": 0.282165,
+    "eur_market_cap": 36614529819.35922,
+    "eur_24h_vol": 3275298418.747967,
+    "last_updated_at": 1622063308
+  }
+},{
+  "_id": {
+    "$oid": "60aeb9c2fb0d6b6df0f196c7"
+  },
+  "dogecoin": {
+    "eur": 0.282165,
+    "eur_market_cap": 36614529819.35922,
+    "eur_24h_vol": 3275298418.747967,
+    "last_updated_at": 1622063308
+  }
+},{
+  "_id": {
+    "$oid": "60aeb9fefb0d6b6df0f196fc"
+  },
+  "dogecoin": {
+    "eur": 0.282354,
+    "eur_market_cap": 36614529819.35922,
+    "eur_24h_vol": 3280725074.1624937,
+    "last_updated_at": 1622063514
+  }
+},{
+  "_id": {
+    "$oid": "60aeba3bfb0d6b6df0f1973f"
+  },
+  "dogecoin": {
+    "eur": 0.282354,
+    "eur_market_cap": 36614529819.35922,
+    "eur_24h_vol": 3280725074.1624937,
+    "last_updated_at": 1622063514
+  }
+},{
+  "_id": {
+    "$oid": "60aeba77fb0d6b6df0f19788"
+  },
+  "dogecoin": {
+    "eur": 0.282619,
+    "eur_market_cap": 36614529819.35922,
+    "eur_24h_vol": 3296982440.359635,
+    "last_updated_at": 1622063649
+  }
+},{
+  "_id": {
+    "$oid": "60aebab3fb0d6b6df0f197dc"
+  },
+  "dogecoin": {
+    "eur": 0.282619,
+    "eur_market_cap": 36614529819.35922,
+    "eur_24h_vol": 3296982440.359635,
+    "last_updated_at": 1622063649
+  }
+},{
+  "_id": {
+    "$oid": "60aebaeffb0d6b6df0f19830"
+  },
+  "dogecoin": {
+    "eur": 0.282721,
+    "eur_market_cap": 36614529819.35922,
+    "eur_24h_vol": 3296851424.6750116,
+    "last_updated_at": 1622063833
+  }
+},{
+  "_id": {
+    "$oid": "60aebb2bfb0d6b6df0f19880"
+  },
+  "dogecoin": {
+    "eur": 0.282721,
+    "eur_market_cap": 36614529819.35922,
+    "eur_24h_vol": 3296851424.6750116,
+    "last_updated_at": 1622063833
+  }
+},{
+  "_id": {
+    "$oid": "60aebb67fb0d6b6df0f198e4"
+  },
+  "dogecoin": {
+    "eur": 0.282721,
+    "eur_market_cap": 36614529819.35922,
+    "eur_24h_vol": 3296851424.6750116,
+    "last_updated_at": 1622063833
+  }
+},{
+  "_id": {
+    "$oid": "60aebba4fb0d6b6df0f1993e"
+  },
+  "dogecoin": {
+    "eur": 0.282721,
+    "eur_market_cap": 36614529819.35922,
+    "eur_24h_vol": 3296851424.6750116,
+    "last_updated_at": 1622063833
+  }
+},{
+  "_id": {
+    "$oid": "60aebbe0fb0d6b6df0f1998f"
+  },
+  "dogecoin": {
+    "eur": 0.282346,
+    "eur_market_cap": 36686676329.31203,
+    "eur_24h_vol": 3301686237.928916,
+    "last_updated_at": 1622064018
+  }
+},{
+  "_id": {
+    "$oid": "60aebc1dfb0d6b6df0f199d3"
+  },
+  "dogecoin": {
+    "eur": 0.282346,
+    "eur_market_cap": 36686676329.31203,
+    "eur_24h_vol": 3301686237.928916,
+    "last_updated_at": 1622064018
+  }
+},{
+  "_id": {
+    "$oid": "60aebc58fb0d6b6df0f19a12"
+  },
+  "dogecoin": {
+    "eur": 0.282375,
+    "eur_market_cap": 36686676329.31203,
+    "eur_24h_vol": 3289329790.003212,
+    "last_updated_at": 1622064200
+  }
+},{
+  "_id": {
+    "$oid": "60aebc94fb0d6b6df0f19a5c"
+  },
+  "dogecoin": {
+    "eur": 0.282375,
+    "eur_market_cap": 36686676329.31203,
+    "eur_24h_vol": 3289329790.003212,
+    "last_updated_at": 1622064200
+  }
+},{
+  "_id": {
+    "$oid": "60aebcd1fb0d6b6df0f19aa1"
+  },
+  "dogecoin": {
+    "eur": 0.282506,
+    "eur_market_cap": 36686676329.31203,
+    "eur_24h_vol": 3289234343.0025725,
+    "last_updated_at": 1622064316
+  }
+},{
+  "_id": {
+    "$oid": "60aebd0cfb0d6b6df0f19ae2"
+  },
+  "dogecoin": {
+    "eur": 0.282506,
+    "eur_market_cap": 36686676329.31203,
+    "eur_24h_vol": 3289234343.0025725,
+    "last_updated_at": 1622064316
+  }
+},{
+  "_id": {
+    "$oid": "60aebd4afb0d6b6df0f19b37"
+  },
+  "dogecoin": {
+    "eur": 0.282506,
+    "eur_market_cap": 36686676329.31203,
+    "eur_24h_vol": 3289234343.0025725,
+    "last_updated_at": 1622064316
+  }
+},{
+  "_id": {
+    "$oid": "60aebd85fb0d6b6df0f19b83"
+  },
+  "dogecoin": {
+    "eur": 0.282506,
+    "eur_market_cap": 36686676329.31203,
+    "eur_24h_vol": 3289234343.0025725,
+    "last_updated_at": 1622064316
+  }
+},{
+  "_id": {
+    "$oid": "60aebdc2fb0d6b6df0f19bbf"
+  },
+  "dogecoin": {
+    "eur": 0.28294,
+    "eur_market_cap": 36686676329.31203,
+    "eur_24h_vol": 3292915433.9163857,
+    "last_updated_at": 1622064469
+  }
+},{
+  "_id": {
+    "$oid": "60aebdfefb0d6b6df0f19c19"
+  },
+  "dogecoin": {
+    "eur": 0.28294,
+    "eur_market_cap": 36686676329.31203,
+    "eur_24h_vol": 3292915433.9163857,
+    "last_updated_at": 1622064469
+  }
+},{
+  "_id": {
+    "$oid": "60aebe3afb0d6b6df0f19c7e"
+  },
+  "dogecoin": {
+    "eur": 0.282872,
+    "eur_market_cap": 36715014257.64617,
+    "eur_24h_vol": 3291091955.914403,
+    "last_updated_at": 1622064610
+  }
+},{
+  "_id": {
+    "$oid": "60aebe76fb0d6b6df0f19ce2"
+  },
+  "dogecoin": {
+    "eur": 0.282872,
+    "eur_market_cap": 36715014257.64617,
+    "eur_24h_vol": 3291091955.914403,
+    "last_updated_at": 1622064610
+  }
+},{
+  "_id": {
+    "$oid": "60aebeb2fb0d6b6df0f19d50"
+  },
+  "dogecoin": {
+    "eur": 0.282872,
+    "eur_market_cap": 36715014257.64617,
+    "eur_24h_vol": 3291091955.914403,
+    "last_updated_at": 1622064610
+  }
+},{
+  "_id": {
+    "$oid": "60aebeeefb0d6b6df0f19db3"
+  },
+  "dogecoin": {
+    "eur": 0.282872,
+    "eur_market_cap": 36715014257.64617,
+    "eur_24h_vol": 3291091955.914403,
+    "last_updated_at": 1622064610
+  }
+},{
+  "_id": {
+    "$oid": "60aebf2bfb0d6b6df0f19e11"
+  },
+  "dogecoin": {
+    "eur": 0.2827,
+    "eur_market_cap": 36715014257.64617,
+    "eur_24h_vol": 3288159486.5967283,
+    "last_updated_at": 1622064843
+  }
+},{
+  "_id": {
+    "$oid": "60aebf67fb0d6b6df0f19e74"
+  },
+  "dogecoin": {
+    "eur": 0.2827,
+    "eur_market_cap": 36715014257.64617,
+    "eur_24h_vol": 3288159486.5967283,
+    "last_updated_at": 1622064843
+  }
+},{
+  "_id": {
+    "$oid": "60aebfa4fb0d6b6df0f19eca"
+  },
+  "dogecoin": {
+    "eur": 0.282723,
+    "eur_market_cap": 36715014257.64617,
+    "eur_24h_vol": 3280862791.3476286,
+    "last_updated_at": 1622065029
+  }
+},{
+  "_id": {
+    "$oid": "60aebfe1fb0d6b6df0f19f1e"
+  },
+  "dogecoin": {
+    "eur": 0.282723,
+    "eur_market_cap": 36715014257.64617,
+    "eur_24h_vol": 3280862791.3476286,
+    "last_updated_at": 1622065029
+  }
+},{
+  "_id": {
+    "$oid": "60aec01dfb0d6b6df0f19f77"
+  },
+  "dogecoin": {
+    "eur": 0.282578,
+    "eur_market_cap": 36715014257.64617,
+    "eur_24h_vol": 3286171914.8905973,
+    "last_updated_at": 1622065162
+  }
+},{
+  "_id": {
+    "$oid": "60aec059fb0d6b6df0f19fcb"
+  },
+  "dogecoin": {
+    "eur": 0.282578,
+    "eur_market_cap": 36715014257.64617,
+    "eur_24h_vol": 3286171914.8905973,
+    "last_updated_at": 1622065162
+  }
+},{
+  "_id": {
+    "$oid": "60aec096fb0d6b6df0f1a023"
+  },
+  "dogecoin": {
+    "eur": 0.282578,
+    "eur_market_cap": 36668063430.98211,
+    "eur_24h_vol": 3286171914.8905973,
+    "last_updated_at": 1622065162
+  }
+},{
+  "_id": {
+    "$oid": "60aec0d1fb0d6b6df0f1a08f"
+  },
+  "dogecoin": {
+    "eur": 0.282578,
+    "eur_market_cap": 36668063430.98211,
+    "eur_24h_vol": 3286171914.8905973,
+    "last_updated_at": 1622065162
+  }
+},{
+  "_id": {
+    "$oid": "60aec10efb0d6b6df0f1a0cb"
+  },
+  "dogecoin": {
+    "eur": 0.281806,
+    "eur_market_cap": 36668063430.98211,
+    "eur_24h_vol": 3278912334.9536223,
+    "last_updated_at": 1622065344
+  }
+},{
+  "_id": {
+    "$oid": "60aec14afb0d6b6df0f1a11b"
+  },
+  "dogecoin": {
+    "eur": 0.281806,
+    "eur_market_cap": 36668063430.98211,
+    "eur_24h_vol": 3278912334.9536223,
+    "last_updated_at": 1622065344
+  }
+},{
+  "_id": {
+    "$oid": "60aec186fb0d6b6df0f1a161"
+  },
+  "dogecoin": {
+    "eur": 0.28197,
+    "eur_market_cap": 36668063430.98211,
+    "eur_24h_vol": 3274492858.3852654,
+    "last_updated_at": 1622065497
+  }
+},{
+  "_id": {
+    "$oid": "60aec1c2fb0d6b6df0f1a198"
+  },
+  "dogecoin": {
+    "eur": 0.28197,
+    "eur_market_cap": 36668063430.98211,
+    "eur_24h_vol": 3274492858.3852654,
+    "last_updated_at": 1622065497
+  }
+},{
+  "_id": {
+    "$oid": "60aec1fefb0d6b6df0f1a1fa"
+  },
+  "dogecoin": {
+    "eur": 0.28197,
+    "eur_market_cap": 36668063430.98211,
+    "eur_24h_vol": 3274492858.3852654,
+    "last_updated_at": 1622065497
+  }
+},{
+  "_id": {
+    "$oid": "60aec23bfb0d6b6df0f1a257"
+  },
+  "dogecoin": {
+    "eur": 0.28197,
+    "eur_market_cap": 36668063430.98211,
+    "eur_24h_vol": 3274492858.3852654,
+    "last_updated_at": 1622065497
+  }
+},{
+  "_id": {
+    "$oid": "60aec277fb0d6b6df0f1a298"
+  },
+  "dogecoin": {
+    "eur": 0.282713,
+    "eur_market_cap": 36668063430.98211,
+    "eur_24h_vol": 3281724889.368797,
+    "last_updated_at": 1622065663
+  }
+},{
+  "_id": {
+    "$oid": "60aec2b2fb0d6b6df0f1a2e5"
+  },
+  "dogecoin": {
+    "eur": 0.282713,
+    "eur_market_cap": 36668063430.98211,
+    "eur_24h_vol": 3281724889.368797,
+    "last_updated_at": 1622065663
+  }
+},{
+  "_id": {
+    "$oid": "60aec2effb0d6b6df0f1a33c"
+  },
+  "dogecoin": {
+    "eur": 0.283073,
+    "eur_market_cap": 36685530864.793915,
+    "eur_24h_vol": 3285299011.31271,
+    "last_updated_at": 1622065847
+  }
+},{
+  "_id": {
+    "$oid": "60aec32bfb0d6b6df0f1a38f"
+  },
+  "dogecoin": {
+    "eur": 0.283073,
+    "eur_market_cap": 36685530864.793915,
+    "eur_24h_vol": 3285299011.31271,
+    "last_updated_at": 1622065847
+  }
+},{
+  "_id": {
+    "$oid": "60aec367fb0d6b6df0f1a3c8"
+  },
+  "dogecoin": {
+    "eur": 0.283073,
+    "eur_market_cap": 36685530864.793915,
+    "eur_24h_vol": 3285299011.31271,
+    "last_updated_at": 1622065847
+  }
+},{
+  "_id": {
+    "$oid": "60aec3a3fb0d6b6df0f1a40d"
+  },
+  "dogecoin": {
+    "eur": 0.283073,
+    "eur_market_cap": 36685530864.793915,
+    "eur_24h_vol": 3285299011.31271,
+    "last_updated_at": 1622065847
+  }
+},{
+  "_id": {
+    "$oid": "60aec3dffb0d6b6df0f1a45a"
+  },
+  "dogecoin": {
+    "eur": 0.284272,
+    "eur_market_cap": 36685530864.793915,
+    "eur_24h_vol": 3308553485.5322285,
+    "last_updated_at": 1622066038
+  }
+},{
+  "_id": {
+    "$oid": "60aec41bfb0d6b6df0f1a4a2"
+  },
+  "dogecoin": {
+    "eur": 0.284272,
+    "eur_market_cap": 36685530864.793915,
+    "eur_24h_vol": 3308553485.5322285,
+    "last_updated_at": 1622066038
+  }
+},{
+  "_id": {
+    "$oid": "60aec457fb0d6b6df0f1a4fe"
+  },
+  "dogecoin": {
+    "eur": 0.284645,
+    "eur_market_cap": 36685530864.793915,
+    "eur_24h_vol": 3314013363.4934845,
+    "last_updated_at": 1622066212
+  }
+},{
+  "_id": {
+    "$oid": "60aec494fb0d6b6df0f1a551"
+  },
+  "dogecoin": {
+    "eur": 0.284645,
+    "eur_market_cap": 36685530864.793915,
+    "eur_24h_vol": 3314013363.4934845,
+    "last_updated_at": 1622066212
+  }
+},{
+  "_id": {
+    "$oid": "60aec4d0fb0d6b6df0f1a59c"
+  },
+  "dogecoin": {
+    "eur": 0.284669,
+    "eur_market_cap": 36685530864.793915,
+    "eur_24h_vol": 3314317158.8696313,
+    "last_updated_at": 1622066324
+  }
+},{
+  "_id": {
+    "$oid": "60aec50bfb0d6b6df0f1a5ff"
+  },
+  "dogecoin": {
+    "eur": 0.284669,
+    "eur_market_cap": 36685530864.793915,
+    "eur_24h_vol": 3314317158.8696313,
+    "last_updated_at": 1622066324
+  }
+},{
+  "_id": {
+    "$oid": "60aec548fb0d6b6df0f1a651"
+  },
+  "dogecoin": {
+    "eur": 0.285493,
+    "eur_market_cap": 37046383176.41104,
+    "eur_24h_vol": 3323425243.5192537,
+    "last_updated_at": 1622066482
+  }
+},{
+  "_id": {
+    "$oid": "60aec584fb0d6b6df0f1a6a8"
+  },
+  "dogecoin": {
+    "eur": 0.285493,
+    "eur_market_cap": 37046383176.41104,
+    "eur_24h_vol": 3323425243.5192537,
+    "last_updated_at": 1622066482
+  }
+},{
+  "_id": {
+    "$oid": "60aec5c0fb0d6b6df0f1a6f2"
+  },
+  "dogecoin": {
+    "eur": 0.285493,
+    "eur_market_cap": 37046383176.41104,
+    "eur_24h_vol": 3323425243.5192537,
+    "last_updated_at": 1622066482
+  }
+},{
+  "_id": {
+    "$oid": "60aec5fcfb0d6b6df0f1a735"
+  },
+  "dogecoin": {
+    "eur": 0.285493,
+    "eur_market_cap": 37046383176.41104,
+    "eur_24h_vol": 3323425243.5192537,
+    "last_updated_at": 1622066482
+  }
+},{
+  "_id": {
+    "$oid": "60aec638fb0d6b6df0f1a780"
+  },
+  "dogecoin": {
+    "eur": 0.284537,
+    "eur_market_cap": 37046383176.41104,
+    "eur_24h_vol": 3281542917.8085294,
+    "last_updated_at": 1622066699
+  }
+},{
+  "_id": {
+    "$oid": "60aec675fb0d6b6df0f1a7d9"
+  },
+  "dogecoin": {
+    "eur": 0.284537,
+    "eur_market_cap": 37046383176.41104,
+    "eur_24h_vol": 3281542917.8085294,
+    "last_updated_at": 1622066699
+  }
+},{
+  "_id": {
+    "$oid": "60aec6b1fb0d6b6df0f1a81e"
+  },
+  "dogecoin": {
+    "eur": 0.284537,
+    "eur_market_cap": 37046383176.41104,
+    "eur_24h_vol": 3281542917.8085294,
+    "last_updated_at": 1622066699
+  }
+},{
+  "_id": {
+    "$oid": "60aec6eefb0d6b6df0f1a872"
+  },
+  "dogecoin": {
+    "eur": 0.284537,
+    "eur_market_cap": 37046383176.41104,
+    "eur_24h_vol": 3281542917.8085294,
+    "last_updated_at": 1622066699
+  }
+},{
+  "_id": {
+    "$oid": "60aec729fb0d6b6df0f1a8cd"
+  },
+  "dogecoin": {
+    "eur": 0.284097,
+    "eur_market_cap": 37046383176.41104,
+    "eur_24h_vol": 3279124526.8902426,
+    "last_updated_at": 1622066902
+  }
+},{
+  "_id": {
+    "$oid": "60aec765fb0d6b6df0f1a923"
+  },
+  "dogecoin": {
+    "eur": 0.284097,
+    "eur_market_cap": 37046383176.41104,
+    "eur_24h_vol": 3279124526.8902426,
+    "last_updated_at": 1622066902
+  }
+},{
+  "_id": {
+    "$oid": "60aec7a2fb0d6b6df0f1a96d"
+  },
+  "dogecoin": {
+    "eur": 0.284097,
+    "eur_market_cap": 36865218243.75233,
+    "eur_24h_vol": 3279124526.8902426,
+    "last_updated_at": 1622066902
+  }
+},{
+  "_id": {
+    "$oid": "60aec7defb0d6b6df0f1a9cb"
+  },
+  "dogecoin": {
+    "eur": 0.284097,
+    "eur_market_cap": 36865218243.75233,
+    "eur_24h_vol": 3279124526.8902426,
+    "last_updated_at": 1622066902
+  }
+},{
+  "_id": {
+    "$oid": "60aec819fb0d6b6df0f1aa18"
+  },
+  "dogecoin": {
+    "eur": 0.284478,
+    "eur_market_cap": 36865218243.75233,
+    "eur_24h_vol": 3282495831.78974,
+    "last_updated_at": 1622067108
+  }
+},{
+  "_id": {
+    "$oid": "60aec856fb0d6b6df0f1aa64"
+  },
+  "dogecoin": {
+    "eur": 0.284478,
+    "eur_market_cap": 36865218243.75233,
+    "eur_24h_vol": 3282495831.78974,
+    "last_updated_at": 1622067108
+  }
+},{
+  "_id": {
+    "$oid": "60aec892fb0d6b6df0f1aa9b"
+  },
+  "dogecoin": {
+    "eur": 0.284632,
+    "eur_market_cap": 36865218243.75233,
+    "eur_24h_vol": 3283866756.5932636,
+    "last_updated_at": 1622067313
+  }
+},{
+  "_id": {
+    "$oid": "60aec8cefb0d6b6df0f1aad7"
+  },
+  "dogecoin": {
+    "eur": 0.284632,
+    "eur_market_cap": 36865218243.75233,
+    "eur_24h_vol": 3283866756.5932636,
+    "last_updated_at": 1622067313
+  }
+},{
+  "_id": {
+    "$oid": "60aec956fb0d6b6df0f1ab84"
+  },
+  "dogecoin": {
+    "eur": 0.284575,
+    "eur_market_cap": 36865218243.75233,
+    "eur_24h_vol": 3406329037.704578,
+    "last_updated_at": 1622067457
+  }
+},{
+  "_id": {
+    "$oid": "60aec992fb0d6b6df0f1abe5"
+  },
+  "dogecoin": {
+    "eur": 0.284575,
+    "eur_market_cap": 36865218243.75233,
+    "eur_24h_vol": 3406329037.704578,
+    "last_updated_at": 1622067457
+  }
+},{
+  "_id": {
+    "$oid": "60aec9d1fb0d6b6df0f1ac35"
+  },
+  "dogecoin": {
+    "eur": 0.285106,
+    "eur_market_cap": 36927192825.00957,
+    "eur_24h_vol": 3302480891.2690706,
+    "last_updated_at": 1622067639
+  }
+},{
+  "_id": {
+    "$oid": "60aeca0dfb0d6b6df0f1ac88"
+  },
+  "dogecoin": {
+    "eur": 0.285106,
+    "eur_market_cap": 36927192825.00957,
+    "eur_24h_vol": 3302480891.2690706,
+    "last_updated_at": 1622067639
+  }
+},{
+  "_id": {
+    "$oid": "60aeca4afb0d6b6df0f1acd1"
+  },
+  "dogecoin": {
+    "eur": 0.285136,
+    "eur_market_cap": 36927192825.00957,
+    "eur_24h_vol": 3282210755.8836913,
+    "last_updated_at": 1622067776
+  }
+},{
+  "_id": {
+    "$oid": "60aeca86fb0d6b6df0f1ad12"
+  },
+  "dogecoin": {
+    "eur": 0.285136,
+    "eur_market_cap": 36927192825.00957,
+    "eur_24h_vol": 3282210755.8836913,
+    "last_updated_at": 1622067776
+  }
+},{
+  "_id": {
+    "$oid": "60aecac1fb0d6b6df0f1ad49"
+  },
+  "dogecoin": {
+    "eur": 0.285136,
+    "eur_market_cap": 36927192825.00957,
+    "eur_24h_vol": 3282210755.8836913,
+    "last_updated_at": 1622067776
+  }
+},{
+  "_id": {
+    "$oid": "60aecafefb0d6b6df0f1ad94"
+  },
+  "dogecoin": {
+    "eur": 0.285136,
+    "eur_market_cap": 36927192825.00957,
+    "eur_24h_vol": 3282210755.8836913,
+    "last_updated_at": 1622067776
+  }
+},{
+  "_id": {
+    "$oid": "60aecb3afb0d6b6df0f1ade9"
+  },
+  "dogecoin": {
+    "eur": 0.284792,
+    "eur_market_cap": 36927192825.00957,
+    "eur_24h_vol": 3277916032.046362,
+    "last_updated_at": 1622067934
+  }
+},{
+  "_id": {
+    "$oid": "60aecb76fb0d6b6df0f1ae3b"
+  },
+  "dogecoin": {
+    "eur": 0.284792,
+    "eur_market_cap": 36927192825.00957,
+    "eur_24h_vol": 3277916032.046362,
+    "last_updated_at": 1622067934
+  }
+},{
+  "_id": {
+    "$oid": "60aecbb2fb0d6b6df0f1ae7b"
+  },
+  "dogecoin": {
+    "eur": 0.284788,
+    "eur_market_cap": 36927192825.00957,
+    "eur_24h_vol": 3267734229.3881717,
+    "last_updated_at": 1622068132
+  }
+},{
+  "_id": {
+    "$oid": "60aecbeefb0d6b6df0f1aebd"
+  },
+  "dogecoin": {
+    "eur": 0.284788,
+    "eur_market_cap": 36927192825.00957,
+    "eur_24h_vol": 3267734229.3881717,
+    "last_updated_at": 1622068132
+  }
+},{
+  "_id": {
+    "$oid": "60aecc2bfb0d6b6df0f1af16"
+  },
+  "dogecoin": {
+    "eur": 0.284883,
+    "eur_market_cap": 36954889874.46284,
+    "eur_24h_vol": 3277558618.1154366,
+    "last_updated_at": 1622068200
+  }
+},{
+  "_id": {
+    "$oid": "60aecc67fb0d6b6df0f1af59"
+  },
+  "dogecoin": {
+    "eur": 0.284883,
+    "eur_market_cap": 36954889874.46284,
+    "eur_24h_vol": 3277558618.1154366,
+    "last_updated_at": 1622068200
+  }
+},{
+  "_id": {
+    "$oid": "60aecca4fb0d6b6df0f1af98"
+  },
+  "dogecoin": {
+    "eur": 0.284991,
+    "eur_market_cap": 36954889874.46284,
+    "eur_24h_vol": 3269274067.139294,
+    "last_updated_at": 1622068337
+  }
+},{
+  "_id": {
+    "$oid": "60aeccdffb0d6b6df0f1afdb"
+  },
+  "dogecoin": {
+    "eur": 0.284991,
+    "eur_market_cap": 36954889874.46284,
+    "eur_24h_vol": 3269274067.139294,
+    "last_updated_at": 1622068337
+  }
+},{
+  "_id": {
+    "$oid": "60aecd1bfb0d6b6df0f1b01c"
+  },
+  "dogecoin": {
+    "eur": 0.284991,
+    "eur_market_cap": 36954889874.46284,
+    "eur_24h_vol": 3269274067.139294,
+    "last_updated_at": 1622068337
+  }
+},{
+  "_id": {
+    "$oid": "60aecd58fb0d6b6df0f1b056"
+  },
+  "dogecoin": {
+    "eur": 0.284991,
+    "eur_market_cap": 36954889874.46284,
+    "eur_24h_vol": 3269274067.139294,
+    "last_updated_at": 1622068337
+  }
+},{
+  "_id": {
+    "$oid": "60aecd94fb0d6b6df0f1b091"
+  },
+  "dogecoin": {
+    "eur": 0.285082,
+    "eur_market_cap": 36954889874.46284,
+    "eur_24h_vol": 3273555889.053249,
+    "last_updated_at": 1622068569
+  }
+},{
+  "_id": {
+    "$oid": "60aecdcffb0d6b6df0f1b0ca"
+  },
+  "dogecoin": {
+    "eur": 0.285082,
+    "eur_market_cap": 36954889874.46284,
+    "eur_24h_vol": 3273555889.053249,
+    "last_updated_at": 1622068569
+  }
+},{
+  "_id": {
+    "$oid": "60aece0dfb0d6b6df0f1b10a"
+  },
+  "dogecoin": {
+    "eur": 0.285082,
+    "eur_market_cap": 36954889874.46284,
+    "eur_24h_vol": 3273555889.053249,
+    "last_updated_at": 1622068569
+  }
+},{
+  "_id": {
+    "$oid": "60aece48fb0d6b6df0f1b14c"
+  },
+  "dogecoin": {
+    "eur": 0.285082,
+    "eur_market_cap": 36954889874.46284,
+    "eur_24h_vol": 3273555889.053249,
+    "last_updated_at": 1622068569
+  }
+},{
+  "_id": {
+    "$oid": "60aece85fb0d6b6df0f1b1af"
+  },
+  "dogecoin": {
+    "eur": 0.284945,
+    "eur_market_cap": 36975203387.27344,
+    "eur_24h_vol": 3271818016.903268,
+    "last_updated_at": 1622068753
+  }
+},{
+  "_id": {
+    "$oid": "60aecec1fb0d6b6df0f1b207"
+  },
+  "dogecoin": {
+    "eur": 0.284945,
+    "eur_market_cap": 36975203387.27344,
+    "eur_24h_vol": 3271818016.903268,
+    "last_updated_at": 1622068753
+  }
+},{
+  "_id": {
+    "$oid": "60aecefcfb0d6b6df0f1b268"
+  },
+  "dogecoin": {
+    "eur": 0.284672,
+    "eur_market_cap": 36975203387.27344,
+    "eur_24h_vol": 3258816526.5028567,
+    "last_updated_at": 1622068947
+  }
+},{
+  "_id": {
+    "$oid": "60aecf39fb0d6b6df0f1b2a6"
+  },
+  "dogecoin": {
+    "eur": 0.284672,
+    "eur_market_cap": 36975203387.27344,
+    "eur_24h_vol": 3258816526.5028567,
+    "last_updated_at": 1622068947
+  }
+},{
+  "_id": {
+    "$oid": "60aecf75fb0d6b6df0f1b2e5"
+  },
+  "dogecoin": {
+    "eur": 0.284344,
+    "eur_market_cap": 36975203387.27344,
+    "eur_24h_vol": 3260514369.036827,
+    "last_updated_at": 1622069055
+  }
+},{
+  "_id": {
+    "$oid": "60aecfb2fb0d6b6df0f1b325"
+  },
+  "dogecoin": {
+    "eur": 0.284344,
+    "eur_market_cap": 36975203387.27344,
+    "eur_24h_vol": 3260514369.036827,
+    "last_updated_at": 1622069055
+  }
+},{
+  "_id": {
+    "$oid": "60aecfedfb0d6b6df0f1b367"
+  },
+  "dogecoin": {
+    "eur": 0.28428,
+    "eur_market_cap": 36975203387.27344,
+    "eur_24h_vol": 3257451916.96815,
+    "last_updated_at": 1622069199
+  }
+},{
+  "_id": {
+    "$oid": "60aed029fb0d6b6df0f1b3a8"
+  },
+  "dogecoin": {
+    "eur": 0.28428,
+    "eur_market_cap": 36975203387.27344,
+    "eur_24h_vol": 3257451916.96815,
+    "last_updated_at": 1622069199
+  }
+},{
+  "_id": {
+    "$oid": "60aed066fb0d6b6df0f1b3e5"
+  },
+  "dogecoin": {
+    "eur": 0.284338,
+    "eur_market_cap": 36975203387.27344,
+    "eur_24h_vol": 3257350193.340357,
+    "last_updated_at": 1622069316
+  }
+},{
+  "_id": {
+    "$oid": "60aed0a2fb0d6b6df0f1b4fb"
+  },
+  "dogecoin": {
+    "eur": 0.284338,
+    "eur_market_cap": 36975203387.27344,
+    "eur_24h_vol": 3257350193.340357,
+    "last_updated_at": 1622069316
+  }
+},{
+  "_id": {
+    "$oid": "60aed0dffb0d6b6df0f1b591"
+  },
+  "dogecoin": {
+    "eur": 0.284312,
+    "eur_market_cap": 36896438263.681564,
+    "eur_24h_vol": 3252575344.8607745,
+    "last_updated_at": 1622069456
+  }
+},{
+  "_id": {
+    "$oid": "60aed11afb0d6b6df0f1b635"
+  },
+  "dogecoin": {
+    "eur": 0.284312,
+    "eur_market_cap": 36896438263.681564,
+    "eur_24h_vol": 3252575344.8607745,
+    "last_updated_at": 1622069456
+  }
+},{
+  "_id": {
+    "$oid": "60aed159fb0d6b6df0f1b6c6"
+  },
+  "dogecoin": {
+    "eur": 0.284312,
+    "eur_market_cap": 36896438263.681564,
+    "eur_24h_vol": 3252575344.8607745,
+    "last_updated_at": 1622069456
+  }
+},{
+  "_id": {
+    "$oid": "60aed196fb0d6b6df0f1b73b"
+  },
+  "dogecoin": {
+    "eur": 0.284312,
+    "eur_market_cap": 36896438263.681564,
+    "eur_24h_vol": 3252575344.8607745,
+    "last_updated_at": 1622069456
+  }
+},{
+  "_id": {
+    "$oid": "60aed1d1fb0d6b6df0f1b7ad"
+  },
+  "dogecoin": {
+    "eur": 0.284305,
+    "eur_market_cap": 36896438263.681564,
+    "eur_24h_vol": 3251488365.958589,
+    "last_updated_at": 1622069593
+  }
+},{
+  "_id": {
+    "$oid": "60aed20efb0d6b6df0f1b820"
+  },
+  "dogecoin": {
+    "eur": 0.284305,
+    "eur_market_cap": 36896438263.681564,
+    "eur_24h_vol": 3251488365.958589,
+    "last_updated_at": 1622069593
+  }
+},{
+  "_id": {
+    "$oid": "60aed24afb0d6b6df0f1b87f"
+  },
+  "dogecoin": {
+    "eur": 0.284372,
+    "eur_market_cap": 36896438263.681564,
+    "eur_24h_vol": 3264716893.254833,
+    "last_updated_at": 1622069765
+  }
+},{
+  "_id": {
+    "$oid": "60aed286fb0d6b6df0f1b8cf"
+  },
+  "dogecoin": {
+    "eur": 0.284372,
+    "eur_market_cap": 36896438263.681564,
+    "eur_24h_vol": 3264716893.254833,
+    "last_updated_at": 1622069765
+  }
+},{
+  "_id": {
+    "$oid": "60aed2c3fb0d6b6df0f1b91e"
+  },
+  "dogecoin": {
+    "eur": 0.284077,
+    "eur_market_cap": 36896438263.681564,
+    "eur_24h_vol": 3258046114.6161027,
+    "last_updated_at": 1622069896
+  }
+},{
+  "_id": {
+    "$oid": "60aed2fefb0d6b6df0f1b979"
+  },
+  "dogecoin": {
+    "eur": 0.284077,
+    "eur_market_cap": 36896438263.681564,
+    "eur_24h_vol": 3258046114.6161027,
+    "last_updated_at": 1622069896
+  }
+},{
+  "_id": {
+    "$oid": "60aed33afb0d6b6df0f1b9d2"
+  },
+  "dogecoin": {
+    "eur": 0.284015,
+    "eur_market_cap": 36862636320.880394,
+    "eur_24h_vol": 3254265706.9452906,
+    "last_updated_at": 1622070056
+  }
+},{
+  "_id": {
+    "$oid": "60aed377fb0d6b6df0f1ba3a"
+  },
+  "dogecoin": {
+    "eur": 0.284015,
+    "eur_market_cap": 36862636320.880394,
+    "eur_24h_vol": 3254265706.9452906,
+    "last_updated_at": 1622070056
+  }
+},{
+  "_id": {
+    "$oid": "60aed3b3fb0d6b6df0f1ba99"
+  },
+  "dogecoin": {
+    "eur": 0.284015,
+    "eur_market_cap": 36862636320.880394,
+    "eur_24h_vol": 3254265706.9452906,
+    "last_updated_at": 1622070056
+  }
+},{
+  "_id": {
+    "$oid": "60aed3f0fb0d6b6df0f1bafc"
+  },
+  "dogecoin": {
+    "eur": 0.284015,
+    "eur_market_cap": 36862636320.880394,
+    "eur_24h_vol": 3254265706.9452906,
+    "last_updated_at": 1622070056
+  }
+},{
+  "_id": {
+    "$oid": "60aed42bfb0d6b6df0f1bb61"
+  },
+  "dogecoin": {
+    "eur": 0.284096,
+    "eur_market_cap": 36862636320.880394,
+    "eur_24h_vol": 3230925044.8842134,
+    "last_updated_at": 1622070305
+  }
+},{
+  "_id": {
+    "$oid": "60aed468fb0d6b6df0f1bbc2"
+  },
+  "dogecoin": {
+    "eur": 0.284096,
+    "eur_market_cap": 36862636320.880394,
+    "eur_24h_vol": 3230925044.8842134,
+    "last_updated_at": 1622070305
+  }
+},{
+  "_id": {
+    "$oid": "60aed4a5fb0d6b6df0f1bc0e"
+  },
+  "dogecoin": {
+    "eur": 0.284096,
+    "eur_market_cap": 36862636320.880394,
+    "eur_24h_vol": 3230925044.8842134,
+    "last_updated_at": 1622070305
+  }
+},{
+  "_id": {
+    "$oid": "60aed4e1fb0d6b6df0f1bc78"
+  },
+  "dogecoin": {
+    "eur": 0.284096,
+    "eur_market_cap": 36862636320.880394,
+    "eur_24h_vol": 3230925044.8842134,
+    "last_updated_at": 1622070305
+  }
+},{
+  "_id": {
+    "$oid": "60aed51efb0d6b6df0f1bcc8"
+  },
+  "dogecoin": {
+    "eur": 0.283711,
+    "eur_market_cap": 36862636320.880394,
+    "eur_24h_vol": 3209835802.4231224,
+    "last_updated_at": 1622070492
+  }
+},{
+  "_id": {
+    "$oid": "60aed559fb0d6b6df0f1bd18"
+  },
+  "dogecoin": {
+    "eur": 0.283711,
+    "eur_market_cap": 36862636320.880394,
+    "eur_24h_vol": 3209835802.4231224,
+    "last_updated_at": 1622070492
+  }
+},{
+  "_id": {
+    "$oid": "60aed596fb0d6b6df0f1bd6a"
+  },
+  "dogecoin": {
+    "eur": 0.283711,
+    "eur_market_cap": 36815042083.18871,
+    "eur_24h_vol": 3209835802.4231224,
+    "last_updated_at": 1622070492
+  }
+},{
+  "_id": {
+    "$oid": "60aed5d2fb0d6b6df0f1bdc8"
+  },
+  "dogecoin": {
+    "eur": 0.283711,
+    "eur_market_cap": 36815042083.18871,
+    "eur_24h_vol": 3209835802.4231224,
+    "last_updated_at": 1622070492
+  }
+},{
+  "_id": {
+    "$oid": "60aed60dfb0d6b6df0f1be1a"
+  },
+  "dogecoin": {
+    "eur": 0.284782,
+    "eur_market_cap": 36815042083.18871,
+    "eur_24h_vol": 3233099931.0198245,
+    "last_updated_at": 1622070690
+  }
+},{
+  "_id": {
+    "$oid": "60aed64afb0d6b6df0f1be76"
+  },
+  "dogecoin": {
+    "eur": 0.284782,
+    "eur_market_cap": 36815042083.18871,
+    "eur_24h_vol": 3233099931.0198245,
+    "last_updated_at": 1622070690
+  }
+},{
+  "_id": {
+    "$oid": "60aed686fb0d6b6df0f1bed0"
+  },
+  "dogecoin": {
+    "eur": 0.284893,
+    "eur_market_cap": 36815042083.18871,
+    "eur_24h_vol": 3207323304.6455364,
+    "last_updated_at": 1622070836
+  }
+},{
+  "_id": {
+    "$oid": "60aed6c3fb0d6b6df0f1bf3f"
+  },
+  "dogecoin": {
+    "eur": 0.284893,
+    "eur_market_cap": 36815042083.18871,
+    "eur_24h_vol": 3207323304.6455364,
+    "last_updated_at": 1622070836
+  }
+},{
+  "_id": {
+    "$oid": "60aed6fffb0d6b6df0f1bf94"
+  },
+  "dogecoin": {
+    "eur": 0.284809,
+    "eur_market_cap": 36815042083.18871,
+    "eur_24h_vol": 3205888222.6984687,
+    "last_updated_at": 1622071011
+  }
+},{
+  "_id": {
+    "$oid": "60aed73afb0d6b6df0f1bfdd"
+  },
+  "dogecoin": {
+    "eur": 0.284809,
+    "eur_market_cap": 36815042083.18871,
+    "eur_24h_vol": 3205888222.6984687,
+    "last_updated_at": 1622071011
+  }
+},{
+  "_id": {
+    "$oid": "60aed777fb0d6b6df0f1c022"
+  },
+  "dogecoin": {
+    "eur": 0.284809,
+    "eur_market_cap": 36815042083.18871,
+    "eur_24h_vol": 3205888222.6984687,
+    "last_updated_at": 1622071011
+  }
+},{
+  "_id": {
+    "$oid": "60aed7b3fb0d6b6df0f1c05e"
+  },
+  "dogecoin": {
+    "eur": 0.284809,
+    "eur_market_cap": 36815042083.18871,
+    "eur_24h_vol": 3205888222.6984687,
+    "last_updated_at": 1622071011
+  }
+},{
+  "_id": {
+    "$oid": "60aed7effb0d6b6df0f1c0a3"
+  },
+  "dogecoin": {
+    "eur": 0.28466,
+    "eur_market_cap": 36938281009.29338,
+    "eur_24h_vol": 3203471305.192364,
+    "last_updated_at": 1622071161
+  }
+},{
+  "_id": {
+    "$oid": "60aed82bfb0d6b6df0f1c0e6"
+  },
+  "dogecoin": {
+    "eur": 0.28466,
+    "eur_market_cap": 36938281009.29338,
+    "eur_24h_vol": 3203471305.192364,
+    "last_updated_at": 1622071161
+  }
+},{
+  "_id": {
+    "$oid": "60aed867fb0d6b6df0f1c129"
+  },
+  "dogecoin": {
+    "eur": 0.284882,
+    "eur_market_cap": 36938281009.29338,
+    "eur_24h_vol": 3206277667.1560903,
+    "last_updated_at": 1622071328
+  }
+},{
+  "_id": {
+    "$oid": "60aed8a4fb0d6b6df0f1c16d"
+  },
+  "dogecoin": {
+    "eur": 0.284882,
+    "eur_market_cap": 36938281009.29338,
+    "eur_24h_vol": 3206277667.1560903,
+    "last_updated_at": 1622071328
+  }
+},{
+  "_id": {
+    "$oid": "60aed8dffb0d6b6df0f1c1cf"
+  },
+  "dogecoin": {
+    "eur": 0.28496,
+    "eur_market_cap": 36938281009.29338,
+    "eur_24h_vol": 3219283650.2548437,
+    "last_updated_at": 1622071432
+  }
+},{
+  "_id": {
+    "$oid": "60aed91bfb0d6b6df0f1c221"
+  },
+  "dogecoin": {
+    "eur": 0.28496,
+    "eur_market_cap": 36938281009.29338,
+    "eur_24h_vol": 3219283650.2548437,
+    "last_updated_at": 1622071432
+  }
+},{
+  "_id": {
+    "$oid": "60aed958fb0d6b6df0f1c280"
+  },
+  "dogecoin": {
+    "eur": 0.286874,
+    "eur_market_cap": 36938281009.29338,
+    "eur_24h_vol": 3253907162.072882,
+    "last_updated_at": 1622071557
+  }
+},{
+  "_id": {
+    "$oid": "60aed993fb0d6b6df0f1c2d6"
+  },
+  "dogecoin": {
+    "eur": 0.286874,
+    "eur_market_cap": 36938281009.29338,
+    "eur_24h_vol": 3253907162.072882,
+    "last_updated_at": 1622071557
+  }
+},{
+  "_id": {
+    "$oid": "60aed9d0fb0d6b6df0f1c31c"
+  },
+  "dogecoin": {
+    "eur": 0.287035,
+    "eur_market_cap": 36938281009.29338,
+    "eur_24h_vol": 3238553804.836186,
+    "last_updated_at": 1622071715
+  }
+},{
+  "_id": {
+    "$oid": "60aeda0cfb0d6b6df0f1c36b"
+  },
+  "dogecoin": {
+    "eur": 0.287035,
+    "eur_market_cap": 36938281009.29338,
+    "eur_24h_vol": 3238553804.836186,
+    "last_updated_at": 1622071715
+  }
+},{
+  "_id": {
+    "$oid": "60aeda48fb0d6b6df0f1c3c2"
+  },
+  "dogecoin": {
+    "eur": 0.289493,
+    "eur_market_cap": 37246474098.56931,
+    "eur_24h_vol": 3264703424.0582814,
+    "last_updated_at": 1622071860
+  }
+},{
+  "_id": {
+    "$oid": "60aeda84fb0d6b6df0f1c3f7"
+  },
+  "dogecoin": {
+    "eur": 0.289493,
+    "eur_market_cap": 37246474098.56931,
+    "eur_24h_vol": 3264703424.0582814,
+    "last_updated_at": 1622071860
+  }
+},{
+  "_id": {
+    "$oid": "60aedac0fb0d6b6df0f1c441"
+  },
+  "dogecoin": {
+    "eur": 0.289493,
+    "eur_market_cap": 37246474098.56931,
+    "eur_24h_vol": 3264703424.0582814,
+    "last_updated_at": 1622071860
+  }
+},{
+  "_id": {
+    "$oid": "60aedafdfb0d6b6df0f1c495"
+  },
+  "dogecoin": {
+    "eur": 0.289493,
+    "eur_market_cap": 37246474098.56931,
+    "eur_24h_vol": 3264703424.0582814,
+    "last_updated_at": 1622071860
+  }
+},{
+  "_id": {
+    "$oid": "60aedb39fb0d6b6df0f1c4d6"
+  },
+  "dogecoin": {
+    "eur": 0.289493,
+    "eur_market_cap": 37246474098.56931,
+    "eur_24h_vol": 3264703424.0582814,
+    "last_updated_at": 1622071860
+  }
+},{
+  "_id": {
+    "$oid": "60aedb74fb0d6b6df0f1c520"
+  },
+  "dogecoin": {
+    "eur": 0.289493,
+    "eur_market_cap": 37246474098.56931,
+    "eur_24h_vol": 3264703424.0582814,
+    "last_updated_at": 1622071860
+  }
+},{
+  "_id": {
+    "$oid": "60aedbb1fb0d6b6df0f1c568"
+  },
+  "dogecoin": {
+    "eur": 0.290218,
+    "eur_market_cap": 37246474098.56931,
+    "eur_24h_vol": 3285650111.1870813,
+    "last_updated_at": 1622072120
+  }
+},{
+  "_id": {
+    "$oid": "60aedbedfb0d6b6df0f1c5b8"
+  },
+  "dogecoin": {
+    "eur": 0.290218,
+    "eur_market_cap": 37246474098.56931,
+    "eur_24h_vol": 3285650111.1870813,
+    "last_updated_at": 1622072120
+  }
+},{
+  "_id": {
+    "$oid": "60aedc2afb0d6b6df0f1c60c"
+  },
+  "dogecoin": {
+    "eur": 0.28996,
+    "eur_market_cap": 37246474098.56931,
+    "eur_24h_vol": 3270059597.918441,
+    "last_updated_at": 1622072304
+  }
+},{
+  "_id": {
+    "$oid": "60aedc65fb0d6b6df0f1c65c"
+  },
+  "dogecoin": {
+    "eur": 0.28996,
+    "eur_market_cap": 37246474098.56931,
+    "eur_24h_vol": 3270059597.918441,
+    "last_updated_at": 1622072304
+  }
+},{
+  "_id": {
+    "$oid": "60aedca1fb0d6b6df0f1c6ac"
+  },
+  "dogecoin": {
+    "eur": 0.28996,
+    "eur_market_cap": 37626038718.5493,
+    "eur_24h_vol": 3270059597.918441,
+    "last_updated_at": 1622072304
+  }
+},{
+  "_id": {
+    "$oid": "60aedcdefb0d6b6df0f1c6fb"
+  },
+  "dogecoin": {
+    "eur": 0.28996,
+    "eur_market_cap": 37626038718.5493,
+    "eur_24h_vol": 3270059597.918441,
+    "last_updated_at": 1622072304
+  }
+},{
+  "_id": {
+    "$oid": "60aedd1afb0d6b6df0f1c746"
+  },
+  "dogecoin": {
+    "eur": 0.289889,
+    "eur_market_cap": 37626038718.5493,
+    "eur_24h_vol": 3281802930.467286,
+    "last_updated_at": 1622072499
+  }
+},{
+  "_id": {
+    "$oid": "60aedd56fb0d6b6df0f1c79a"
+  },
+  "dogecoin": {
+    "eur": 0.289889,
+    "eur_market_cap": 37626038718.5493,
+    "eur_24h_vol": 3281802930.467286,
+    "last_updated_at": 1622072499
+  }
+},{
+  "_id": {
+    "$oid": "60aedd92fb0d6b6df0f1c7eb"
+  },
+  "dogecoin": {
+    "eur": 0.28999,
+    "eur_market_cap": 37626038718.5493,
+    "eur_24h_vol": 3282988299.8788424,
+    "last_updated_at": 1622072634
+  }
+},{
+  "_id": {
+    "$oid": "60aeddcefb0d6b6df0f1c841"
+  },
+  "dogecoin": {
+    "eur": 0.28999,
+    "eur_market_cap": 37626038718.5493,
+    "eur_24h_vol": 3282988299.8788424,
+    "last_updated_at": 1622072634
+  }
+},{
+  "_id": {
+    "$oid": "60aede0bfb0d6b6df0f1c88e"
+  },
+  "dogecoin": {
+    "eur": 0.28999,
+    "eur_market_cap": 37626038718.5493,
+    "eur_24h_vol": 3282988299.8788424,
+    "last_updated_at": 1622072634
+  }
+},{
+  "_id": {
+    "$oid": "60aede46fb0d6b6df0f1c8d6"
+  },
+  "dogecoin": {
+    "eur": 0.28999,
+    "eur_market_cap": 37626038718.5493,
+    "eur_24h_vol": 3282988299.8788424,
+    "last_updated_at": 1622072634
+  }
+},{
+  "_id": {
+    "$oid": "60aede83fb0d6b6df0f1c922"
+  },
+  "dogecoin": {
+    "eur": 0.290285,
+    "eur_market_cap": 37626038718.5493,
+    "eur_24h_vol": 3284727440.9671946,
+    "last_updated_at": 1622072845
+  }
+},{
+  "_id": {
+    "$oid": "60aedebffb0d6b6df0f1c97b"
+  },
+  "dogecoin": {
+    "eur": 0.290285,
+    "eur_market_cap": 37626038718.5493,
+    "eur_24h_vol": 3284727440.9671946,
+    "last_updated_at": 1622072845
+  }
+},{
+  "_id": {
+    "$oid": "60aedefbfb0d6b6df0f1c9cd"
+  },
+  "dogecoin": {
+    "eur": 0.291097,
+    "eur_market_cap": 37773541842.166794,
+    "eur_24h_vol": 3297401621.9102764,
+    "last_updated_at": 1622072992
+  }
+},{
+  "_id": {
+    "$oid": "60aedf37fb0d6b6df0f1ca1b"
+  },
+  "dogecoin": {
+    "eur": 0.291097,
+    "eur_market_cap": 37773541842.166794,
+    "eur_24h_vol": 3297401621.9102764,
+    "last_updated_at": 1622072992
+  }
+},{
+  "_id": {
+    "$oid": "60aedf73fb0d6b6df0f1ca69"
+  },
+  "dogecoin": {
+    "eur": 0.291119,
+    "eur_market_cap": 37773541842.166794,
+    "eur_24h_vol": 3295647447.7997007,
+    "last_updated_at": 1622073169
+  }
+},{
+  "_id": {
+    "$oid": "60aedfb0fb0d6b6df0f1cab3"
+  },
+  "dogecoin": {
+    "eur": 0.291119,
+    "eur_market_cap": 37773541842.166794,
+    "eur_24h_vol": 3295647447.7997007,
+    "last_updated_at": 1622073169
+  }
+},{
+  "_id": {
+    "$oid": "60aedfecfb0d6b6df0f1caf4"
+  },
+  "dogecoin": {
+    "eur": 0.290952,
+    "eur_market_cap": 37773541842.166794,
+    "eur_24h_vol": 3294367042.715613,
+    "last_updated_at": 1622073313
+  }
+},{
+  "_id": {
+    "$oid": "60aee027fb0d6b6df0f1cb4d"
+  },
+  "dogecoin": {
+    "eur": 0.290952,
+    "eur_market_cap": 37773541842.166794,
+    "eur_24h_vol": 3294367042.715613,
+    "last_updated_at": 1622073313
+  }
+},{
+  "_id": {
+    "$oid": "60aee064fb0d6b6df0f1cb9a"
+  },
+  "dogecoin": {
+    "eur": 0.290952,
+    "eur_market_cap": 37773541842.166794,
+    "eur_24h_vol": 3294367042.715613,
+    "last_updated_at": 1622073313
+  }
+},{
+  "_id": {
+    "$oid": "60aee0a0fb0d6b6df0f1cbdd"
+  },
+  "dogecoin": {
+    "eur": 0.290952,
+    "eur_market_cap": 37773541842.166794,
+    "eur_24h_vol": 3294367042.715613,
+    "last_updated_at": 1622073313
+  }
+},{
+  "_id": {
+    "$oid": "60aee0ddfb0d6b6df0f1cc2d"
+  },
+  "dogecoin": {
+    "eur": 0.290877,
+    "eur_market_cap": 37773541842.166794,
+    "eur_24h_vol": 3289638108.385381,
+    "last_updated_at": 1622073450
+  }
+},{
+  "_id": {
+    "$oid": "60aee119fb0d6b6df0f1cc78"
+  },
+  "dogecoin": {
+    "eur": 0.290877,
+    "eur_market_cap": 37773541842.166794,
+    "eur_24h_vol": 3289638108.385381,
+    "last_updated_at": 1622073450
+  }
+},{
+  "_id": {
+    "$oid": "60aee155fb0d6b6df0f1ccd3"
+  },
+  "dogecoin": {
+    "eur": 0.290506,
+    "eur_market_cap": 37696773399.40631,
+    "eur_24h_vol": 3285266930.982909,
+    "last_updated_at": 1622073577
+  }
+},{
+  "_id": {
+    "$oid": "60aee191fb0d6b6df0f1cd1a"
+  },
+  "dogecoin": {
+    "eur": 0.290506,
+    "eur_market_cap": 37696773399.40631,
+    "eur_24h_vol": 3285266930.982909,
+    "last_updated_at": 1622073577
+  }
+},{
+  "_id": {
+    "$oid": "60aee1cdfb0d6b6df0f1cd6a"
+  },
+  "dogecoin": {
+    "eur": 0.291192,
+    "eur_market_cap": 37696773399.40631,
+    "eur_24h_vol": 3286445684.982953,
+    "last_updated_at": 1622073719
+  }
+},{
+  "_id": {
+    "$oid": "60aee209fb0d6b6df0f1cdc4"
+  },
+  "dogecoin": {
+    "eur": 0.291192,
+    "eur_market_cap": 37696773399.40631,
+    "eur_24h_vol": 3286445684.982953,
+    "last_updated_at": 1622073719
+  }
+},{
+  "_id": {
+    "$oid": "60aee246fb0d6b6df0f1ce08"
+  },
+  "dogecoin": {
+    "eur": 0.291192,
+    "eur_market_cap": 37696773399.40631,
+    "eur_24h_vol": 3286445684.982953,
+    "last_updated_at": 1622073719
+  }
+},{
+  "_id": {
+    "$oid": "60aee281fb0d6b6df0f1ce56"
+  },
+  "dogecoin": {
+    "eur": 0.291192,
+    "eur_market_cap": 37696773399.40631,
+    "eur_24h_vol": 3286445684.982953,
+    "last_updated_at": 1622073719
+  }
+},{
+  "_id": {
+    "$oid": "60aee2befb0d6b6df0f1ceb1"
+  },
+  "dogecoin": {
+    "eur": 0.290069,
+    "eur_market_cap": 37696773399.40631,
+    "eur_24h_vol": 3272801466.173548,
+    "last_updated_at": 1622073999
+  }
+},{
+  "_id": {
+    "$oid": "60aee2fafb0d6b6df0f1cf01"
+  },
+  "dogecoin": {
+    "eur": 0.290069,
+    "eur_market_cap": 37696773399.40631,
+    "eur_24h_vol": 3272801466.173548,
+    "last_updated_at": 1622073999
+  }
+},{
+  "_id": {
+    "$oid": "60aee336fb0d6b6df0f1cf4e"
+  },
+  "dogecoin": {
+    "eur": 0.290069,
+    "eur_market_cap": 37696773399.40631,
+    "eur_24h_vol": 3272801466.173548,
+    "last_updated_at": 1622073999
+  }
+},{
+  "_id": {
+    "$oid": "60aee373fb0d6b6df0f1cf98"
+  },
+  "dogecoin": {
+    "eur": 0.290069,
+    "eur_market_cap": 37696773399.40631,
+    "eur_24h_vol": 3272801466.173548,
+    "last_updated_at": 1622073999
+  }
+},{
+  "_id": {
+    "$oid": "60aee3aefb0d6b6df0f1cfe7"
+  },
+  "dogecoin": {
+    "eur": 0.28927,
+    "eur_market_cap": 37696773399.40631,
+    "eur_24h_vol": 3264255556.025119,
+    "last_updated_at": 1622074182
+  }
+},{
+  "_id": {
+    "$oid": "60aee3ebfb0d6b6df0f1d02c"
+  },
+  "dogecoin": {
+    "eur": 0.28927,
+    "eur_market_cap": 37696773399.40631,
+    "eur_24h_vol": 3264255556.025119,
+    "last_updated_at": 1622074182
+  }
+},{
+  "_id": {
+    "$oid": "60aee427fb0d6b6df0f1d070"
+  },
+  "dogecoin": {
+    "eur": 0.288902,
+    "eur_market_cap": 37696773399.40631,
+    "eur_24h_vol": 3259569278.3091817,
+    "last_updated_at": 1622074352
+  }
+},{
+  "_id": {
+    "$oid": "60aee463fb0d6b6df0f1d0b4"
+  },
+  "dogecoin": {
+    "eur": 0.288902,
+    "eur_market_cap": 37696773399.40631,
+    "eur_24h_vol": 3259569278.3091817,
+    "last_updated_at": 1622074352
+  }
+},{
+  "_id": {
+    "$oid": "60aee49ffb0d6b6df0f1d105"
+  },
+  "dogecoin": {
+    "eur": 0.288902,
+    "eur_market_cap": 37696773399.40631,
+    "eur_24h_vol": 3259569278.3091817,
+    "last_updated_at": 1622074352
+  }
+},{
+  "_id": {
+    "$oid": "60aee4dbfb0d6b6df0f1d14c"
+  },
+  "dogecoin": {
+    "eur": 0.288902,
+    "eur_market_cap": 37696773399.40631,
+    "eur_24h_vol": 3259569278.3091817,
+    "last_updated_at": 1622074352
+  }
+},{
+  "_id": {
+    "$oid": "60aee518fb0d6b6df0f1d19d"
+  },
+  "dogecoin": {
+    "eur": 0.287905,
+    "eur_market_cap": 37488653258.02755,
+    "eur_24h_vol": 3248468196.922598,
+    "last_updated_at": 1622074553
+  }
+},{
+  "_id": {
+    "$oid": "60aee553fb0d6b6df0f1d1e6"
+  },
+  "dogecoin": {
+    "eur": 0.287905,
+    "eur_market_cap": 37488653258.02755,
+    "eur_24h_vol": 3248468196.922598,
+    "last_updated_at": 1622074553
+  }
+},{
+  "_id": {
+    "$oid": "60aee58ffb0d6b6df0f1d224"
+  },
+  "dogecoin": {
+    "eur": 0.287905,
+    "eur_market_cap": 37488653258.02755,
+    "eur_24h_vol": 3248468196.922598,
+    "last_updated_at": 1622074553
+  }
+},{
+  "_id": {
+    "$oid": "60aee5ccfb0d6b6df0f1d26e"
+  },
+  "dogecoin": {
+    "eur": 0.287905,
+    "eur_market_cap": 37488653258.02755,
+    "eur_24h_vol": 3248468196.922598,
+    "last_updated_at": 1622074553
+  }
+},{
+  "_id": {
+    "$oid": "60aee609fb0d6b6df0f1d2bc"
+  },
+  "dogecoin": {
+    "eur": 0.286347,
+    "eur_market_cap": 37157153050.51311,
+    "eur_24h_vol": 3240857540.903387,
+    "last_updated_at": 1622074779
+  }
+},{
+  "_id": {
+    "$oid": "60aee645fb0d6b6df0f1d2ff"
+  },
+  "dogecoin": {
+    "eur": 0.286347,
+    "eur_market_cap": 37157153050.51311,
+    "eur_24h_vol": 3240857540.903387,
+    "last_updated_at": 1622074779
+  }
+},{
+  "_id": {
+    "$oid": "60aee682fb0d6b6df0f1d34e"
+  },
+  "dogecoin": {
+    "eur": 0.284734,
+    "eur_market_cap": 37157153050.51311,
+    "eur_24h_vol": 3330060445.8965306,
+    "last_updated_at": 1622074981
+  }
+},{
+  "_id": {
+    "$oid": "60aee6bdfb0d6b6df0f1d385"
+  },
+  "dogecoin": {
+    "eur": 0.284734,
+    "eur_market_cap": 37157153050.51311,
+    "eur_24h_vol": 3330060445.8965306,
+    "last_updated_at": 1622074981
+  }
+},{
+  "_id": {
+    "$oid": "60aee6fafb0d6b6df0f1d3b5"
+  },
+  "dogecoin": {
+    "eur": 0.284734,
+    "eur_market_cap": 37157153050.51311,
+    "eur_24h_vol": 3330060445.8965306,
+    "last_updated_at": 1622074981
+  }
+},{
+  "_id": {
+    "$oid": "60aee736fb0d6b6df0f1d3f6"
+  },
+  "dogecoin": {
+    "eur": 0.284734,
+    "eur_market_cap": 37157153050.51311,
+    "eur_24h_vol": 3330060445.8965306,
+    "last_updated_at": 1622074981
+  }
+},{
+  "_id": {
+    "$oid": "60aee771fb0d6b6df0f1d43e"
+  },
+  "dogecoin": {
+    "eur": 0.285034,
+    "eur_market_cap": 37157153050.51311,
+    "eur_24h_vol": 3229128455.9276404,
+    "last_updated_at": 1622075144
+  }
+},{
+  "_id": {
+    "$oid": "60aee7aefb0d6b6df0f1d47e"
+  },
+  "dogecoin": {
+    "eur": 0.28509,
+    "eur_market_cap": 37157153050.51311,
+    "eur_24h_vol": 3227796271.246418,
+    "last_updated_at": 1622075280
+  }
+},{
+  "_id": {
+    "$oid": "60aee7eafb0d6b6df0f1d4b7"
+  },
+  "dogecoin": {
+    "eur": 0.28509,
+    "eur_market_cap": 37157153050.51311,
+    "eur_24h_vol": 3227796271.246418,
+    "last_updated_at": 1622075280
+  }
+},{
+  "_id": {
+    "$oid": "60aee827fb0d6b6df0f1d51f"
+  },
+  "dogecoin": {
+    "eur": 0.284911,
+    "eur_market_cap": 36970776124.80027,
+    "eur_24h_vol": 3224691611.4345007,
+    "last_updated_at": 1622075403
+  }
+},{
+  "_id": {
+    "$oid": "60aee862fb0d6b6df0f1d56d"
+  },
+  "dogecoin": {
+    "eur": 0.284911,
+    "eur_market_cap": 36970776124.80027,
+    "eur_24h_vol": 3224691611.4345007,
+    "last_updated_at": 1622075403
+  }
+},{
+  "_id": {
+    "$oid": "60aee89efb0d6b6df0f1d5bb"
+  },
+  "dogecoin": {
+    "eur": 0.284911,
+    "eur_market_cap": 36970776124.80027,
+    "eur_24h_vol": 3224691611.4345007,
+    "last_updated_at": 1622075403
+  }
+},{
+  "_id": {
+    "$oid": "60aee8dbfb0d6b6df0f1d602"
+  },
+  "dogecoin": {
+    "eur": 0.284911,
+    "eur_market_cap": 36970776124.80027,
+    "eur_24h_vol": 3224691611.4345007,
+    "last_updated_at": 1622075403
+  }
+},{
+  "_id": {
+    "$oid": "60aee917fb0d6b6df0f1d63f"
+  },
+  "dogecoin": {
+    "eur": 0.284256,
+    "eur_market_cap": 36970776124.80027,
+    "eur_24h_vol": 3321412139.063651,
+    "last_updated_at": 1622075578
+  }
+},{
+  "_id": {
+    "$oid": "60aee953fb0d6b6df0f1d684"
+  },
+  "dogecoin": {
+    "eur": 0.284256,
+    "eur_market_cap": 36970776124.80027,
+    "eur_24h_vol": 3321412139.063651,
+    "last_updated_at": 1622075578
+  }
+},{
+  "_id": {
+    "$oid": "60aee98ffb0d6b6df0f1d6cd"
+  },
+  "dogecoin": {
+    "eur": 0.284256,
+    "eur_market_cap": 36970776124.80027,
+    "eur_24h_vol": 3321412139.063651,
+    "last_updated_at": 1622075578
+  }
+},{
+  "_id": {
+    "$oid": "60aee9cbfb0d6b6df0f1d724"
+  },
+  "dogecoin": {
+    "eur": 0.284256,
+    "eur_market_cap": 36970776124.80027,
+    "eur_24h_vol": 3321412139.063651,
+    "last_updated_at": 1622075578
+  }
+},{
+  "_id": {
+    "$oid": "60aeea08fb0d6b6df0f1d77a"
+  },
+  "dogecoin": {
+    "eur": 0.281299,
+    "eur_market_cap": 36970776124.80027,
+    "eur_24h_vol": 3286822492.4087553,
+    "last_updated_at": 1622075795
+  }
+},{
+  "_id": {
+    "$oid": "60aeea43fb0d6b6df0f1d7e2"
+  },
+  "dogecoin": {
+    "eur": 0.281299,
+    "eur_market_cap": 36970776124.80027,
+    "eur_24h_vol": 3286822492.4087553,
+    "last_updated_at": 1622075795
+  }
+},{
+  "_id": {
+    "$oid": "60aeea80fb0d6b6df0f1d85f"
+  },
+  "dogecoin": {
+    "eur": 0.281719,
+    "eur_market_cap": 36556673564.18271,
+    "eur_24h_vol": 3294907901.242208,
+    "last_updated_at": 1622075942
+  }
+},{
+  "_id": {
+    "$oid": "60aeeabcfb0d6b6df0f1d8bd"
+  },
+  "dogecoin": {
+    "eur": 0.281719,
+    "eur_market_cap": 36556673564.18271,
+    "eur_24h_vol": 3294907901.242208,
+    "last_updated_at": 1622075942
+  }
+},{
+  "_id": {
+    "$oid": "60aeeaf8fb0d6b6df0f1d92b"
+  },
+  "dogecoin": {
+    "eur": 0.282099,
+    "eur_market_cap": 36556673564.18271,
+    "eur_24h_vol": 3295053377.892394,
+    "last_updated_at": 1622076139
+  }
+},{
+  "_id": {
+    "$oid": "60aeeb34fb0d6b6df0f1d99b"
+  },
+  "dogecoin": {
+    "eur": 0.282099,
+    "eur_market_cap": 36556673564.18271,
+    "eur_24h_vol": 3295053377.892394,
+    "last_updated_at": 1622076139
+  }
+},{
+  "_id": {
+    "$oid": "60aeeb71fb0d6b6df0f1d9f5"
+  },
+  "dogecoin": {
+    "eur": 0.282099,
+    "eur_market_cap": 36556673564.18271,
+    "eur_24h_vol": 3295053377.892394,
+    "last_updated_at": 1622076139
+  }
+},{
+  "_id": {
+    "$oid": "60aeebacfb0d6b6df0f1da44"
+  },
+  "dogecoin": {
+    "eur": 0.282099,
+    "eur_market_cap": 36556673564.18271,
+    "eur_24h_vol": 3295053377.892394,
+    "last_updated_at": 1622076139
+  }
+},{
+  "_id": {
+    "$oid": "60aeebe9fb0d6b6df0f1daa6"
+  },
+  "dogecoin": {
+    "eur": 0.281821,
+    "eur_market_cap": 36556673564.18271,
+    "eur_24h_vol": 3293922066.918806,
+    "last_updated_at": 1622076298
+  }
+},{
+  "_id": {
+    "$oid": "60aeec25fb0d6b6df0f1daf3"
+  },
+  "dogecoin": {
+    "eur": 0.281821,
+    "eur_market_cap": 36556673564.18271,
+    "eur_24h_vol": 3293922066.918806,
+    "last_updated_at": 1622076298
+  }
+},{
+  "_id": {
+    "$oid": "60aeec60fb0d6b6df0f1db45"
+  },
+  "dogecoin": {
+    "eur": 0.281856,
+    "eur_market_cap": 36556673564.18271,
+    "eur_24h_vol": 3294586648.604921,
+    "last_updated_at": 1622076461
+  }
+},{
+  "_id": {
+    "$oid": "60aeec9dfb0d6b6df0f1db93"
+  },
+  "dogecoin": {
+    "eur": 0.281856,
+    "eur_market_cap": 36556673564.18271,
+    "eur_24h_vol": 3294586648.604921,
+    "last_updated_at": 1622076461
+  }
+},{
+  "_id": {
+    "$oid": "60aeecd9fb0d6b6df0f1dbef"
+  },
+  "dogecoin": {
+    "eur": 0.281856,
+    "eur_market_cap": 36574324323.653076,
+    "eur_24h_vol": 3294586648.604921,
+    "last_updated_at": 1622076461
+  }
+},{
+  "_id": {
+    "$oid": "60aeed15fb0d6b6df0f1dc50"
+  },
+  "dogecoin": {
+    "eur": 0.281856,
+    "eur_market_cap": 36574324323.653076,
+    "eur_24h_vol": 3294586648.604921,
+    "last_updated_at": 1622076461
+  }
+},{
+  "_id": {
+    "$oid": "60aeed52fb0d6b6df0f1dcb1"
+  },
+  "dogecoin": {
+    "eur": 0.282206,
+    "eur_market_cap": 36574324323.653076,
+    "eur_24h_vol": 3298660071.7129393,
+    "last_updated_at": 1622076643
+  }
+},{
+  "_id": {
+    "$oid": "60aeed8dfb0d6b6df0f1dcf8"
+  },
+  "dogecoin": {
+    "eur": 0.282206,
+    "eur_market_cap": 36574324323.653076,
+    "eur_24h_vol": 3298660071.7129393,
+    "last_updated_at": 1622076643
+  }
+},{
+  "_id": {
+    "$oid": "60aeedcafb0d6b6df0f1dd38"
+  },
+  "dogecoin": {
+    "eur": 0.28345,
+    "eur_market_cap": 36574324323.653076,
+    "eur_24h_vol": 3208883009.6010523,
+    "last_updated_at": 1622076786
+  }
+},{
+  "_id": {
+    "$oid": "60aeee06fb0d6b6df0f1dd89"
+  },
+  "dogecoin": {
+    "eur": 0.28345,
+    "eur_market_cap": 36574324323.653076,
+    "eur_24h_vol": 3208883009.6010523,
+    "last_updated_at": 1622076786
+  }
+},{
+  "_id": {
+    "$oid": "60aeee42fb0d6b6df0f1ddcf"
+  },
+  "dogecoin": {
+    "eur": 0.284173,
+    "eur_market_cap": 36574324323.653076,
+    "eur_24h_vol": 3216861484.960187,
+    "last_updated_at": 1622076989
+  }
+},{
+  "_id": {
+    "$oid": "60aeee7efb0d6b6df0f1de11"
+  },
+  "dogecoin": {
+    "eur": 0.284173,
+    "eur_market_cap": 36574324323.653076,
+    "eur_24h_vol": 3216861484.960187,
+    "last_updated_at": 1622076989
+  }
+},{
+  "_id": {
+    "$oid": "60aeeebafb0d6b6df0f1de64"
+  },
+  "dogecoin": {
+    "eur": 0.284173,
+    "eur_market_cap": 36574324323.653076,
+    "eur_24h_vol": 3216861484.960187,
+    "last_updated_at": 1622076989
+  }
+},{
+  "_id": {
+    "$oid": "60aeeef7fb0d6b6df0f1de9c"
+  },
+  "dogecoin": {
+    "eur": 0.284173,
+    "eur_market_cap": 36574324323.653076,
+    "eur_24h_vol": 3216861484.960187,
+    "last_updated_at": 1622076989
+  }
+},{
+  "_id": {
+    "$oid": "60aeef33fb0d6b6df0f1df04"
+  },
+  "dogecoin": {
+    "eur": 0.283665,
+    "eur_market_cap": 36809116071.41941,
+    "eur_24h_vol": 3316544137.9958487,
+    "last_updated_at": 1622077119
+  }
+},{
+  "_id": {
+    "$oid": "60aeef70fb0d6b6df0f1df54"
+  },
+  "dogecoin": {
+    "eur": 0.283665,
+    "eur_market_cap": 36809116071.41941,
+    "eur_24h_vol": 3316544137.9958487,
+    "last_updated_at": 1622077119
+  }
+},{
+  "_id": {
+    "$oid": "60aeefabfb0d6b6df0f1dfa1"
+  },
+  "dogecoin": {
+    "eur": 0.283351,
+    "eur_market_cap": 36809116071.41941,
+    "eur_24h_vol": 3309156049.74884,
+    "last_updated_at": 1622077331
+  }
+},{
+  "_id": {
+    "$oid": "60aeefe7fb0d6b6df0f1dff7"
+  },
+  "dogecoin": {
+    "eur": 0.283351,
+    "eur_market_cap": 36809116071.41941,
+    "eur_24h_vol": 3309156049.74884,
+    "last_updated_at": 1622077331
+  }
+},{
+  "_id": {
+    "$oid": "60aef024fb0d6b6df0f1e04f"
+  },
+  "dogecoin": {
+    "eur": 0.283351,
+    "eur_market_cap": 36809116071.41941,
+    "eur_24h_vol": 3309156049.74884,
+    "last_updated_at": 1622077331
+  }
+},{
+  "_id": {
+    "$oid": "60aef060fb0d6b6df0f1e08c"
+  },
+  "dogecoin": {
+    "eur": 0.283351,
+    "eur_market_cap": 36809116071.41941,
+    "eur_24h_vol": 3309156049.74884,
+    "last_updated_at": 1622077331
+  }
+},{
+  "_id": {
+    "$oid": "60aef09bfb0d6b6df0f1e0d7"
+  },
+  "dogecoin": {
+    "eur": 0.283315,
+    "eur_market_cap": 36809116071.41941,
+    "eur_24h_vol": 3304610811.9369617,
+    "last_updated_at": 1622077587
+  }
+},{
+  "_id": {
+    "$oid": "60aef0d8fb0d6b6df0f1e134"
+  },
+  "dogecoin": {
+    "eur": 0.283315,
+    "eur_market_cap": 36809116071.41941,
+    "eur_24h_vol": 3304610811.9369617,
+    "last_updated_at": 1622077587
+  }
+},{
+  "_id": {
+    "$oid": "60aef114fb0d6b6df0f1e18c"
+  },
+  "dogecoin": {
+    "eur": 0.283315,
+    "eur_market_cap": 36809116071.41941,
+    "eur_24h_vol": 3304610811.9369617,
+    "last_updated_at": 1622077587
+  }
+},{
+  "_id": {
+    "$oid": "60aef150fb0d6b6df0f1e1d0"
+  },
+  "dogecoin": {
+    "eur": 0.283315,
+    "eur_market_cap": 36809116071.41941,
+    "eur_24h_vol": 3304610811.9369617,
+    "last_updated_at": 1622077587
+  }
+},{
+  "_id": {
+    "$oid": "60aef18cfb0d6b6df0f1e22a"
+  },
+  "dogecoin": {
+    "eur": 0.282786,
+    "eur_market_cap": 36695077553.29557,
+    "eur_24h_vol": 3300035766.469596,
+    "last_updated_at": 1622077781
+  }
+},{
+  "_id": {
+    "$oid": "60aef1c9fb0d6b6df0f1e287"
+  },
+  "dogecoin": {
+    "eur": 0.282786,
+    "eur_market_cap": 36695077553.29557,
+    "eur_24h_vol": 3300035766.469596,
+    "last_updated_at": 1622077781
+  }
+},{
+  "_id": {
+    "$oid": "60aef205fb0d6b6df0f1e2e8"
+  },
+  "dogecoin": {
+    "eur": 0.282786,
+    "eur_market_cap": 36695077553.29557,
+    "eur_24h_vol": 3300035766.469596,
+    "last_updated_at": 1622077781
+  }
+},{
+  "_id": {
+    "$oid": "60aef240fb0d6b6df0f1e346"
+  },
+  "dogecoin": {
+    "eur": 0.282786,
+    "eur_market_cap": 36695077553.29557,
+    "eur_24h_vol": 3300035766.469596,
+    "last_updated_at": 1622077781
+  }
+},{
+  "_id": {
+    "$oid": "60aef27dfb0d6b6df0f1e3a3"
+  },
+  "dogecoin": {
+    "eur": 0.282639,
+    "eur_market_cap": 36695077553.29557,
+    "eur_24h_vol": 3298677453.190206,
+    "last_updated_at": 1622077972
+  }
+},{
+  "_id": {
+    "$oid": "60aef2b9fb0d6b6df0f1e3f3"
+  },
+  "dogecoin": {
+    "eur": 0.282639,
+    "eur_market_cap": 36695077553.29557,
+    "eur_24h_vol": 3298677453.190206,
+    "last_updated_at": 1622077972
+  }
+},{
+  "_id": {
+    "$oid": "60aef2f4fb0d6b6df0f1e42e"
+  },
+  "dogecoin": {
+    "eur": 0.282692,
+    "eur_market_cap": 36695077553.29557,
+    "eur_24h_vol": 3300212434.369987,
+    "last_updated_at": 1622078140
+  }
+},{
+  "_id": {
+    "$oid": "60aef331fb0d6b6df0f1e47a"
+  },
+  "dogecoin": {
+    "eur": 0.282692,
+    "eur_market_cap": 36695077553.29557,
+    "eur_24h_vol": 3300212434.369987,
+    "last_updated_at": 1622078140
+  }
+},{
+  "_id": {
+    "$oid": "60aef36dfb0d6b6df0f1e4be"
+  },
+  "dogecoin": {
+    "eur": 0.281878,
+    "eur_market_cap": 36695077553.29557,
+    "eur_24h_vol": 3290734584.6658664,
+    "last_updated_at": 1622078288
+  }
+},{
+  "_id": {
+    "$oid": "60aef3a9fb0d6b6df0f1e507"
+  },
+  "dogecoin": {
+    "eur": 0.281878,
+    "eur_market_cap": 36695077553.29557,
+    "eur_24h_vol": 3290734584.6658664,
+    "last_updated_at": 1622078288
+  }
+},{
+  "_id": {
+    "$oid": "60aef3e6fb0d6b6df0f1e55d"
+  },
+  "dogecoin": {
+    "eur": 0.281314,
+    "eur_market_cap": 36577282597.76679,
+    "eur_24h_vol": 3284413142.323546,
+    "last_updated_at": 1622078417
+  }
+},{
+  "_id": {
+    "$oid": "60aef422fb0d6b6df0f1e599"
+  },
+  "dogecoin": {
+    "eur": 0.281314,
+    "eur_market_cap": 36577282597.76679,
+    "eur_24h_vol": 3284413142.323546,
+    "last_updated_at": 1622078417
+  }
+},{
+  "_id": {
+    "$oid": "60aef45efb0d6b6df0f1e5e0"
+  },
+  "dogecoin": {
+    "eur": 0.280826,
+    "eur_market_cap": 36577282597.76679,
+    "eur_24h_vol": 3278643624.804197,
+    "last_updated_at": 1622078544
+  }
+},{
+  "_id": {
+    "$oid": "60aef49afb0d6b6df0f1e621"
+  },
+  "dogecoin": {
+    "eur": 0.280826,
+    "eur_market_cap": 36577282597.76679,
+    "eur_24h_vol": 3278643624.804197,
+    "last_updated_at": 1622078544
+  }
+},{
+  "_id": {
+    "$oid": "60aef4d7fb0d6b6df0f1e678"
+  },
+  "dogecoin": {
+    "eur": 0.279577,
+    "eur_market_cap": 36577282597.76679,
+    "eur_24h_vol": 3269989568.643605,
+    "last_updated_at": 1622078676
+  }
+},{
+  "_id": {
+    "$oid": "60aef512fb0d6b6df0f1e6bf"
+  },
+  "dogecoin": {
+    "eur": 0.279577,
+    "eur_market_cap": 36577282597.76679,
+    "eur_24h_vol": 3269989568.643605,
+    "last_updated_at": 1622078676
+  }
+},{
+  "_id": {
+    "$oid": "60aef54ffb0d6b6df0f1e70e"
+  },
+  "dogecoin": {
+    "eur": 0.279577,
+    "eur_market_cap": 36577282597.76679,
+    "eur_24h_vol": 3269989568.643605,
+    "last_updated_at": 1622078676
+  }
+},{
+  "_id": {
+    "$oid": "60aef58bfb0d6b6df0f1e753"
+  },
+  "dogecoin": {
+    "eur": 0.279577,
+    "eur_market_cap": 36577282597.76679,
+    "eur_24h_vol": 3269989568.643605,
+    "last_updated_at": 1622078676
+  }
+},{
+  "_id": {
+    "$oid": "60aef5c6fb0d6b6df0f1e79d"
+  },
+  "dogecoin": {
+    "eur": 0.279023,
+    "eur_market_cap": 36577282597.76679,
+    "eur_24h_vol": 3270942188.0878577,
+    "last_updated_at": 1622078832
+  }
+},{
+  "_id": {
+    "$oid": "60aef603fb0d6b6df0f1e7eb"
+  },
+  "dogecoin": {
+    "eur": 0.279023,
+    "eur_market_cap": 36577282597.76679,
+    "eur_24h_vol": 3270942188.0878577,
+    "last_updated_at": 1622078832
+  }
+},{
+  "_id": {
+    "$oid": "60aef63ffb0d6b6df0f1e846"
+  },
+  "dogecoin": {
+    "eur": 0.278777,
+    "eur_market_cap": 36174875586.538925,
+    "eur_24h_vol": 3268124653.33887,
+    "last_updated_at": 1622078942
+  }
+},{
+  "_id": {
+    "$oid": "60aef67bfb0d6b6df0f1e88d"
+  },
+  "dogecoin": {
+    "eur": 0.278777,
+    "eur_market_cap": 36174875586.538925,
+    "eur_24h_vol": 3268124653.33887,
+    "last_updated_at": 1622078942
+  }
+},{
+  "_id": {
+    "$oid": "60aef6b7fb0d6b6df0f1e8d5"
+  },
+  "dogecoin": {
+    "eur": 0.277513,
+    "eur_market_cap": 36174875586.538925,
+    "eur_24h_vol": 3254562136.4882746,
+    "last_updated_at": 1622079117
+  }
+},{
+  "_id": {
+    "$oid": "60aef6f3fb0d6b6df0f1e920"
+  },
+  "dogecoin": {
+    "eur": 0.277513,
+    "eur_market_cap": 36174875586.538925,
+    "eur_24h_vol": 3254562136.4882746,
+    "last_updated_at": 1622079117
+  }
+},{
+  "_id": {
+    "$oid": "60aef730fb0d6b6df0f1e968"
+  },
+  "dogecoin": {
+    "eur": 0.277513,
+    "eur_market_cap": 36174875586.538925,
+    "eur_24h_vol": 3254562136.4882746,
+    "last_updated_at": 1622079117
+  }
+},{
+  "_id": {
+    "$oid": "60aef76bfb0d6b6df0f1e9c9"
+  },
+  "dogecoin": {
+    "eur": 0.277513,
+    "eur_market_cap": 36174875586.538925,
+    "eur_24h_vol": 3254562136.4882746,
+    "last_updated_at": 1622079117
+  }
+},{
+  "_id": {
+    "$oid": "60aef7a8fb0d6b6df0f1ea1d"
+  },
+  "dogecoin": {
+    "eur": 0.277968,
+    "eur_market_cap": 36174875586.538925,
+    "eur_24h_vol": 3264658465.111062,
+    "last_updated_at": 1622079341
+  }
+},{
+  "_id": {
+    "$oid": "60aef7e4fb0d6b6df0f1ea6a"
+  },
+  "dogecoin": {
+    "eur": 0.277968,
+    "eur_market_cap": 36174875586.538925,
+    "eur_24h_vol": 3264658465.111062,
+    "last_updated_at": 1622079341
+  }
+},{
+  "_id": {
+    "$oid": "60aef821fb0d6b6df0f1eaa9"
+  },
+  "dogecoin": {
+    "eur": 0.277968,
+    "eur_market_cap": 36174875586.538925,
+    "eur_24h_vol": 3264658465.111062,
+    "last_updated_at": 1622079341
+  }
+},{
+  "_id": {
+    "$oid": "60aef85cfb0d6b6df0f1eafc"
+  },
+  "dogecoin": {
+    "eur": 0.277968,
+    "eur_market_cap": 36174875586.538925,
+    "eur_24h_vol": 3264658465.111062,
+    "last_updated_at": 1622079341
+  }
+},{
+  "_id": {
+    "$oid": "60aef898fb0d6b6df0f1eb43"
+  },
+  "dogecoin": {
+    "eur": 0.278719,
+    "eur_market_cap": 36167266283.44397,
+    "eur_24h_vol": 3271211638.287089,
+    "last_updated_at": 1622079527
+  }
+},{
+  "_id": {
+    "$oid": "60aef8d5fb0d6b6df0f1eb89"
+  },
+  "dogecoin": {
+    "eur": 0.278719,
+    "eur_market_cap": 36167266283.44397,
+    "eur_24h_vol": 3271211638.287089,
+    "last_updated_at": 1622079527
+  }
+},{
+  "_id": {
+    "$oid": "60aef911fb0d6b6df0f1ebe5"
+  },
+  "dogecoin": {
+    "eur": 0.278764,
+    "eur_market_cap": 36167266283.44397,
+    "eur_24h_vol": 3271844604.059757,
+    "last_updated_at": 1622079725
+  }
+},{
+  "_id": {
+    "$oid": "60aef94cfb0d6b6df0f1ec21"
+  },
+  "dogecoin": {
+    "eur": 0.278764,
+    "eur_market_cap": 36167266283.44397,
+    "eur_24h_vol": 3271844604.059757,
+    "last_updated_at": 1622079725
+  }
+},{
+  "_id": {
+    "$oid": "60aef989fb0d6b6df0f1ec5c"
+  },
+  "dogecoin": {
+    "eur": 0.278764,
+    "eur_market_cap": 36167266283.44397,
+    "eur_24h_vol": 3271844604.059757,
+    "last_updated_at": 1622079725
+  }
+},{
+  "_id": {
+    "$oid": "60aef9c5fb0d6b6df0f1ec9f"
+  },
+  "dogecoin": {
+    "eur": 0.278764,
+    "eur_market_cap": 36167266283.44397,
+    "eur_24h_vol": 3271844604.059757,
+    "last_updated_at": 1622079725
+  }
+},{
+  "_id": {
+    "$oid": "60aefa02fb0d6b6df0f1ecea"
+  },
+  "dogecoin": {
+    "eur": 0.278587,
+    "eur_market_cap": 36167266283.44397,
+    "eur_24h_vol": 3268019322.4118524,
+    "last_updated_at": 1622079896
+  }
+},{
+  "_id": {
+    "$oid": "60aefa3efb0d6b6df0f1ed1e"
+  },
+  "dogecoin": {
+    "eur": 0.278587,
+    "eur_market_cap": 36167266283.44397,
+    "eur_24h_vol": 3268019322.4118524,
+    "last_updated_at": 1622079896
+  }
+},{
+  "_id": {
+    "$oid": "60aefa79fb0d6b6df0f1ed6a"
+  },
+  "dogecoin": {
+    "eur": 0.278643,
+    "eur_market_cap": 36167266283.44397,
+    "eur_24h_vol": 3269059559.8437867,
+    "last_updated_at": 1622080014
+  }
+},{
+  "_id": {
+    "$oid": "60aefab6fb0d6b6df0f1edb7"
+  },
+  "dogecoin": {
+    "eur": 0.278643,
+    "eur_market_cap": 36167266283.44397,
+    "eur_24h_vol": 3269059559.8437867,
+    "last_updated_at": 1622080014
+  }
+},{
+  "_id": {
+    "$oid": "60aefaf2fb0d6b6df0f1ee06"
+  },
+  "dogecoin": {
+    "eur": 0.279653,
+    "eur_market_cap": 36288543008.8547,
+    "eur_24h_vol": 3167371809.282068,
+    "last_updated_at": 1622080170
+  }
+},{
+  "_id": {
+    "$oid": "60aefb2dfb0d6b6df0f1ee4e"
+  },
+  "dogecoin": {
+    "eur": 0.279653,
+    "eur_market_cap": 36288543008.8547,
+    "eur_24h_vol": 3167371809.282068,
+    "last_updated_at": 1622080170
+  }
+},{
+  "_id": {
+    "$oid": "60aefb6bfb0d6b6df0f1ee8e"
+  },
+  "dogecoin": {
+    "eur": 0.278889,
+    "eur_market_cap": 36288543008.8547,
+    "eur_24h_vol": 3261452362.998148,
+    "last_updated_at": 1622080291
+  }
+},{
+  "_id": {
+    "$oid": "60aefba6fb0d6b6df0f1eecd"
+  },
+  "dogecoin": {
+    "eur": 0.278889,
+    "eur_market_cap": 36288543008.8547,
+    "eur_24h_vol": 3261452362.998148,
+    "last_updated_at": 1622080291
+  }
+},{
+  "_id": {
+    "$oid": "60aefbe3fb0d6b6df0f1ef13"
+  },
+  "dogecoin": {
+    "eur": 0.278691,
+    "eur_market_cap": 36288543008.8547,
+    "eur_24h_vol": 3264481092.1016927,
+    "last_updated_at": 1622080428
+  }
+},{
+  "_id": {
+    "$oid": "60aefc1efb0d6b6df0f1ef5c"
+  },
+  "dogecoin": {
+    "eur": 0.278691,
+    "eur_market_cap": 36288543008.8547,
+    "eur_24h_vol": 3264481092.1016927,
+    "last_updated_at": 1622080428
+  }
+},{
+  "_id": {
+    "$oid": "60aefc5afb0d6b6df0f1ef98"
+  },
+  "dogecoin": {
+    "eur": 0.278379,
+    "eur_market_cap": 36288543008.8547,
+    "eur_24h_vol": 3262075947.4446907,
+    "last_updated_at": 1622080549
+  }
+},{
+  "_id": {
+    "$oid": "60aefc97fb0d6b6df0f1efd8"
+  },
+  "dogecoin": {
+    "eur": 0.278462,
+    "eur_market_cap": 36288543008.8547,
+    "eur_24h_vol": 3263689937.0738344,
+    "last_updated_at": 1622080633
+  }
+},{
+  "_id": {
+    "$oid": "60aefcd3fb0d6b6df0f1f01b"
+  },
+  "dogecoin": {
+    "eur": 0.278462,
+    "eur_market_cap": 36288543008.8547,
+    "eur_24h_vol": 3263689937.0738344,
+    "last_updated_at": 1622080633
+  }
+},{
+  "_id": {
+    "$oid": "60aefd0ffb0d6b6df0f1f05d"
+  },
+  "dogecoin": {
+    "eur": 0.277787,
+    "eur_market_cap": 36288543008.8547,
+    "eur_24h_vol": 3266733735.936647,
+    "last_updated_at": 1622080749
+  }
+},{
+  "_id": {
+    "$oid": "60aefd4bfb0d6b6df0f1f0ac"
+  },
+  "dogecoin": {
+    "eur": 0.277787,
+    "eur_market_cap": 36288543008.8547,
+    "eur_24h_vol": 3266733735.936647,
+    "last_updated_at": 1622080749
+  }
+},{
+  "_id": {
+    "$oid": "60aefd88fb0d6b6df0f1f0f2"
+  },
+  "dogecoin": {
+    "eur": 0.277787,
+    "eur_market_cap": 36046427057.2274,
+    "eur_24h_vol": 3266733735.936647,
+    "last_updated_at": 1622080749
+  }
+},{
+  "_id": {
+    "$oid": "60aefdc3fb0d6b6df0f1f12f"
+  },
+  "dogecoin": {
+    "eur": 0.277787,
+    "eur_market_cap": 36046427057.2274,
+    "eur_24h_vol": 3266733735.936647,
+    "last_updated_at": 1622080749
+  }
+},{
+  "_id": {
+    "$oid": "60aefdfffb0d6b6df0f1f180"
+  },
+  "dogecoin": {
+    "eur": 0.275745,
+    "eur_market_cap": 36046427057.2274,
+    "eur_24h_vol": 3256131536.03,
+    "last_updated_at": 1622080919
+  }
+},{
+  "_id": {
+    "$oid": "60aefe3cfb0d6b6df0f1f1b8"
+  },
+  "dogecoin": {
+    "eur": 0.275745,
+    "eur_market_cap": 36046427057.2274,
+    "eur_24h_vol": 3256131536.03,
+    "last_updated_at": 1622080919
+  }
+},{
+  "_id": {
+    "$oid": "60aefe78fb0d6b6df0f1f1fc"
+  },
+  "dogecoin": {
+    "eur": 0.276105,
+    "eur_market_cap": 36046427057.2274,
+    "eur_24h_vol": 3254311047.3833866,
+    "last_updated_at": 1622081141
+  }
+},{
+  "_id": {
+    "$oid": "60aefeb3fb0d6b6df0f1f247"
+  },
+  "dogecoin": {
+    "eur": 0.276105,
+    "eur_market_cap": 36046427057.2274,
+    "eur_24h_vol": 3254311047.3833866,
+    "last_updated_at": 1622081141
+  }
+},{
+  "_id": {
+    "$oid": "60aefef0fb0d6b6df0f1f297"
+  },
+  "dogecoin": {
+    "eur": 0.276105,
+    "eur_market_cap": 36046427057.2274,
+    "eur_24h_vol": 3254311047.3833866,
+    "last_updated_at": 1622081141
+  }
+},{
+  "_id": {
+    "$oid": "60aeff2cfb0d6b6df0f1f2df"
+  },
+  "dogecoin": {
+    "eur": 0.276105,
+    "eur_market_cap": 36046427057.2274,
+    "eur_24h_vol": 3254311047.3833866,
+    "last_updated_at": 1622081141
+  }
+},{
+  "_id": {
+    "$oid": "60aeff69fb0d6b6df0f1f31f"
+  },
+  "dogecoin": {
+    "eur": 0.276619,
+    "eur_market_cap": 36046427057.2274,
+    "eur_24h_vol": 3255566139.2476683,
+    "last_updated_at": 1622081297
+  }
+},{
+  "_id": {
+    "$oid": "60aeffa4fb0d6b6df0f1f361"
+  },
+  "dogecoin": {
+    "eur": 0.276619,
+    "eur_market_cap": 36046427057.2274,
+    "eur_24h_vol": 3255566139.2476683,
+    "last_updated_at": 1622081297
+  }
+},{
+  "_id": {
+    "$oid": "60aeffe0fb0d6b6df0f1f3ac"
+  },
+  "dogecoin": {
+    "eur": 0.276737,
+    "eur_market_cap": 35894804461.724365,
+    "eur_24h_vol": 3274895457.7477627,
+    "last_updated_at": 1622081426
+  }
+},{
+  "_id": {
+    "$oid": "60af001dfb0d6b6df0f1f3f3"
+  },
+  "dogecoin": {
+    "eur": 0.276737,
+    "eur_market_cap": 35894804461.724365,
+    "eur_24h_vol": 3274895457.7477627,
+    "last_updated_at": 1622081426
+  }
+},{
+  "_id": {
+    "$oid": "60af0059fb0d6b6df0f1f439"
+  },
+  "dogecoin": {
+    "eur": 0.276761,
+    "eur_market_cap": 35894804461.724365,
+    "eur_24h_vol": 3276088565.1665835,
+    "last_updated_at": 1622081608
+  }
+},{
+  "_id": {
+    "$oid": "60af0095fb0d6b6df0f1f473"
+  },
+  "dogecoin": {
+    "eur": 0.276761,
+    "eur_market_cap": 35894804461.724365,
+    "eur_24h_vol": 3276088565.1665835,
+    "last_updated_at": 1622081608
+  }
+},{
+  "_id": {
+    "$oid": "60af00d1fb0d6b6df0f1f4b6"
+  },
+  "dogecoin": {
+    "eur": 0.276761,
+    "eur_market_cap": 35894804461.724365,
+    "eur_24h_vol": 3276088565.1665835,
+    "last_updated_at": 1622081608
+  }
+},{
+  "_id": {
+    "$oid": "60af010dfb0d6b6df0f1f4f2"
+  },
+  "dogecoin": {
+    "eur": 0.276761,
+    "eur_market_cap": 35894804461.724365,
+    "eur_24h_vol": 3276088565.1665835,
+    "last_updated_at": 1622081608
+  }
+},{
+  "_id": {
+    "$oid": "60af0149fb0d6b6df0f1f530"
+  },
+  "dogecoin": {
+    "eur": 0.277581,
+    "eur_market_cap": 35894804461.724365,
+    "eur_24h_vol": 3288170978.3098583,
+    "last_updated_at": 1622081754
+  }
+},{
+  "_id": {
+    "$oid": "60af0185fb0d6b6df0f1f570"
+  },
+  "dogecoin": {
+    "eur": 0.277581,
+    "eur_market_cap": 35894804461.724365,
+    "eur_24h_vol": 3288170978.3098583,
+    "last_updated_at": 1622081754
+  }
+},{
+  "_id": {
+    "$oid": "60af01c2fb0d6b6df0f1f5ae"
+  },
+  "dogecoin": {
+    "eur": 0.277564,
+    "eur_market_cap": 35894804461.724365,
+    "eur_24h_vol": 3287398087.943016,
+    "last_updated_at": 1622081903
+  }
+},{
+  "_id": {
+    "$oid": "60af01fefb0d6b6df0f1f5e1"
+  },
+  "dogecoin": {
+    "eur": 0.277564,
+    "eur_market_cap": 35894804461.724365,
+    "eur_24h_vol": 3287398087.943016,
+    "last_updated_at": 1622081903
+  }
+},{
+  "_id": {
+    "$oid": "60af0239fb0d6b6df0f1f61e"
+  },
+  "dogecoin": {
+    "eur": 0.278773,
+    "eur_market_cap": 36017479380.11177,
+    "eur_24h_vol": 3292890078.215053,
+    "last_updated_at": 1622082063
+  }
+},{
+  "_id": {
+    "$oid": "60af0276fb0d6b6df0f1f667"
+  },
+  "dogecoin": {
+    "eur": 0.278773,
+    "eur_market_cap": 36017479380.11177,
+    "eur_24h_vol": 3292890078.215053,
+    "last_updated_at": 1622082063
+  }
+},{
+  "_id": {
+    "$oid": "60af02b2fb0d6b6df0f1f6ac"
+  },
+  "dogecoin": {
+    "eur": 0.278773,
+    "eur_market_cap": 36017479380.11177,
+    "eur_24h_vol": 3292890078.215053,
+    "last_updated_at": 1622082063
+  }
+},{
+  "_id": {
+    "$oid": "60af02eefb0d6b6df0f1f6de"
+  },
+  "dogecoin": {
+    "eur": 0.278773,
+    "eur_market_cap": 36017479380.11177,
+    "eur_24h_vol": 3292890078.215053,
+    "last_updated_at": 1622082063
+  }
+},{
+  "_id": {
+    "$oid": "60af032afb0d6b6df0f1f71a"
+  },
+  "dogecoin": {
+    "eur": 0.278493,
+    "eur_market_cap": 36017479380.11177,
+    "eur_24h_vol": 3286495511.601688,
+    "last_updated_at": 1622082228
+  }
+},{
+  "_id": {
+    "$oid": "60af0366fb0d6b6df0f1f761"
+  },
+  "dogecoin": {
+    "eur": 0.278493,
+    "eur_market_cap": 36017479380.11177,
+    "eur_24h_vol": 3286495511.601688,
+    "last_updated_at": 1622082228
+  }
+},{
+  "_id": {
+    "$oid": "60af03a3fb0d6b6df0f1f79b"
+  },
+  "dogecoin": {
+    "eur": 0.2783,
+    "eur_market_cap": 36017479380.11177,
+    "eur_24h_vol": 3284163250.985237,
+    "last_updated_at": 1622082406
+  }
+},{
+  "_id": {
+    "$oid": "60af03defb0d6b6df0f1f7d8"
+  },
+  "dogecoin": {
+    "eur": 0.2783,
+    "eur_market_cap": 36017479380.11177,
+    "eur_24h_vol": 3284163250.985237,
+    "last_updated_at": 1622082406
+  }
+},{
+  "_id": {
+    "$oid": "60af041bfb0d6b6df0f1f812"
+  },
+  "dogecoin": {
+    "eur": 0.278251,
+    "eur_market_cap": 36017479380.11177,
+    "eur_24h_vol": 3281054989.3922977,
+    "last_updated_at": 1622082540
+  }
+},{
+  "_id": {
+    "$oid": "60af0457fb0d6b6df0f1f849"
+  },
+  "dogecoin": {
+    "eur": 0.278251,
+    "eur_market_cap": 36017479380.11177,
+    "eur_24h_vol": 3281054989.3922977,
+    "last_updated_at": 1622082540
+  }
+},{
+  "_id": {
+    "$oid": "60af0493fb0d6b6df0f1f889"
+  },
+  "dogecoin": {
+    "eur": 0.278251,
+    "eur_market_cap": 36106551203.336815,
+    "eur_24h_vol": 3281054989.3922977,
+    "last_updated_at": 1622082540
+  }
+},{
+  "_id": {
+    "$oid": "60af04cffb0d6b6df0f1f8c0"
+  },
+  "dogecoin": {
+    "eur": 0.278251,
+    "eur_market_cap": 36106551203.336815,
+    "eur_24h_vol": 3281054989.3922977,
+    "last_updated_at": 1622082540
+  }
+},{
+  "_id": {
+    "$oid": "60af050cfb0d6b6df0f1f900"
+  },
+  "dogecoin": {
+    "eur": 0.276214,
+    "eur_market_cap": 36106551203.336815,
+    "eur_24h_vol": 3241895122.3178797,
+    "last_updated_at": 1622082756
+  }
+},{
+  "_id": {
+    "$oid": "60af0548fb0d6b6df0f1f937"
+  },
+  "dogecoin": {
+    "eur": 0.276214,
+    "eur_market_cap": 36106551203.336815,
+    "eur_24h_vol": 3241895122.3178797,
+    "last_updated_at": 1622082756
+  }
+},{
+  "_id": {
+    "$oid": "60af0584fb0d6b6df0f1f984"
+  },
+  "dogecoin": {
+    "eur": 0.276214,
+    "eur_market_cap": 36106551203.336815,
+    "eur_24h_vol": 3241895122.3178797,
+    "last_updated_at": 1622082756
+  }
+},{
+  "_id": {
+    "$oid": "60af05c0fb0d6b6df0f1f9c1"
+  },
+  "dogecoin": {
+    "eur": 0.276214,
+    "eur_market_cap": 36106551203.336815,
+    "eur_24h_vol": 3241895122.3178797,
+    "last_updated_at": 1622082756
+  }
+},{
+  "_id": {
+    "$oid": "60af05fdfb0d6b6df0f1f9fc"
+  },
+  "dogecoin": {
+    "eur": 0.275759,
+    "eur_market_cap": 36106551203.336815,
+    "eur_24h_vol": 3238310709.1187544,
+    "last_updated_at": 1622082985
+  }
+},{
+  "_id": {
+    "$oid": "60af0638fb0d6b6df0f1fa30"
+  },
+  "dogecoin": {
+    "eur": 0.275759,
+    "eur_market_cap": 36106551203.336815,
+    "eur_24h_vol": 3238310709.1187544,
+    "last_updated_at": 1622082985
+  }
+},{
+  "_id": {
+    "$oid": "60af0675fb0d6b6df0f1fa73"
+  },
+  "dogecoin": {
+    "eur": 0.275851,
+    "eur_market_cap": 36106551203.336815,
+    "eur_24h_vol": 3238814269.985883,
+    "last_updated_at": 1622083161
+  }
+},{
+  "_id": {
+    "$oid": "60af06b1fb0d6b6df0f1fac6"
+  },
+  "dogecoin": {
+    "eur": 0.275851,
+    "eur_market_cap": 36106551203.336815,
+    "eur_24h_vol": 3238814269.985883,
+    "last_updated_at": 1622083161
+  }
+},{
+  "_id": {
+    "$oid": "60af06edfb0d6b6df0f1fb08"
+  },
+  "dogecoin": {
+    "eur": 0.275851,
+    "eur_market_cap": 35795161174.46236,
+    "eur_24h_vol": 3238814269.985883,
+    "last_updated_at": 1622083161
+  }
+},{
+  "_id": {
+    "$oid": "60af0729fb0d6b6df0f1fb4a"
+  },
+  "dogecoin": {
+    "eur": 0.275851,
+    "eur_market_cap": 35795161174.46236,
+    "eur_24h_vol": 3238814269.985883,
+    "last_updated_at": 1622083161
+  }
+},{
+  "_id": {
+    "$oid": "60af0765fb0d6b6df0f1fb8b"
+  },
+  "dogecoin": {
+    "eur": 0.275641,
+    "eur_market_cap": 35795161174.46236,
+    "eur_24h_vol": 3232380387.847549,
+    "last_updated_at": 1622083334
+  }
+},{
+  "_id": {
+    "$oid": "60af07a1fb0d6b6df0f1fbc2"
+  },
+  "dogecoin": {
+    "eur": 0.275641,
+    "eur_market_cap": 35795161174.46236,
+    "eur_24h_vol": 3232380387.847549,
+    "last_updated_at": 1622083334
+  }
+},{
+  "_id": {
+    "$oid": "60af07defb0d6b6df0f1fc02"
+  },
+  "dogecoin": {
+    "eur": 0.275612,
+    "eur_market_cap": 35795161174.46236,
+    "eur_24h_vol": 3233934720.0632615,
+    "last_updated_at": 1622083488
+  }
+},{
+  "_id": {
+    "$oid": "60af0819fb0d6b6df0f1fc33"
+  },
+  "dogecoin": {
+    "eur": 0.275612,
+    "eur_market_cap": 35795161174.46236,
+    "eur_24h_vol": 3233934720.0632615,
+    "last_updated_at": 1622083488
+  }
+},{
+  "_id": {
+    "$oid": "60af0856fb0d6b6df0f1fc61"
+  },
+  "dogecoin": {
+    "eur": 0.275474,
+    "eur_market_cap": 35795161174.46236,
+    "eur_24h_vol": 3228845601.4767227,
+    "last_updated_at": 1622083631
+  }
+},{
+  "_id": {
+    "$oid": "60af0892fb0d6b6df0f1fcb6"
+  },
+  "dogecoin": {
+    "eur": 0.275474,
+    "eur_market_cap": 35795161174.46236,
+    "eur_24h_vol": 3228845601.4767227,
+    "last_updated_at": 1622083631
+  }
+},{
+  "_id": {
+    "$oid": "60af08cdfb0d6b6df0f1fcf1"
+  },
+  "dogecoin": {
+    "eur": 0.275642,
+    "eur_market_cap": 35795161174.46236,
+    "eur_24h_vol": 3229414027.6269584,
+    "last_updated_at": 1622083778
+  }
+},{
+  "_id": {
+    "$oid": "60af090afb0d6b6df0f1fd2b"
+  },
+  "dogecoin": {
+    "eur": 0.275642,
+    "eur_market_cap": 35795161174.46236,
+    "eur_24h_vol": 3229414027.6269584,
+    "last_updated_at": 1622083778
+  }
+},{
+  "_id": {
+    "$oid": "60af0946fb0d6b6df0f1fd7b"
+  },
+  "dogecoin": {
+    "eur": 0.275654,
+    "eur_market_cap": 35768050301.4456,
+    "eur_24h_vol": 3228551221.5081234,
+    "last_updated_at": 1622083904
+  }
+},{
+  "_id": {
+    "$oid": "60af0982fb0d6b6df0f1fdc6"
+  },
+  "dogecoin": {
+    "eur": 0.275654,
+    "eur_market_cap": 35768050301.4456,
+    "eur_24h_vol": 3228551221.5081234,
+    "last_updated_at": 1622083904
+  }
+},{
+  "_id": {
+    "$oid": "60af09befb0d6b6df0f1fe05"
+  },
+  "dogecoin": {
+    "eur": 0.275654,
+    "eur_market_cap": 35768050301.4456,
+    "eur_24h_vol": 3228551221.5081234,
+    "last_updated_at": 1622083904
+  }
+},{
+  "_id": {
+    "$oid": "60af09fafb0d6b6df0f1fe56"
+  },
+  "dogecoin": {
+    "eur": 0.275654,
+    "eur_market_cap": 35768050301.4456,
+    "eur_24h_vol": 3228551221.5081234,
+    "last_updated_at": 1622083904
+  }
+},{
+  "_id": {
+    "$oid": "60af0a37fb0d6b6df0f1fea8"
+  },
+  "dogecoin": {
+    "eur": 0.275258,
+    "eur_market_cap": 35768050301.4456,
+    "eur_24h_vol": 3214519398.579955,
+    "last_updated_at": 1622084055
+  }
+},{
+  "_id": {
+    "$oid": "60af0a72fb0d6b6df0f1ff0b"
+  },
+  "dogecoin": {
+    "eur": 0.275258,
+    "eur_market_cap": 35768050301.4456,
+    "eur_24h_vol": 3214519398.579955,
+    "last_updated_at": 1622084055
+  }
+},{
+  "_id": {
+    "$oid": "60af0aaffb0d6b6df0f1ff58"
+  },
+  "dogecoin": {
+    "eur": 0.274738,
+    "eur_market_cap": 35768050301.4456,
+    "eur_24h_vol": 3208142468.3048134,
+    "last_updated_at": 1622084209
+  }
+},{
+  "_id": {
+    "$oid": "60af0aebfb0d6b6df0f1ffac"
+  },
+  "dogecoin": {
+    "eur": 0.274738,
+    "eur_market_cap": 35768050301.4456,
+    "eur_24h_vol": 3208142468.3048134,
+    "last_updated_at": 1622084209
+  }
+},{
+  "_id": {
+    "$oid": "60af0b26fb0d6b6df0f1ffef"
+  },
+  "dogecoin": {
+    "eur": 0.275228,
+    "eur_market_cap": 35768050301.4456,
+    "eur_24h_vol": 3213919998.646261,
+    "last_updated_at": 1622084321
+  }
+},{
+  "_id": {
+    "$oid": "60af0b63fb0d6b6df0f20045"
+  },
+  "dogecoin": {
+    "eur": 0.275228,
+    "eur_market_cap": 35768050301.4456,
+    "eur_24h_vol": 3213919998.646261,
+    "last_updated_at": 1622084321
+  }
+},{
+  "_id": {
+    "$oid": "60af0b9ffb0d6b6df0f20084"
+  },
+  "dogecoin": {
+    "eur": 0.275372,
+    "eur_market_cap": 35714337264.43801,
+    "eur_24h_vol": 3216225139.830555,
+    "last_updated_at": 1622084501
+  }
+},{
+  "_id": {
+    "$oid": "60af0bdbfb0d6b6df0f200c2"
+  },
+  "dogecoin": {
+    "eur": 0.275372,
+    "eur_market_cap": 35714337264.43801,
+    "eur_24h_vol": 3216225139.830555,
+    "last_updated_at": 1622084501
+  }
+},{
+  "_id": {
+    "$oid": "60af0c17fb0d6b6df0f20107"
+  },
+  "dogecoin": {
+    "eur": 0.275372,
+    "eur_market_cap": 35714337264.43801,
+    "eur_24h_vol": 3216225139.830555,
+    "last_updated_at": 1622084501
+  }
+},{
+  "_id": {
+    "$oid": "60af0c54fb0d6b6df0f2013a"
+  },
+  "dogecoin": {
+    "eur": 0.275372,
+    "eur_market_cap": 35714337264.43801,
+    "eur_24h_vol": 3216225139.830555,
+    "last_updated_at": 1622084501
+  }
+},{
+  "_id": {
+    "$oid": "60af0c90fb0d6b6df0f20179"
+  },
+  "dogecoin": {
+    "eur": 0.274491,
+    "eur_market_cap": 35714337264.43801,
+    "eur_24h_vol": 3201648091.4604106,
+    "last_updated_at": 1622084744
+  }
+},{
+  "_id": {
+    "$oid": "60af0cccfb0d6b6df0f201c2"
+  },
+  "dogecoin": {
+    "eur": 0.274491,
+    "eur_market_cap": 35714337264.43801,
+    "eur_24h_vol": 3201648091.4604106,
+    "last_updated_at": 1622084744
+  }
+},{
+  "_id": {
+    "$oid": "60af0d08fb0d6b6df0f20207"
+  },
+  "dogecoin": {
+    "eur": 0.274491,
+    "eur_market_cap": 35714337264.43801,
+    "eur_24h_vol": 3201648091.4604106,
+    "last_updated_at": 1622084744
+  }
+},{
+  "_id": {
+    "$oid": "60af0d44fb0d6b6df0f20250"
+  },
+  "dogecoin": {
+    "eur": 0.274491,
+    "eur_market_cap": 35714337264.43801,
+    "eur_24h_vol": 3201648091.4604106,
+    "last_updated_at": 1622084744
+  }
+},{
+  "_id": {
+    "$oid": "60af0d81fb0d6b6df0f202a7"
+  },
+  "dogecoin": {
+    "eur": 0.273086,
+    "eur_market_cap": 35714337264.43801,
+    "eur_24h_vol": 3195089773.9580245,
+    "last_updated_at": 1622084913
+  }
+},{
+  "_id": {
+    "$oid": "60af0dbdfb0d6b6df0f202d0"
+  },
+  "dogecoin": {
+    "eur": 0.273086,
+    "eur_market_cap": 35714337264.43801,
+    "eur_24h_vol": 3195089773.9580245,
+    "last_updated_at": 1622084913
+  }
+},{
+  "_id": {
+    "$oid": "60af0df8fb0d6b6df0f2031a"
+  },
+  "dogecoin": {
+    "eur": 0.272332,
+    "eur_market_cap": 35436392593.97926,
+    "eur_24h_vol": 3189647809.477741,
+    "last_updated_at": 1622085062
+  }
+},{
+  "_id": {
+    "$oid": "60af0e35fb0d6b6df0f20365"
+  },
+  "dogecoin": {
+    "eur": 0.272332,
+    "eur_market_cap": 35436392593.97926,
+    "eur_24h_vol": 3189647809.477741,
+    "last_updated_at": 1622085062
+  }
+},{
+  "_id": {
+    "$oid": "60af0e71fb0d6b6df0f203a0"
+  },
+  "dogecoin": {
+    "eur": 0.272138,
+    "eur_market_cap": 35436392593.97926,
+    "eur_24h_vol": 3180927527.7721696,
+    "last_updated_at": 1622085213
+  }
+},{
+  "_id": {
+    "$oid": "60af0eadfb0d6b6df0f203dc"
+  },
+  "dogecoin": {
+    "eur": 0.272138,
+    "eur_market_cap": 35436392593.97926,
+    "eur_24h_vol": 3180927527.7721696,
+    "last_updated_at": 1622085213
+  }
+},{
+  "_id": {
+    "$oid": "60af0eeafb0d6b6df0f20412"
+  },
+  "dogecoin": {
+    "eur": 0.272138,
+    "eur_market_cap": 35436392593.97926,
+    "eur_24h_vol": 3180927527.7721696,
+    "last_updated_at": 1622085213
+  }
+},{
+  "_id": {
+    "$oid": "60af0f26fb0d6b6df0f20444"
+  },
+  "dogecoin": {
+    "eur": 0.272138,
+    "eur_market_cap": 35436392593.97926,
+    "eur_24h_vol": 3180927527.7721696,
+    "last_updated_at": 1622085213
+  }
+},{
+  "_id": {
+    "$oid": "60af0f62fb0d6b6df0f2047b"
+  },
+  "dogecoin": {
+    "eur": 0.271577,
+    "eur_market_cap": 35436392593.97926,
+    "eur_24h_vol": 3201747403.934671,
+    "last_updated_at": 1622085385
+  }
+},{
+  "_id": {
+    "$oid": "60af0f9efb0d6b6df0f204aa"
+  },
+  "dogecoin": {
+    "eur": 0.271577,
+    "eur_market_cap": 35436392593.97926,
+    "eur_24h_vol": 3201747403.934671,
+    "last_updated_at": 1622085385
+  }
+},{
+  "_id": {
+    "$oid": "60af0fdbfb0d6b6df0f204cd"
+  },
+  "dogecoin": {
+    "eur": 0.271455,
+    "eur_market_cap": 35436392593.97926,
+    "eur_24h_vol": 3200701405.800686,
+    "last_updated_at": 1622085502
+  }
+},{
+  "_id": {
+    "$oid": "60af1016fb0d6b6df0f20508"
+  },
+  "dogecoin": {
+    "eur": 0.271455,
+    "eur_market_cap": 35436392593.97926,
+    "eur_24h_vol": 3200701405.800686,
+    "last_updated_at": 1622085502
+  }
+},{
+  "_id": {
+    "$oid": "60af1052fb0d6b6df0f20538"
+  },
+  "dogecoin": {
+    "eur": 0.270872,
+    "eur_market_cap": 35224681910.18179,
+    "eur_24h_vol": 3206794436.1294518,
+    "last_updated_at": 1622085624
+  }
+},{
+  "_id": {
+    "$oid": "60af108ffb0d6b6df0f20564"
+  },
+  "dogecoin": {
+    "eur": 0.270872,
+    "eur_market_cap": 35224681910.18179,
+    "eur_24h_vol": 3206794436.1294518,
+    "last_updated_at": 1622085624
+  }
+},{
+  "_id": {
+    "$oid": "60af10cbfb0d6b6df0f2058b"
+  },
+  "dogecoin": {
+    "eur": 0.271573,
+    "eur_market_cap": 35224681910.18179,
+    "eur_24h_vol": 3226396511.807354,
+    "last_updated_at": 1622085770
+  }
+},{
+  "_id": {
+    "$oid": "60af1108fb0d6b6df0f205bf"
+  },
+  "dogecoin": {
+    "eur": 0.271573,
+    "eur_market_cap": 35224681910.18179,
+    "eur_24h_vol": 3226396511.807354,
+    "last_updated_at": 1622085770
+  }
+},{
+  "_id": {
+    "$oid": "60af1144fb0d6b6df0f205ea"
+  },
+  "dogecoin": {
+    "eur": 0.271706,
+    "eur_market_cap": 35224681910.18179,
+    "eur_24h_vol": 3226753661.957976,
+    "last_updated_at": 1622085949
+  }
+},{
+  "_id": {
+    "$oid": "60af1180fb0d6b6df0f20618"
+  },
+  "dogecoin": {
+    "eur": 0.271706,
+    "eur_market_cap": 35224681910.18179,
+    "eur_24h_vol": 3226753661.957976,
+    "last_updated_at": 1622085949
+  }
+},{
+  "_id": {
+    "$oid": "60af11bcfb0d6b6df0f20657"
+  },
+  "dogecoin": {
+    "eur": 0.271706,
+    "eur_market_cap": 35224681910.18179,
+    "eur_24h_vol": 3226753661.957976,
+    "last_updated_at": 1622085949
+  }
+},{
+  "_id": {
+    "$oid": "60af11f8fb0d6b6df0f20697"
+  },
+  "dogecoin": {
+    "eur": 0.271706,
+    "eur_market_cap": 35224681910.18179,
+    "eur_24h_vol": 3226753661.957976,
+    "last_updated_at": 1622085949
+  }
+},{
+  "_id": {
+    "$oid": "60af1234fb0d6b6df0f206c2"
+  },
+  "dogecoin": {
+    "eur": 0.272209,
+    "eur_market_cap": 35224681910.18179,
+    "eur_24h_vol": 3237148029.0769396,
+    "last_updated_at": 1622086092
+  }
+},{
+  "_id": {
+    "$oid": "60af1270fb0d6b6df0f2070b"
+  },
+  "dogecoin": {
+    "eur": 0.272209,
+    "eur_market_cap": 35224681910.18179,
+    "eur_24h_vol": 3237148029.0769396,
+    "last_updated_at": 1622086092
+  }
+},{
+  "_id": {
+    "$oid": "60af12adfb0d6b6df0f2074d"
+  },
+  "dogecoin": {
+    "eur": 0.272299,
+    "eur_market_cap": 35322506730.39446,
+    "eur_24h_vol": 3215800261.5598917,
+    "last_updated_at": 1622086247
+  }
+},{
+  "_id": {
+    "$oid": "60af12e8fb0d6b6df0f2077a"
+  },
+  "dogecoin": {
+    "eur": 0.272299,
+    "eur_market_cap": 35322506730.39446,
+    "eur_24h_vol": 3215800261.5598917,
+    "last_updated_at": 1622086247
+  }
+},{
+  "_id": {
+    "$oid": "60af1325fb0d6b6df0f207b2"
+  },
+  "dogecoin": {
+    "eur": 0.272299,
+    "eur_market_cap": 35322506730.39446,
+    "eur_24h_vol": 3215800261.5598917,
+    "last_updated_at": 1622086247
+  }
+},{
+  "_id": {
+    "$oid": "60af1361fb0d6b6df0f207fb"
+  },
+  "dogecoin": {
+    "eur": 0.272299,
+    "eur_market_cap": 35322506730.39446,
+    "eur_24h_vol": 3215800261.5598917,
+    "last_updated_at": 1622086247
+  }
+},{
+  "_id": {
+    "$oid": "60af139dfb0d6b6df0f20848"
+  },
+  "dogecoin": {
+    "eur": 0.272728,
+    "eur_market_cap": 35322506730.39446,
+    "eur_24h_vol": 3223480846.8113294,
+    "last_updated_at": 1622086495
+  }
+},{
+  "_id": {
+    "$oid": "60af13d9fb0d6b6df0f20882"
+  },
+  "dogecoin": {
+    "eur": 0.272728,
+    "eur_market_cap": 35322506730.39446,
+    "eur_24h_vol": 3223480846.8113294,
+    "last_updated_at": 1622086495
+  }
+},{
+  "_id": {
+    "$oid": "60af1415fb0d6b6df0f208be"
+  },
+  "dogecoin": {
+    "eur": 0.272728,
+    "eur_market_cap": 35322506730.39446,
+    "eur_24h_vol": 3223480846.8113294,
+    "last_updated_at": 1622086495
+  }
+},{
+  "_id": {
+    "$oid": "60af1451fb0d6b6df0f208f2"
+  },
+  "dogecoin": {
+    "eur": 0.272728,
+    "eur_market_cap": 35322506730.39446,
+    "eur_24h_vol": 3223480846.8113294,
+    "last_updated_at": 1622086495
+  }
+},{
+  "_id": {
+    "$oid": "60af148dfb0d6b6df0f20927"
+  },
+  "dogecoin": {
+    "eur": 0.274402,
+    "eur_market_cap": 35322506730.39446,
+    "eur_24h_vol": 3255242090.034155,
+    "last_updated_at": 1622086793
+  }
+},{
+  "_id": {
+    "$oid": "60af14c9fb0d6b6df0f2095b"
+  },
+  "dogecoin": {
+    "eur": 0.274402,
+    "eur_market_cap": 35322506730.39446,
+    "eur_24h_vol": 3255242090.034155,
+    "last_updated_at": 1622086793
+  }
+},{
+  "_id": {
+    "$oid": "60af1506fb0d6b6df0f20999"
+  },
+  "dogecoin": {
+    "eur": 0.274402,
+    "eur_market_cap": 35607105729.972595,
+    "eur_24h_vol": 3255242090.034155,
+    "last_updated_at": 1622086793
+  }
+},{
+  "_id": {
+    "$oid": "60af1541fb0d6b6df0f209cd"
+  },
+  "dogecoin": {
+    "eur": 0.274402,
+    "eur_market_cap": 35607105729.972595,
+    "eur_24h_vol": 3255242090.034155,
+    "last_updated_at": 1622086793
+  }
+},{
+  "_id": {
+    "$oid": "60af157efb0d6b6df0f20a01"
+  },
+  "dogecoin": {
+    "eur": 0.27367,
+    "eur_market_cap": 35607105729.972595,
+    "eur_24h_vol": 3229821638.3180223,
+    "last_updated_at": 1622086919
+  }
+},{
+  "_id": {
+    "$oid": "60af15bafb0d6b6df0f20a3d"
+  },
+  "dogecoin": {
+    "eur": 0.27367,
+    "eur_market_cap": 35607105729.972595,
+    "eur_24h_vol": 3229821638.3180223,
+    "last_updated_at": 1622086919
+  }
+},{
+  "_id": {
+    "$oid": "60af15f6fb0d6b6df0f20a8d"
+  },
+  "dogecoin": {
+    "eur": 0.273416,
+    "eur_market_cap": 35607105729.972595,
+    "eur_24h_vol": 3226802990.0038624,
+    "last_updated_at": 1622087094
+  }
+},{
+  "_id": {
+    "$oid": "60af1632fb0d6b6df0f20acf"
+  },
+  "dogecoin": {
+    "eur": 0.273416,
+    "eur_market_cap": 35607105729.972595,
+    "eur_24h_vol": 3226802990.0038624,
+    "last_updated_at": 1622087094
+  }
+},{
+  "_id": {
+    "$oid": "60af166efb0d6b6df0f20aff"
+  },
+  "dogecoin": {
+    "eur": 0.273542,
+    "eur_market_cap": 35607105729.972595,
+    "eur_24h_vol": 3234237454.323014,
+    "last_updated_at": 1622087229
+  }
+},{
+  "_id": {
+    "$oid": "60af16abfb0d6b6df0f20b30"
+  },
+  "dogecoin": {
+    "eur": 0.273542,
+    "eur_market_cap": 35607105729.972595,
+    "eur_24h_vol": 3234237454.323014,
+    "last_updated_at": 1622087229
+  }
+},{
+  "_id": {
+    "$oid": "60af16e7fb0d6b6df0f20b68"
+  },
+  "dogecoin": {
+    "eur": 0.273656,
+    "eur_market_cap": 35607105729.972595,
+    "eur_24h_vol": 3235076034.6327467,
+    "last_updated_at": 1622087373
+  }
+},{
+  "_id": {
+    "$oid": "60af1723fb0d6b6df0f20b92"
+  },
+  "dogecoin": {
+    "eur": 0.273656,
+    "eur_market_cap": 35607105729.972595,
+    "eur_24h_vol": 3235076034.6327467,
+    "last_updated_at": 1622087373
+  }
+},{
+  "_id": {
+    "$oid": "60af175ffb0d6b6df0f20bc1"
+  },
+  "dogecoin": {
+    "eur": 0.273656,
+    "eur_market_cap": 35510359836.733635,
+    "eur_24h_vol": 3235076034.6327467,
+    "last_updated_at": 1622087373
+  }
+},{
+  "_id": {
+    "$oid": "60af179bfb0d6b6df0f20bf8"
+  },
+  "dogecoin": {
+    "eur": 0.273656,
+    "eur_market_cap": 35510359836.733635,
+    "eur_24h_vol": 3235076034.6327467,
+    "last_updated_at": 1622087373
+  }
+},{
+  "_id": {
+    "$oid": "60af17d8fb0d6b6df0f20c1c"
+  },
+  "dogecoin": {
+    "eur": 0.27376,
+    "eur_market_cap": 35510359836.733635,
+    "eur_24h_vol": 3235501180.753624,
+    "last_updated_at": 1622087522
+  }
+},{
+  "_id": {
+    "$oid": "60af1813fb0d6b6df0f20c50"
+  },
+  "dogecoin": {
+    "eur": 0.27376,
+    "eur_market_cap": 35510359836.733635,
+    "eur_24h_vol": 3235501180.753624,
+    "last_updated_at": 1622087522
+  }
+},{
+  "_id": {
+    "$oid": "60af184ffb0d6b6df0f20c92"
+  },
+  "dogecoin": {
+    "eur": 0.273597,
+    "eur_market_cap": 35510359836.733635,
+    "eur_24h_vol": 3220053546.370768,
+    "last_updated_at": 1622087641
+  }
+},{
+  "_id": {
+    "$oid": "60af188cfb0d6b6df0f20cce"
+  },
+  "dogecoin": {
+    "eur": 0.273597,
+    "eur_market_cap": 35510359836.733635,
+    "eur_24h_vol": 3220053546.370768,
+    "last_updated_at": 1622087641
+  }
+},{
+  "_id": {
+    "$oid": "60af18c8fb0d6b6df0f20d0f"
+  },
+  "dogecoin": {
+    "eur": 0.273227,
+    "eur_market_cap": 35510359836.733635,
+    "eur_24h_vol": 3229086645.1088815,
+    "last_updated_at": 1622087784
+  }
+},{
+  "_id": {
+    "$oid": "60af1904fb0d6b6df0f20d3d"
+  },
+  "dogecoin": {
+    "eur": 0.273227,
+    "eur_market_cap": 35510359836.733635,
+    "eur_24h_vol": 3229086645.1088815,
+    "last_updated_at": 1622087784
+  }
+},{
+  "_id": {
+    "$oid": "60af1945fb0d6b6df0f20d79"
+  },
+  "dogecoin": {
+    "eur": 0.273268,
+    "eur_market_cap": 35459957791.412155,
+    "eur_24h_vol": 3137801533.634873,
+    "last_updated_at": 1622087923
+  }
+},{
+  "_id": {
+    "$oid": "60af1981fb0d6b6df0f20db3"
+  },
+  "dogecoin": {
+    "eur": 0.273268,
+    "eur_market_cap": 35459957791.412155,
+    "eur_24h_vol": 3137801533.634873,
+    "last_updated_at": 1622087923
+  }
+},{
+  "_id": {
+    "$oid": "60af19bdfb0d6b6df0f20df1"
+  },
+  "dogecoin": {
+    "eur": 0.274124,
+    "eur_market_cap": 35459957791.412155,
+    "eur_24h_vol": 3159971143.1018524,
+    "last_updated_at": 1622088094
+  }
+},{
+  "_id": {
+    "$oid": "60af19f9fb0d6b6df0f20e2d"
+  },
+  "dogecoin": {
+    "eur": 0.274124,
+    "eur_market_cap": 35459957791.412155,
+    "eur_24h_vol": 3159971143.1018524,
+    "last_updated_at": 1622088094
+  }
+},{
+  "_id": {
+    "$oid": "60af1a37fb0d6b6df0f20e6b"
+  },
+  "dogecoin": {
+    "eur": 0.274124,
+    "eur_market_cap": 35459957791.412155,
+    "eur_24h_vol": 3159971143.1018524,
+    "last_updated_at": 1622088094
+  }
+},{
+  "_id": {
+    "$oid": "60af1a73fb0d6b6df0f20e9f"
+  },
+  "dogecoin": {
+    "eur": 0.274124,
+    "eur_market_cap": 35459957791.412155,
+    "eur_24h_vol": 3159971143.1018524,
+    "last_updated_at": 1622088094
+  }
+},{
+  "_id": {
+    "$oid": "60af1ab0fb0d6b6df0f20eeb"
+  },
+  "dogecoin": {
+    "eur": 0.273825,
+    "eur_market_cap": 35459957791.412155,
+    "eur_24h_vol": 3131987697.4866643,
+    "last_updated_at": 1622088309
+  }
+},{
+  "_id": {
+    "$oid": "60af1aecfb0d6b6df0f20f2d"
+  },
+  "dogecoin": {
+    "eur": 0.273825,
+    "eur_market_cap": 35459957791.412155,
+    "eur_24h_vol": 3131987697.4866643,
+    "last_updated_at": 1622088309
+  }
+},{
+  "_id": {
+    "$oid": "60af1b29fb0d6b6df0f20f7e"
+  },
+  "dogecoin": {
+    "eur": 0.273175,
+    "eur_market_cap": 35459957791.412155,
+    "eur_24h_vol": 3129739430.855538,
+    "last_updated_at": 1622088469
+  }
+},{
+  "_id": {
+    "$oid": "60af1b64fb0d6b6df0f20fc7"
+  },
+  "dogecoin": {
+    "eur": 0.273175,
+    "eur_market_cap": 35459957791.412155,
+    "eur_24h_vol": 3129739430.855538,
+    "last_updated_at": 1622088469
+  }
+},{
+  "_id": {
+    "$oid": "60af1ba2fb0d6b6df0f21001"
+  },
+  "dogecoin": {
+    "eur": 0.273175,
+    "eur_market_cap": 35447973206.34039,
+    "eur_24h_vol": 3129739430.855538,
+    "last_updated_at": 1622088469
+  }
+},{
+  "_id": {
+    "$oid": "60af1bdffb0d6b6df0f2104d"
+  },
+  "dogecoin": {
+    "eur": 0.273175,
+    "eur_market_cap": 35447973206.34039,
+    "eur_24h_vol": 3129739430.855538,
+    "last_updated_at": 1622088469
+  }
+},{
+  "_id": {
+    "$oid": "60af1c1bfb0d6b6df0f2108b"
+  },
+  "dogecoin": {
+    "eur": 0.273522,
+    "eur_market_cap": 35447973206.34039,
+    "eur_24h_vol": 3150787646.6998444,
+    "last_updated_at": 1622088656
+  }
+},{
+  "_id": {
+    "$oid": "60af1c58fb0d6b6df0f210b8"
+  },
+  "dogecoin": {
+    "eur": 0.273522,
+    "eur_market_cap": 35447973206.34039,
+    "eur_24h_vol": 3150787646.6998444,
+    "last_updated_at": 1622088656
+  }
+},{
+  "_id": {
+    "$oid": "60af1c93fb0d6b6df0f210ea"
+  },
+  "dogecoin": {
+    "eur": 0.273419,
+    "eur_market_cap": 35447973206.34039,
+    "eur_24h_vol": 3132737826.65732,
+    "last_updated_at": 1622088828
+  }
+},{
+  "_id": {
+    "$oid": "60af1ccffb0d6b6df0f21127"
+  },
+  "dogecoin": {
+    "eur": 0.273419,
+    "eur_market_cap": 35447973206.34039,
+    "eur_24h_vol": 3132737826.65732,
+    "last_updated_at": 1622088828
+  }
+},{
+  "_id": {
+    "$oid": "60af1d0cfb0d6b6df0f21166"
+  },
+  "dogecoin": {
+    "eur": 0.273419,
+    "eur_market_cap": 35447973206.34039,
+    "eur_24h_vol": 3132737826.65732,
+    "last_updated_at": 1622088828
+  }
+},{
+  "_id": {
+    "$oid": "60af1d48fb0d6b6df0f211af"
+  },
+  "dogecoin": {
+    "eur": 0.273419,
+    "eur_market_cap": 35447973206.34039,
+    "eur_24h_vol": 3132737826.65732,
+    "last_updated_at": 1622088828
+  }
+},{
+  "_id": {
+    "$oid": "60af1d85fb0d6b6df0f211e6"
+  },
+  "dogecoin": {
+    "eur": 0.273258,
+    "eur_market_cap": 35447973206.34039,
+    "eur_24h_vol": 3149038323.4744735,
+    "last_updated_at": 1622089001
+  }
+},{
+  "_id": {
+    "$oid": "60af1dc0fb0d6b6df0f21213"
+  },
+  "dogecoin": {
+    "eur": 0.273258,
+    "eur_market_cap": 35447973206.34039,
+    "eur_24h_vol": 3149038323.4744735,
+    "last_updated_at": 1622089001
+  }
+},{
+  "_id": {
+    "$oid": "60af1dfcfb0d6b6df0f21241"
+  },
+  "dogecoin": {
+    "eur": 0.273156,
+    "eur_market_cap": 35445411604.34946,
+    "eur_24h_vol": 3130344468.1510615,
+    "last_updated_at": 1622089168
+  }
+},{
+  "_id": {
+    "$oid": "60af1e39fb0d6b6df0f21279"
+  },
+  "dogecoin": {
+    "eur": 0.273156,
+    "eur_market_cap": 35445411604.34946,
+    "eur_24h_vol": 3130344468.1510615,
+    "last_updated_at": 1622089168
+  }
+},{
+  "_id": {
+    "$oid": "60af1e74fb0d6b6df0f212b6"
+  },
+  "dogecoin": {
+    "eur": 0.273087,
+    "eur_market_cap": 35445411604.34946,
+    "eur_24h_vol": 3126819524.84456,
+    "last_updated_at": 1622089316
+  }
+},{
+  "_id": {
+    "$oid": "60af1eb1fb0d6b6df0f212db"
+  },
+  "dogecoin": {
+    "eur": 0.273087,
+    "eur_market_cap": 35445411604.34946,
+    "eur_24h_vol": 3126819524.84456,
+    "last_updated_at": 1622089316
+  }
+},{
+  "_id": {
+    "$oid": "60af1eedfb0d6b6df0f2130b"
+  },
+  "dogecoin": {
+    "eur": 0.273494,
+    "eur_market_cap": 35445411604.34946,
+    "eur_24h_vol": 3117477588.5744557,
+    "last_updated_at": 1622089452
+  }
+},{
+  "_id": {
+    "$oid": "60af1f28fb0d6b6df0f2134b"
+  },
+  "dogecoin": {
+    "eur": 0.273494,
+    "eur_market_cap": 35445411604.34946,
+    "eur_24h_vol": 3117477588.5744557,
+    "last_updated_at": 1622089452
+  }
+},{
+  "_id": {
+    "$oid": "60af1f65fb0d6b6df0f21382"
+  },
+  "dogecoin": {
+    "eur": 0.273494,
+    "eur_market_cap": 35445411604.34946,
+    "eur_24h_vol": 3117477588.5744557,
+    "last_updated_at": 1622089452
+  }
+},{
+  "_id": {
+    "$oid": "60af1fa1fb0d6b6df0f213ae"
+  },
+  "dogecoin": {
+    "eur": 0.273494,
+    "eur_market_cap": 35445411604.34946,
+    "eur_24h_vol": 3117477588.5744557,
+    "last_updated_at": 1622089452
+  }
+},{
+  "_id": {
+    "$oid": "60af1fdefb0d6b6df0f213f4"
+  },
+  "dogecoin": {
+    "eur": 0.273615,
+    "eur_market_cap": 35445411604.34946,
+    "eur_24h_vol": 3118182007.8486567,
+    "last_updated_at": 1622089643
+  }
+},{
+  "_id": {
+    "$oid": "60af2019fb0d6b6df0f21439"
+  },
+  "dogecoin": {
+    "eur": 0.273615,
+    "eur_market_cap": 35445411604.34946,
+    "eur_24h_vol": 3118182007.8486567,
+    "last_updated_at": 1622089643
+  }
+},{
+  "_id": {
+    "$oid": "60af2058fb0d6b6df0f2147a"
+  },
+  "dogecoin": {
+    "eur": 0.273544,
+    "eur_market_cap": 35495753271.31936,
+    "eur_24h_vol": 3116727368.688355,
+    "last_updated_at": 1622089796
+  }
+},{
+  "_id": {
+    "$oid": "60af2094fb0d6b6df0f214b3"
+  },
+  "dogecoin": {
+    "eur": 0.273544,
+    "eur_market_cap": 35495753271.31936,
+    "eur_24h_vol": 3116727368.688355,
+    "last_updated_at": 1622089796
+  }
+},{
+  "_id": {
+    "$oid": "60af20d0fb0d6b6df0f214f8"
+  },
+  "dogecoin": {
+    "eur": 0.273544,
+    "eur_market_cap": 35495753271.31936,
+    "eur_24h_vol": 3116727368.688355,
+    "last_updated_at": 1622089796
+  }
+},{
+  "_id": {
+    "$oid": "60af210cfb0d6b6df0f21531"
+  },
+  "dogecoin": {
+    "eur": 0.273544,
+    "eur_market_cap": 35495753271.31936,
+    "eur_24h_vol": 3116727368.688355,
+    "last_updated_at": 1622089796
+  }
+},{
+  "_id": {
+    "$oid": "60af2149fb0d6b6df0f2157d"
+  },
+  "dogecoin": {
+    "eur": 0.273572,
+    "eur_market_cap": 35495753271.31936,
+    "eur_24h_vol": 3117639315.889019,
+    "last_updated_at": 1622090002
+  }
+},{
+  "_id": {
+    "$oid": "60af2184fb0d6b6df0f215ae"
+  },
+  "dogecoin": {
+    "eur": 0.273572,
+    "eur_market_cap": 35495753271.31936,
+    "eur_24h_vol": 3117639315.889019,
+    "last_updated_at": 1622090002
+  }
+},{
+  "_id": {
+    "$oid": "60af21c1fb0d6b6df0f215e0"
+  },
+  "dogecoin": {
+    "eur": 0.273478,
+    "eur_market_cap": 35495753271.31936,
+    "eur_24h_vol": 3111297660.7161875,
+    "last_updated_at": 1622090166
+  }
+},{
+  "_id": {
+    "$oid": "60af21fdfb0d6b6df0f21611"
+  },
+  "dogecoin": {
+    "eur": 0.273478,
+    "eur_market_cap": 35495753271.31936,
+    "eur_24h_vol": 3111297660.7161875,
+    "last_updated_at": 1622090166
+  }
+},{
+  "_id": {
+    "$oid": "60af223afb0d6b6df0f21646"
+  },
+  "dogecoin": {
+    "eur": 0.27332,
+    "eur_market_cap": 35495753271.31936,
+    "eur_24h_vol": 3112255186.8311434,
+    "last_updated_at": 1622090290
+  }
+},{
+  "_id": {
+    "$oid": "60af2275fb0d6b6df0f21671"
+  },
+  "dogecoin": {
+    "eur": 0.27332,
+    "eur_market_cap": 35495753271.31936,
+    "eur_24h_vol": 3112255186.8311434,
+    "last_updated_at": 1622090290
+  }
+},{
+  "_id": {
+    "$oid": "60af22b1fb0d6b6df0f216cc"
+  },
+  "dogecoin": {
+    "eur": 0.273113,
+    "eur_market_cap": 35466735741.546104,
+    "eur_24h_vol": 3123996899.0468545,
+    "last_updated_at": 1622090414
+  }
+},{
+  "_id": {
+    "$oid": "60af22eefb0d6b6df0f2171c"
+  },
+  "dogecoin": {
+    "eur": 0.273113,
+    "eur_market_cap": 35466735741.546104,
+    "eur_24h_vol": 3123996899.0468545,
+    "last_updated_at": 1622090414
+  }
+},{
+  "_id": {
+    "$oid": "60af2329fb0d6b6df0f2175f"
+  },
+  "dogecoin": {
+    "eur": 0.273113,
+    "eur_market_cap": 35466735741.546104,
+    "eur_24h_vol": 3123996899.0468545,
+    "last_updated_at": 1622090414
+  }
+},{
+  "_id": {
+    "$oid": "60af2366fb0d6b6df0f217bb"
+  },
+  "dogecoin": {
+    "eur": 0.273113,
+    "eur_market_cap": 35466735741.546104,
+    "eur_24h_vol": 3123996899.0468545,
+    "last_updated_at": 1622090414
+  }
+},{
+  "_id": {
+    "$oid": "60af23a2fb0d6b6df0f217fd"
+  },
+  "dogecoin": {
+    "eur": 0.272625,
+    "eur_market_cap": 35466735741.546104,
+    "eur_24h_vol": 3153496087.5865407,
+    "last_updated_at": 1622090590
+  }
+},{
+  "_id": {
+    "$oid": "60af23defb0d6b6df0f21847"
+  },
+  "dogecoin": {
+    "eur": 0.272625,
+    "eur_market_cap": 35466735741.546104,
+    "eur_24h_vol": 3153496087.5865407,
+    "last_updated_at": 1622090590
+  }
+},{
+  "_id": {
+    "$oid": "60af241afb0d6b6df0f2188e"
+  },
+  "dogecoin": {
+    "eur": 0.272625,
+    "eur_market_cap": 35466735741.546104,
+    "eur_24h_vol": 3153496087.5865407,
+    "last_updated_at": 1622090590
+  }
+},{
+  "_id": {
+    "$oid": "60af2456fb0d6b6df0f218da"
+  },
+  "dogecoin": {
+    "eur": 0.272625,
+    "eur_market_cap": 35466735741.546104,
+    "eur_24h_vol": 3153496087.5865407,
+    "last_updated_at": 1622090590
+  }
+},{
+  "_id": {
+    "$oid": "60af2493fb0d6b6df0f21929"
+  },
+  "dogecoin": {
+    "eur": 0.273169,
+    "eur_market_cap": 35466735741.546104,
+    "eur_24h_vol": 3120927002.5942945,
+    "last_updated_at": 1622090780
+  }
+},{
+  "_id": {
+    "$oid": "60af24cffb0d6b6df0f2197b"
+  },
+  "dogecoin": {
+    "eur": 0.273169,
+    "eur_market_cap": 35466735741.546104,
+    "eur_24h_vol": 3120927002.5942945,
+    "last_updated_at": 1622090780
+  }
+},{
+  "_id": {
+    "$oid": "60af250afb0d6b6df0f219bb"
+  },
+  "dogecoin": {
+    "eur": 0.27335,
+    "eur_market_cap": 35470667193.31286,
+    "eur_24h_vol": 3134722232.7370896,
+    "last_updated_at": 1622090931
+  }
+},{
+  "_id": {
+    "$oid": "60af2547fb0d6b6df0f219f6"
+  },
+  "dogecoin": {
+    "eur": 0.27335,
+    "eur_market_cap": 35470667193.31286,
+    "eur_24h_vol": 3134722232.7370896,
+    "last_updated_at": 1622090931
+  }
+},{
+  "_id": {
+    "$oid": "60af2583fb0d6b6df0f21a37"
+  },
+  "dogecoin": {
+    "eur": 0.27335,
+    "eur_market_cap": 35470667193.31286,
+    "eur_24h_vol": 3134722232.7370896,
+    "last_updated_at": 1622090931
+  }
+},{
+  "_id": {
+    "$oid": "60af25bffb0d6b6df0f21a82"
+  },
+  "dogecoin": {
+    "eur": 0.273409,
+    "eur_market_cap": 35470667193.31286,
+    "eur_24h_vol": 3135958440.305035,
+    "last_updated_at": 1622091189
+  }
+},{
+  "_id": {
+    "$oid": "60af25fbfb0d6b6df0f21abd"
+  },
+  "dogecoin": {
+    "eur": 0.273409,
+    "eur_market_cap": 35470667193.31286,
+    "eur_24h_vol": 3135958440.305035,
+    "last_updated_at": 1622091189
+  }
+},{
+  "_id": {
+    "$oid": "60af2637fb0d6b6df0f21afa"
+  },
+  "dogecoin": {
+    "eur": 0.273409,
+    "eur_market_cap": 35470667193.31286,
+    "eur_24h_vol": 3135958440.305035,
+    "last_updated_at": 1622091189
+  }
+},{
+  "_id": {
+    "$oid": "60af2673fb0d6b6df0f21b39"
+  },
+  "dogecoin": {
+    "eur": 0.273409,
+    "eur_market_cap": 35470667193.31286,
+    "eur_24h_vol": 3135958440.305035,
+    "last_updated_at": 1622091189
+  }
+},{
+  "_id": {
+    "$oid": "60af26affb0d6b6df0f21b89"
+  },
+  "dogecoin": {
+    "eur": 0.273283,
+    "eur_market_cap": 35470667193.31286,
+    "eur_24h_vol": 3135734817.2566414,
+    "last_updated_at": 1622091354
+  }
+},{
+  "_id": {
+    "$oid": "60af26ecfb0d6b6df0f21bd8"
+  },
+  "dogecoin": {
+    "eur": 0.273283,
+    "eur_market_cap": 35470667193.31286,
+    "eur_24h_vol": 3135734817.2566414,
+    "last_updated_at": 1622091354
+  }
+},{
+  "_id": {
+    "$oid": "60af2728fb0d6b6df0f21c1a"
+  },
+  "dogecoin": {
+    "eur": 0.273389,
+    "eur_market_cap": 35470667193.31286,
+    "eur_24h_vol": 3126435289.650358,
+    "last_updated_at": 1622091552
+  }
+},{
+  "_id": {
+    "$oid": "60af2763fb0d6b6df0f21c59"
+  },
+  "dogecoin": {
+    "eur": 0.273389,
+    "eur_market_cap": 35470667193.31286,
+    "eur_24h_vol": 3126435289.650358,
+    "last_updated_at": 1622091552
+  }
+},{
+  "_id": {
+    "$oid": "60af27a0fb0d6b6df0f21ca1"
+  },
+  "dogecoin": {
+    "eur": 0.27356,
+    "eur_market_cap": 35475720328.597824,
+    "eur_24h_vol": 3128312740.2186494,
+    "last_updated_at": 1622091658
+  }
+},{
+  "_id": {
+    "$oid": "60af27dcfb0d6b6df0f21ce0"
+  },
+  "dogecoin": {
+    "eur": 0.27356,
+    "eur_market_cap": 35475720328.597824,
+    "eur_24h_vol": 3128312740.2186494,
+    "last_updated_at": 1622091658
+  }
+},{
+  "_id": {
+    "$oid": "60af2819fb0d6b6df0f21d21"
+  },
+  "dogecoin": {
+    "eur": 0.27356,
+    "eur_market_cap": 35475720328.597824,
+    "eur_24h_vol": 3128312740.2186494,
+    "last_updated_at": 1622091658
+  }
+},{
+  "_id": {
+    "$oid": "60af2854fb0d6b6df0f21d69"
+  },
+  "dogecoin": {
+    "eur": 0.27356,
+    "eur_market_cap": 35475720328.597824,
+    "eur_24h_vol": 3128312740.2186494,
+    "last_updated_at": 1622091658
+  }
+},{
+  "_id": {
+    "$oid": "60af2890fb0d6b6df0f21dc6"
+  },
+  "dogecoin": {
+    "eur": 0.273659,
+    "eur_market_cap": 35475720328.597824,
+    "eur_24h_vol": 3138867887.9087706,
+    "last_updated_at": 1622091862
+  }
+},{
+  "_id": {
+    "$oid": "60af28ccfb0d6b6df0f21e01"
+  },
+  "dogecoin": {
+    "eur": 0.273659,
+    "eur_market_cap": 35475720328.597824,
+    "eur_24h_vol": 3138867887.9087706,
+    "last_updated_at": 1622091862
+  }
+},{
+  "_id": {
+    "$oid": "60af2908fb0d6b6df0f21e3e"
+  },
+  "dogecoin": {
+    "eur": 0.273582,
+    "eur_market_cap": 35475720328.597824,
+    "eur_24h_vol": 3131456166.6656013,
+    "last_updated_at": 1622091997
+  }
+},{
+  "_id": {
+    "$oid": "60af2945fb0d6b6df0f21e80"
+  },
+  "dogecoin": {
+    "eur": 0.273582,
+    "eur_market_cap": 35475720328.597824,
+    "eur_24h_vol": 3131456166.6656013,
+    "last_updated_at": 1622091997
+  }
+},{
+  "_id": {
+    "$oid": "60af2981fb0d6b6df0f21ebc"
+  },
+  "dogecoin": {
+    "eur": 0.273609,
+    "eur_market_cap": 35475720328.597824,
+    "eur_24h_vol": 3121919925.3012133,
+    "last_updated_at": 1622092119
+  }
+},{
+  "_id": {
+    "$oid": "60af29bcfb0d6b6df0f21f09"
+  },
+  "dogecoin": {
+    "eur": 0.273609,
+    "eur_market_cap": 35475720328.597824,
+    "eur_24h_vol": 3121919925.3012133,
+    "last_updated_at": 1622092119
+  }
+},{
+  "_id": {
+    "$oid": "60af29f9fb0d6b6df0f21f4e"
+  },
+  "dogecoin": {
+    "eur": 0.273609,
+    "eur_market_cap": 35475720328.597824,
+    "eur_24h_vol": 3121919925.3012133,
+    "last_updated_at": 1622092119
+  }
+},{
+  "_id": {
+    "$oid": "60af2a36fb0d6b6df0f21f8f"
+  },
+  "dogecoin": {
+    "eur": 0.273657,
+    "eur_market_cap": 35475720328.597824,
+    "eur_24h_vol": 3132031151.787248,
+    "last_updated_at": 1622092290
+  }
+},{
+  "_id": {
+    "$oid": "60af2a72fb0d6b6df0f21fb7"
+  },
+  "dogecoin": {
+    "eur": 0.273657,
+    "eur_market_cap": 35475720328.597824,
+    "eur_24h_vol": 3132031151.787248,
+    "last_updated_at": 1622092290
+  }
+},{
+  "_id": {
+    "$oid": "60af2aaefb0d6b6df0f21fdd"
+  },
+  "dogecoin": {
+    "eur": 0.273616,
+    "eur_market_cap": 35505193777.7638,
+    "eur_24h_vol": 3126279236.6508274,
+    "last_updated_at": 1622092431
+  }
+},{
+  "_id": {
+    "$oid": "60af2aebfb0d6b6df0f22016"
+  },
+  "dogecoin": {
+    "eur": 0.273616,
+    "eur_market_cap": 35505193777.7638,
+    "eur_24h_vol": 3126279236.6508274,
+    "last_updated_at": 1622092431
+  }
+},{
+  "_id": {
+    "$oid": "60af2b27fb0d6b6df0f22042"
+  },
+  "dogecoin": {
+    "eur": 0.273616,
+    "eur_market_cap": 35505193777.7638,
+    "eur_24h_vol": 3126279236.6508274,
+    "last_updated_at": 1622092431
+  }
+},{
+  "_id": {
+    "$oid": "60af2b62fb0d6b6df0f22078"
+  },
+  "dogecoin": {
+    "eur": 0.273616,
+    "eur_market_cap": 35505193777.7638,
+    "eur_24h_vol": 3126279236.6508274,
+    "last_updated_at": 1622092431
+  }
+},{
+  "_id": {
+    "$oid": "60af2b9ffb0d6b6df0f220d2"
+  },
+  "dogecoin": {
+    "eur": 0.272989,
+    "eur_market_cap": 35505193777.7638,
+    "eur_24h_vol": 3130814462.6963344,
+    "last_updated_at": 1622092584
+  }
+},{
+  "_id": {
+    "$oid": "60af2bdbfb0d6b6df0f22110"
+  },
+  "dogecoin": {
+    "eur": 0.272989,
+    "eur_market_cap": 35505193777.7638,
+    "eur_24h_vol": 3130814462.6963344,
+    "last_updated_at": 1622092584
+  }
+},{
+  "_id": {
+    "$oid": "60af2c1afb0d6b6df0f22142"
+  },
+  "dogecoin": {
+    "eur": 0.273006,
+    "eur_market_cap": 35425938331.84767,
+    "eur_24h_vol": 3131103835.9237785,
+    "last_updated_at": 1622092705
+  }
+},{
+  "_id": {
+    "$oid": "60af2c56fb0d6b6df0f22184"
+  },
+  "dogecoin": {
+    "eur": 0.273006,
+    "eur_market_cap": 35425938331.84767,
+    "eur_24h_vol": 3131103835.9237785,
+    "last_updated_at": 1622092705
+  }
+},{
+  "_id": {
+    "$oid": "60af2c92fb0d6b6df0f221ba"
+  },
+  "dogecoin": {
+    "eur": 0.27283,
+    "eur_market_cap": 35425938331.84767,
+    "eur_24h_vol": 3128145147.770426,
+    "last_updated_at": 1622092841
+  }
+},{
+  "_id": {
+    "$oid": "60af2ccefb0d6b6df0f221f1"
+  },
+  "dogecoin": {
+    "eur": 0.27283,
+    "eur_market_cap": 35425938331.84767,
+    "eur_24h_vol": 3128145147.770426,
+    "last_updated_at": 1622092841
+  }
+},{
+  "_id": {
+    "$oid": "60af2d0afb0d6b6df0f22230"
+  },
+  "dogecoin": {
+    "eur": 0.273161,
+    "eur_market_cap": 35425938331.84767,
+    "eur_24h_vol": 3132622789.1888914,
+    "last_updated_at": 1622093021
+  }
+},{
+  "_id": {
+    "$oid": "60af2d46fb0d6b6df0f2226b"
+  },
+  "dogecoin": {
+    "eur": 0.273161,
+    "eur_market_cap": 35425938331.84767,
+    "eur_24h_vol": 3132622789.1888914,
+    "last_updated_at": 1622093021
+  }
+},{
+  "_id": {
+    "$oid": "60af2d82fb0d6b6df0f222a5"
+  },
+  "dogecoin": {
+    "eur": 0.273413,
+    "eur_market_cap": 35425938331.84767,
+    "eur_24h_vol": 3135358295.1178493,
+    "last_updated_at": 1622093183
+  }
+},{
+  "_id": {
+    "$oid": "60af2dbffb0d6b6df0f222e7"
+  },
+  "dogecoin": {
+    "eur": 0.273413,
+    "eur_market_cap": 35425938331.84767,
+    "eur_24h_vol": 3135358295.1178493,
+    "last_updated_at": 1622093183
+  }
+},{
+  "_id": {
+    "$oid": "60af2dfbfb0d6b6df0f22320"
+  },
+  "dogecoin": {
+    "eur": 0.273413,
+    "eur_market_cap": 35425938331.84767,
+    "eur_24h_vol": 3135358295.1178493,
+    "last_updated_at": 1622093183
+  }
+},{
+  "_id": {
+    "$oid": "60af2e37fb0d6b6df0f2234e"
+  },
+  "dogecoin": {
+    "eur": 0.273223,
+    "eur_market_cap": 35425938331.84767,
+    "eur_24h_vol": 3131804169.0469227,
+    "last_updated_at": 1622093329
+  }
+},{
+  "_id": {
+    "$oid": "60af2e73fb0d6b6df0f22382"
+  },
+  "dogecoin": {
+    "eur": 0.273223,
+    "eur_market_cap": 35425938331.84767,
+    "eur_24h_vol": 3131804169.0469227,
+    "last_updated_at": 1622093329
+  }
+},{
+  "_id": {
+    "$oid": "60af2eaffb0d6b6df0f223c5"
+  },
+  "dogecoin": {
+    "eur": 0.273223,
+    "eur_market_cap": 35454172467.51488,
+    "eur_24h_vol": 3131804169.0469227,
+    "last_updated_at": 1622093329
+  }
+},{
+  "_id": {
+    "$oid": "60af2eecfb0d6b6df0f22400"
+  },
+  "dogecoin": {
+    "eur": 0.273223,
+    "eur_market_cap": 35454172467.51488,
+    "eur_24h_vol": 3131804169.0469227,
+    "last_updated_at": 1622093329
+  }
+},{
+  "_id": {
+    "$oid": "60af2f28fb0d6b6df0f22431"
+  },
+  "dogecoin": {
+    "eur": 0.273125,
+    "eur_market_cap": 35454172467.51488,
+    "eur_24h_vol": 3129301552.0150714,
+    "last_updated_at": 1622093489
+  }
+},{
+  "_id": {
+    "$oid": "60af2f63fb0d6b6df0f2246c"
+  },
+  "dogecoin": {
+    "eur": 0.273125,
+    "eur_market_cap": 35454172467.51488,
+    "eur_24h_vol": 3129301552.0150714,
+    "last_updated_at": 1622093489
+  }
+},{
+  "_id": {
+    "$oid": "60af2fa0fb0d6b6df0f224a0"
+  },
+  "dogecoin": {
+    "eur": 0.27357,
+    "eur_market_cap": 35454172467.51488,
+    "eur_24h_vol": 3129477831.2264466,
+    "last_updated_at": 1622093703
+  }
+},{
+  "_id": {
+    "$oid": "60af2fdcfb0d6b6df0f224de"
+  },
+  "dogecoin": {
+    "eur": 0.27357,
+    "eur_market_cap": 35454172467.51488,
+    "eur_24h_vol": 3129477831.2264466,
+    "last_updated_at": 1622093703
+  }
+},{
+  "_id": {
+    "$oid": "60af3017fb0d6b6df0f22530"
+  },
+  "dogecoin": {
+    "eur": 0.27357,
+    "eur_market_cap": 35454172467.51488,
+    "eur_24h_vol": 3129477831.2264466,
+    "last_updated_at": 1622093703
+  }
+},{
+  "_id": {
+    "$oid": "60af3054fb0d6b6df0f22580"
+  },
+  "dogecoin": {
+    "eur": 0.27357,
+    "eur_market_cap": 35454172467.51488,
+    "eur_24h_vol": 3129477831.2264466,
+    "last_updated_at": 1622093703
+  }
+},{
+  "_id": {
+    "$oid": "60af3090fb0d6b6df0f225d6"
+  },
+  "dogecoin": {
+    "eur": 0.273486,
+    "eur_market_cap": 35454172467.51488,
+    "eur_24h_vol": 3126119505.8721433,
+    "last_updated_at": 1622093874
+  }
+},{
+  "_id": {
+    "$oid": "60af30cdfb0d6b6df0f2261a"
+  },
+  "dogecoin": {
+    "eur": 0.273486,
+    "eur_market_cap": 35454172467.51488,
+    "eur_24h_vol": 3126119505.8721433,
+    "last_updated_at": 1622093874
+  }
+},{
+  "_id": {
+    "$oid": "60af3109fb0d6b6df0f2265e"
+  },
+  "dogecoin": {
+    "eur": 0.273836,
+    "eur_market_cap": 35488284980.92014,
+    "eur_24h_vol": 3121182952.1833196,
+    "last_updated_at": 1622094006
+  }
+},{
+  "_id": {
+    "$oid": "60af3145fb0d6b6df0f22694"
+  },
+  "dogecoin": {
+    "eur": 0.273836,
+    "eur_market_cap": 35488284980.92014,
+    "eur_24h_vol": 3121182952.1833196,
+    "last_updated_at": 1622094006
+  }
+},{
+  "_id": {
+    "$oid": "60af3181fb0d6b6df0f226d1"
+  },
+  "dogecoin": {
+    "eur": 0.273836,
+    "eur_market_cap": 35488284980.92014,
+    "eur_24h_vol": 3121182952.1833196,
+    "last_updated_at": 1622094006
+  }
+},{
+  "_id": {
+    "$oid": "60af31bdfb0d6b6df0f22711"
+  },
+  "dogecoin": {
+    "eur": 0.273836,
+    "eur_market_cap": 35488284980.92014,
+    "eur_24h_vol": 3121182952.1833196,
+    "last_updated_at": 1622094006
+  }
+},{
+  "_id": {
+    "$oid": "60af31fafb0d6b6df0f22752"
+  },
+  "dogecoin": {
+    "eur": 0.273622,
+    "eur_market_cap": 35488284980.92014,
+    "eur_24h_vol": 3124352740.6300874,
+    "last_updated_at": 1622094209
+  }
+},{
+  "_id": {
+    "$oid": "60af3235fb0d6b6df0f22791"
+  },
+  "dogecoin": {
+    "eur": 0.273622,
+    "eur_market_cap": 35488284980.92014,
+    "eur_24h_vol": 3124352740.6300874,
+    "last_updated_at": 1622094209
+  }
+},{
+  "_id": {
+    "$oid": "60af3272fb0d6b6df0f227bf"
+  },
+  "dogecoin": {
+    "eur": 0.273843,
+    "eur_market_cap": 35488284980.92014,
+    "eur_24h_vol": 3126504710.559254,
+    "last_updated_at": 1622094386
+  }
+},{
+  "_id": {
+    "$oid": "60af32aefb0d6b6df0f22802"
+  },
+  "dogecoin": {
+    "eur": 0.273843,
+    "eur_market_cap": 35488284980.92014,
+    "eur_24h_vol": 3126504710.559254,
+    "last_updated_at": 1622094386
+  }
+},{
+  "_id": {
+    "$oid": "60af32eafb0d6b6df0f22839"
+  },
+  "dogecoin": {
+    "eur": 0.274051,
+    "eur_market_cap": 35488284980.92014,
+    "eur_24h_vol": 3133539499.761405,
+    "last_updated_at": 1622094513
+  }
+},{
+  "_id": {
+    "$oid": "60af3326fb0d6b6df0f22865"
+  },
+  "dogecoin": {
+    "eur": 0.274051,
+    "eur_market_cap": 35488284980.92014,
+    "eur_24h_vol": 3133539499.761405,
+    "last_updated_at": 1622094513
+  }
+},{
+  "_id": {
+    "$oid": "60af3362fb0d6b6df0f228a9"
+  },
+  "dogecoin": {
+    "eur": 0.275671,
+    "eur_market_cap": 35561647386.48129,
+    "eur_24h_vol": 3241245818.2659445,
+    "last_updated_at": 1622094674
+  }
+},{
+  "_id": {
+    "$oid": "60af339ffb0d6b6df0f228e9"
+  },
+  "dogecoin": {
+    "eur": 0.275671,
+    "eur_market_cap": 35561647386.48129,
+    "eur_24h_vol": 3241245818.2659445,
+    "last_updated_at": 1622094674
+  }
+},{
+  "_id": {
+    "$oid": "60af33dafb0d6b6df0f22921"
+  },
+  "dogecoin": {
+    "eur": 0.275671,
+    "eur_market_cap": 35561647386.48129,
+    "eur_24h_vol": 3241245818.2659445,
+    "last_updated_at": 1622094674
+  }
+},{
+  "_id": {
+    "$oid": "60af3416fb0d6b6df0f22957"
+  },
+  "dogecoin": {
+    "eur": 0.275671,
+    "eur_market_cap": 35561647386.48129,
+    "eur_24h_vol": 3241245818.2659445,
+    "last_updated_at": 1622094674
+  }
+},{
+  "_id": {
+    "$oid": "60af3453fb0d6b6df0f2298d"
+  },
+  "dogecoin": {
+    "eur": 0.275945,
+    "eur_market_cap": 35561647386.48129,
+    "eur_24h_vol": 3239425553.019977,
+    "last_updated_at": 1622094827
+  }
+},{
+  "_id": {
+    "$oid": "60af348ffb0d6b6df0f229c3"
+  },
+  "dogecoin": {
+    "eur": 0.275945,
+    "eur_market_cap": 35561647386.48129,
+    "eur_24h_vol": 3239425553.019977,
+    "last_updated_at": 1622094827
+  }
+},{
+  "_id": {
+    "$oid": "60af34ccfb0d6b6df0f229fd"
+  },
+  "dogecoin": {
+    "eur": 0.276832,
+    "eur_market_cap": 35561647386.48129,
+    "eur_24h_vol": 3269371540.929179,
+    "last_updated_at": 1622094976
+  }
+},{
+  "_id": {
+    "$oid": "60af3507fb0d6b6df0f22a39"
+  },
+  "dogecoin": {
+    "eur": 0.276832,
+    "eur_market_cap": 35561647386.48129,
+    "eur_24h_vol": 3269371540.929179,
+    "last_updated_at": 1622094976
+  }
+},{
+  "_id": {
+    "$oid": "60af3543fb0d6b6df0f22a77"
+  },
+  "dogecoin": {
+    "eur": 0.276746,
+    "eur_market_cap": 35561647386.48129,
+    "eur_24h_vol": 3268247801.9768114,
+    "last_updated_at": 1622095091
+  }
+},{
+  "_id": {
+    "$oid": "60af3580fb0d6b6df0f22abe"
+  },
+  "dogecoin": {
+    "eur": 0.276746,
+    "eur_market_cap": 35561647386.48129,
+    "eur_24h_vol": 3268247801.9768114,
+    "last_updated_at": 1622095091
+  }
+},{
+  "_id": {
+    "$oid": "60af35bcfb0d6b6df0f22b0d"
+  },
+  "dogecoin": {
+    "eur": 0.277997,
+    "eur_market_cap": 35911298508.77678,
+    "eur_24h_vol": 3260731513.8059835,
+    "last_updated_at": 1622095259
+  }
+},{
+  "_id": {
+    "$oid": "60af35f8fb0d6b6df0f22b3f"
+  },
+  "dogecoin": {
+    "eur": 0.277997,
+    "eur_market_cap": 35911298508.77678,
+    "eur_24h_vol": 3260731513.8059835,
+    "last_updated_at": 1622095259
+  }
+},{
+  "_id": {
+    "$oid": "60af3634fb0d6b6df0f22b81"
+  },
+  "dogecoin": {
+    "eur": 0.277997,
+    "eur_market_cap": 35911298508.77678,
+    "eur_24h_vol": 3260731513.8059835,
+    "last_updated_at": 1622095259
+  }
+},{
+  "_id": {
+    "$oid": "60af3670fb0d6b6df0f22bb7"
+  },
+  "dogecoin": {
+    "eur": 0.277997,
+    "eur_market_cap": 35911298508.77678,
+    "eur_24h_vol": 3260731513.8059835,
+    "last_updated_at": 1622095259
+  }
+},{
+  "_id": {
+    "$oid": "60af36adfb0d6b6df0f22be4"
+  },
+  "dogecoin": {
+    "eur": 0.277997,
+    "eur_market_cap": 35911298508.77678,
+    "eur_24h_vol": 3260731513.8059835,
+    "last_updated_at": 1622095259
+  }
+},{
+  "_id": {
+    "$oid": "60af36e9fb0d6b6df0f22c17"
+  },
+  "dogecoin": {
+    "eur": 0.277997,
+    "eur_market_cap": 35911298508.77678,
+    "eur_24h_vol": 3260731513.8059835,
+    "last_updated_at": 1622095259
+  }
+},{
+  "_id": {
+    "$oid": "60af3724fb0d6b6df0f22c41"
+  },
+  "dogecoin": {
+    "eur": 0.279112,
+    "eur_market_cap": 35911298508.77678,
+    "eur_24h_vol": 3265232406.5951543,
+    "last_updated_at": 1622095555
+  }
+},{
+  "_id": {
+    "$oid": "60af3761fb0d6b6df0f22c6c"
+  },
+  "dogecoin": {
+    "eur": 0.279112,
+    "eur_market_cap": 35911298508.77678,
+    "eur_24h_vol": 3265232406.5951543,
+    "last_updated_at": 1622095555
+  }
+},{
+  "_id": {
+    "$oid": "60af379dfb0d6b6df0f22ca2"
+  },
+  "dogecoin": {
+    "eur": 0.278216,
+    "eur_market_cap": 35911298508.77678,
+    "eur_24h_vol": 3254342010.6460094,
+    "last_updated_at": 1622095725
+  }
+},{
+  "_id": {
+    "$oid": "60af37d9fb0d6b6df0f22cd2"
+  },
+  "dogecoin": {
+    "eur": 0.278216,
+    "eur_market_cap": 35911298508.77678,
+    "eur_24h_vol": 3254342010.6460094,
+    "last_updated_at": 1622095725
+  }
+},{
+  "_id": {
+    "$oid": "60af3815fb0d6b6df0f22d01"
+  },
+  "dogecoin": {
+    "eur": 0.278216,
+    "eur_market_cap": 36102076976.97369,
+    "eur_24h_vol": 3254342010.6460094,
+    "last_updated_at": 1622095725
+  }
+},{
+  "_id": {
+    "$oid": "60af3852fb0d6b6df0f22d3c"
+  },
+  "dogecoin": {
+    "eur": 0.278216,
+    "eur_market_cap": 36102076976.97369,
+    "eur_24h_vol": 3254342010.6460094,
+    "last_updated_at": 1622095725
+  }
+},{
+  "_id": {
+    "$oid": "60af388efb0d6b6df0f22d71"
+  },
+  "dogecoin": {
+    "eur": 0.277923,
+    "eur_market_cap": 36102076976.97369,
+    "eur_24h_vol": 3249349759.7979274,
+    "last_updated_at": 1622095896
+  }
+},{
+  "_id": {
+    "$oid": "60af38c9fb0d6b6df0f22dab"
+  },
+  "dogecoin": {
+    "eur": 0.277573,
+    "eur_market_cap": 36102076976.97369,
+    "eur_24h_vol": 3246236171.1060925,
+    "last_updated_at": 1622096058
+  }
+},{
+  "_id": {
+    "$oid": "60af3906fb0d6b6df0f22dee"
+  },
+  "dogecoin": {
+    "eur": 0.277573,
+    "eur_market_cap": 36102076976.97369,
+    "eur_24h_vol": 3246236171.1060925,
+    "last_updated_at": 1622096058
+  }
+},{
+  "_id": {
+    "$oid": "60af3942fb0d6b6df0f22e18"
+  },
+  "dogecoin": {
+    "eur": 0.277573,
+    "eur_market_cap": 36102076976.97369,
+    "eur_24h_vol": 3246236171.1060925,
+    "last_updated_at": 1622096058
+  }
+},{
+  "_id": {
+    "$oid": "60af397efb0d6b6df0f22e5b"
+  },
+  "dogecoin": {
+    "eur": 0.277573,
+    "eur_market_cap": 36102076976.97369,
+    "eur_24h_vol": 3246236171.1060925,
+    "last_updated_at": 1622096058
+  }
+},{
+  "_id": {
+    "$oid": "60af39bbfb0d6b6df0f22e85"
+  },
+  "dogecoin": {
+    "eur": 0.277652,
+    "eur_market_cap": 36102076976.97369,
+    "eur_24h_vol": 3247001104.8678374,
+    "last_updated_at": 1622096222
+  }
+},{
+  "_id": {
+    "$oid": "60af39f6fb0d6b6df0f22eba"
+  },
+  "dogecoin": {
+    "eur": 0.277652,
+    "eur_market_cap": 36102076976.97369,
+    "eur_24h_vol": 3247001104.8678374,
+    "last_updated_at": 1622096222
+  }
+},{
+  "_id": {
+    "$oid": "60af3a33fb0d6b6df0f22ef5"
+  },
+  "dogecoin": {
+    "eur": 0.278012,
+    "eur_market_cap": 36075575316.825096,
+    "eur_24h_vol": 3244368784.616425,
+    "last_updated_at": 1622096358
+  }
+},{
+  "_id": {
+    "$oid": "60af3a6ffb0d6b6df0f22f37"
+  },
+  "dogecoin": {
+    "eur": 0.278012,
+    "eur_market_cap": 36075575316.825096,
+    "eur_24h_vol": 3244368784.616425,
+    "last_updated_at": 1622096358
+  }
+},{
+  "_id": {
+    "$oid": "60af3aacfb0d6b6df0f22f6f"
+  },
+  "dogecoin": {
+    "eur": 0.278012,
+    "eur_market_cap": 36075575316.825096,
+    "eur_24h_vol": 3244368784.616425,
+    "last_updated_at": 1622096358
+  }
+},{
+  "_id": {
+    "$oid": "60af3ae7fb0d6b6df0f22f97"
+  },
+  "dogecoin": {
+    "eur": 0.278012,
+    "eur_market_cap": 36075575316.825096,
+    "eur_24h_vol": 3244368784.616425,
+    "last_updated_at": 1622096358
+  }
+},{
+  "_id": {
+    "$oid": "60af3b23fb0d6b6df0f22fcf"
+  },
+  "dogecoin": {
+    "eur": 0.276598,
+    "eur_market_cap": 36075575316.825096,
+    "eur_24h_vol": 3219929156.3770194,
+    "last_updated_at": 1622096568
+  }
+},{
+  "_id": {
+    "$oid": "60af3b60fb0d6b6df0f22ff3"
+  },
+  "dogecoin": {
+    "eur": 0.276598,
+    "eur_market_cap": 36075575316.825096,
+    "eur_24h_vol": 3219929156.3770194,
+    "last_updated_at": 1622096568
+  }
+},{
+  "_id": {
+    "$oid": "60af3b9cfb0d6b6df0f23040"
+  },
+  "dogecoin": {
+    "eur": 0.276655,
+    "eur_market_cap": 36075575316.825096,
+    "eur_24h_vol": 3220334704.0812893,
+    "last_updated_at": 1622096757
+  }
+},{
+  "_id": {
+    "$oid": "60af3bdbfb0d6b6df0f23080"
+  },
+  "dogecoin": {
+    "eur": 0.276655,
+    "eur_market_cap": 36075575316.825096,
+    "eur_24h_vol": 3220334704.0812893,
+    "last_updated_at": 1622096757
+  }
+},{
+  "_id": {
+    "$oid": "60af3c16fb0d6b6df0f230bf"
+  },
+  "dogecoin": {
+    "eur": 0.276655,
+    "eur_market_cap": 36075575316.825096,
+    "eur_24h_vol": 3220334704.0812893,
+    "last_updated_at": 1622096757
+  }
+},{
+  "_id": {
+    "$oid": "60af3c53fb0d6b6df0f230ed"
+  },
+  "dogecoin": {
+    "eur": 0.276655,
+    "eur_market_cap": 36075575316.825096,
+    "eur_24h_vol": 3220334704.0812893,
+    "last_updated_at": 1622096757
+  }
+},{
+  "_id": {
+    "$oid": "60af3c8ffb0d6b6df0f23129"
+  },
+  "dogecoin": {
+    "eur": 0.276655,
+    "eur_market_cap": 36075575316.825096,
+    "eur_24h_vol": 3220334704.0812893,
+    "last_updated_at": 1622096757
+  }
+},{
+  "_id": {
+    "$oid": "60af3ccbfb0d6b6df0f2315e"
+  },
+  "dogecoin": {
+    "eur": 0.276655,
+    "eur_market_cap": 35899503247.68795,
+    "eur_24h_vol": 3220334704.0812893,
+    "last_updated_at": 1622096757
+  }
+},{
+  "_id": {
+    "$oid": "60af3d07fb0d6b6df0f23190"
+  },
+  "dogecoin": {
+    "eur": 0.276655,
+    "eur_market_cap": 35899503247.68795,
+    "eur_24h_vol": 3220334704.0812893,
+    "last_updated_at": 1622096757
+  }
+},{
+  "_id": {
+    "$oid": "60af3d43fb0d6b6df0f231d7"
+  },
+  "dogecoin": {
+    "eur": 0.276655,
+    "eur_market_cap": 35899503247.68795,
+    "eur_24h_vol": 3220334704.0812893,
+    "last_updated_at": 1622096757
+  }
+},{
+  "_id": {
+    "$oid": "60af3d7ffb0d6b6df0f23217"
+  },
+  "dogecoin": {
+    "eur": 0.276655,
+    "eur_market_cap": 35899503247.68795,
+    "eur_24h_vol": 3220334704.0812893,
+    "last_updated_at": 1622096757
+  }
+},{
+  "_id": {
+    "$oid": "60af3dbcfb0d6b6df0f23256"
+  },
+  "dogecoin": {
+    "eur": 0.276786,
+    "eur_market_cap": 35899503247.68795,
+    "eur_24h_vol": 3203561238.730779,
+    "last_updated_at": 1622097232
+  }
+},{
+  "_id": {
+    "$oid": "60af3df7fb0d6b6df0f23293"
+  },
+  "dogecoin": {
+    "eur": 0.276786,
+    "eur_market_cap": 35899503247.68795,
+    "eur_24h_vol": 3203561238.730779,
+    "last_updated_at": 1622097232
+  }
+},{
+  "_id": {
+    "$oid": "60af3e34fb0d6b6df0f232c3"
+  },
+  "dogecoin": {
+    "eur": 0.276786,
+    "eur_market_cap": 35899503247.68795,
+    "eur_24h_vol": 3203561238.730779,
+    "last_updated_at": 1622097232
+  }
+},{
+  "_id": {
+    "$oid": "60af3e70fb0d6b6df0f232f6"
+  },
+  "dogecoin": {
+    "eur": 0.276786,
+    "eur_market_cap": 35899503247.68795,
+    "eur_24h_vol": 3203561238.730779,
+    "last_updated_at": 1622097232
+  }
+},{
+  "_id": {
+    "$oid": "60af3eabfb0d6b6df0f23336"
+  },
+  "dogecoin": {
+    "eur": 0.276786,
+    "eur_market_cap": 35899503247.68795,
+    "eur_24h_vol": 3203561238.730779,
+    "last_updated_at": 1622097232
+  }
+},{
+  "_id": {
+    "$oid": "60af3ee8fb0d6b6df0f23361"
+  },
+  "dogecoin": {
+    "eur": 0.276786,
+    "eur_market_cap": 35899503247.68795,
+    "eur_24h_vol": 3203561238.730779,
+    "last_updated_at": 1622097232
+  }
+},{
+  "_id": {
+    "$oid": "60af3f24fb0d6b6df0f2338d"
+  },
+  "dogecoin": {
+    "eur": 0.276843,
+    "eur_market_cap": 35916502055.35833,
+    "eur_24h_vol": 3174247153.3530803,
+    "last_updated_at": 1622097639
+  }
+},{
+  "_id": {
+    "$oid": "60af3f60fb0d6b6df0f233d2"
+  },
+  "dogecoin": {
+    "eur": 0.276843,
+    "eur_market_cap": 35916502055.35833,
+    "eur_24h_vol": 3174247153.3530803,
+    "last_updated_at": 1622097639
+  }
+},{
+  "_id": {
+    "$oid": "60af3f9cfb0d6b6df0f23403"
+  },
+  "dogecoin": {
+    "eur": 0.276843,
+    "eur_market_cap": 35916502055.35833,
+    "eur_24h_vol": 3174247153.3530803,
+    "last_updated_at": 1622097639
+  }
+},{
+  "_id": {
+    "$oid": "60af3fd8fb0d6b6df0f23429"
+  },
+  "dogecoin": {
+    "eur": 0.276843,
+    "eur_market_cap": 35916502055.35833,
+    "eur_24h_vol": 3174247153.3530803,
+    "last_updated_at": 1622097639
+  }
+},{
+  "_id": {
+    "$oid": "60af4014fb0d6b6df0f2346a"
+  },
+  "dogecoin": {
+    "eur": 0.277891,
+    "eur_market_cap": 35916502055.35833,
+    "eur_24h_vol": 3055097273.167049,
+    "last_updated_at": 1622097899
+  }
+},{
+  "_id": {
+    "$oid": "60af4051fb0d6b6df0f23490"
+  },
+  "dogecoin": {
+    "eur": 0.277891,
+    "eur_market_cap": 35916502055.35833,
+    "eur_24h_vol": 3055097273.167049,
+    "last_updated_at": 1622097899
+  }
+},{
+  "_id": {
+    "$oid": "60af408dfb0d6b6df0f234bf"
+  },
+  "dogecoin": {
+    "eur": 0.277891,
+    "eur_market_cap": 35916502055.35833,
+    "eur_24h_vol": 3055097273.167049,
+    "last_updated_at": 1622097899
+  }
+},{
+  "_id": {
+    "$oid": "60af40c8fb0d6b6df0f234f0"
+  },
+  "dogecoin": {
+    "eur": 0.277891,
+    "eur_market_cap": 35916502055.35833,
+    "eur_24h_vol": 3055097273.167049,
+    "last_updated_at": 1622097899
+  }
+},{
+  "_id": {
+    "$oid": "60af4105fb0d6b6df0f23515"
+  },
+  "dogecoin": {
+    "eur": 0.277891,
+    "eur_market_cap": 35916502055.35833,
+    "eur_24h_vol": 3055097273.167049,
+    "last_updated_at": 1622097899
+  }
+},{
+  "_id": {
+    "$oid": "60af4141fb0d6b6df0f23548"
+  },
+  "dogecoin": {
+    "eur": 0.277891,
+    "eur_market_cap": 35916502055.35833,
+    "eur_24h_vol": 3055097273.167049,
+    "last_updated_at": 1622097899
+  }
+},{
+  "_id": {
+    "$oid": "60af417dfb0d6b6df0f23587"
+  },
+  "dogecoin": {
+    "eur": 0.278763,
+    "eur_market_cap": 36059900687.48823,
+    "eur_24h_vol": 3053730165.8614492,
+    "last_updated_at": 1622098287
+  }
+},{
+  "_id": {
+    "$oid": "60af41b9fb0d6b6df0f235c5"
+  },
+  "dogecoin": {
+    "eur": 0.278763,
+    "eur_market_cap": 36059900687.48823,
+    "eur_24h_vol": 3053730165.8614492,
+    "last_updated_at": 1622098287
+  }
+},{
+  "_id": {
+    "$oid": "60af41f5fb0d6b6df0f23609"
+  },
+  "dogecoin": {
+    "eur": 0.278763,
+    "eur_market_cap": 36059900687.48823,
+    "eur_24h_vol": 3053730165.8614492,
+    "last_updated_at": 1622098287
+  }
+},{
+  "_id": {
+    "$oid": "60af4231fb0d6b6df0f2363a"
+  },
+  "dogecoin": {
+    "eur": 0.278763,
+    "eur_market_cap": 36059900687.48823,
+    "eur_24h_vol": 3053730165.8614492,
+    "last_updated_at": 1622098287
+  }
+},{
+  "_id": {
+    "$oid": "60af426dfb0d6b6df0f2366c"
+  },
+  "dogecoin": {
+    "eur": 0.278587,
+    "eur_market_cap": 36059900687.48823,
+    "eur_24h_vol": 3168234029.269431,
+    "last_updated_at": 1622098516
+  }
+},{
+  "_id": {
+    "$oid": "60af42aafb0d6b6df0f236a3"
+  },
+  "dogecoin": {
+    "eur": 0.278587,
+    "eur_market_cap": 36059900687.48823,
+    "eur_24h_vol": 3168234029.269431,
+    "last_updated_at": 1622098516
+  }
+},{
+  "_id": {
+    "$oid": "60af42e6fb0d6b6df0f236db"
+  },
+  "dogecoin": {
+    "eur": 0.278587,
+    "eur_market_cap": 36059900687.48823,
+    "eur_24h_vol": 3168234029.269431,
+    "last_updated_at": 1622098516
+  }
+},{
+  "_id": {
+    "$oid": "60af4322fb0d6b6df0f23707"
+  },
+  "dogecoin": {
+    "eur": 0.278587,
+    "eur_market_cap": 36059900687.48823,
+    "eur_24h_vol": 3168234029.269431,
+    "last_updated_at": 1622098516
+  }
+},{
+  "_id": {
+    "$oid": "60af435efb0d6b6df0f2373f"
+  },
+  "dogecoin": {
+    "eur": 0.278587,
+    "eur_market_cap": 36059900687.48823,
+    "eur_24h_vol": 3168234029.269431,
+    "last_updated_at": 1622098516
+  }
+},{
+  "_id": {
+    "$oid": "60af439afb0d6b6df0f2378a"
+  },
+  "dogecoin": {
+    "eur": 0.278587,
+    "eur_market_cap": 36059900687.48823,
+    "eur_24h_vol": 3168234029.269431,
+    "last_updated_at": 1622098516
+  }
+},{
+  "_id": {
+    "$oid": "60af43d6fb0d6b6df0f237c8"
+  },
+  "dogecoin": {
+    "eur": 0.278576,
+    "eur_market_cap": 36148784443.58697,
+    "eur_24h_vol": 3167691761.3236303,
+    "last_updated_at": 1622098799
+  }
+},{
+  "_id": {
+    "$oid": "60af4412fb0d6b6df0f237fd"
+  },
+  "dogecoin": {
+    "eur": 0.278576,
+    "eur_market_cap": 36148784443.58697,
+    "eur_24h_vol": 3167691761.3236303,
+    "last_updated_at": 1622098799
+  }
+},{
+  "_id": {
+    "$oid": "60af444ffb0d6b6df0f2383e"
+  },
+  "dogecoin": {
+    "eur": 0.278576,
+    "eur_market_cap": 36148784443.58697,
+    "eur_24h_vol": 3167691761.3236303,
+    "last_updated_at": 1622098799
+  }
+},{
+  "_id": {
+    "$oid": "60af448afb0d6b6df0f23867"
+  },
+  "dogecoin": {
+    "eur": 0.278576,
+    "eur_market_cap": 36148784443.58697,
+    "eur_24h_vol": 3167691761.3236303,
+    "last_updated_at": 1622098799
+  }
+},{
+  "_id": {
+    "$oid": "60af44c7fb0d6b6df0f238a3"
+  },
+  "dogecoin": {
+    "eur": 0.278672,
+    "eur_market_cap": 36148784443.58697,
+    "eur_24h_vol": 3103585655.7666917,
+    "last_updated_at": 1622099024
+  }
+},{
+  "_id": {
+    "$oid": "60af4503fb0d6b6df0f238dc"
+  },
+  "dogecoin": {
+    "eur": 0.278672,
+    "eur_market_cap": 36148784443.58697,
+    "eur_24h_vol": 3103585655.7666917,
+    "last_updated_at": 1622099024
+  }
+},{
+  "_id": {
+    "$oid": "60af453ffb0d6b6df0f2390b"
+  },
+  "dogecoin": {
+    "eur": 0.278489,
+    "eur_market_cap": 36148784443.58697,
+    "eur_24h_vol": 3082112130.665525,
+    "last_updated_at": 1622099261
+  }
+},{
+  "_id": {
+    "$oid": "60af457cfb0d6b6df0f23931"
+  },
+  "dogecoin": {
+    "eur": 0.278489,
+    "eur_market_cap": 36148784443.58697,
+    "eur_24h_vol": 3082112130.665525,
+    "last_updated_at": 1622099261
+  }
+},{
+  "_id": {
+    "$oid": "60af45b7fb0d6b6df0f23962"
+  },
+  "dogecoin": {
+    "eur": 0.278068,
+    "eur_market_cap": 36148784443.58697,
+    "eur_24h_vol": 3071230029.6613803,
+    "last_updated_at": 1622099382
+  }
+},{
+  "_id": {
+    "$oid": "60af45f3fb0d6b6df0f23995"
+  },
+  "dogecoin": {
+    "eur": 0.278068,
+    "eur_market_cap": 36148784443.58697,
+    "eur_24h_vol": 3071230029.6613803,
+    "last_updated_at": 1622099382
+  }
+},{
+  "_id": {
+    "$oid": "60af4630fb0d6b6df0f239cb"
+  },
+  "dogecoin": {
+    "eur": 0.278068,
+    "eur_market_cap": 36082825014.64731,
+    "eur_24h_vol": 3071230029.6613803,
+    "last_updated_at": 1622099382
+  }
+},{
+  "_id": {
+    "$oid": "60af466bfb0d6b6df0f23a04"
+  },
+  "dogecoin": {
+    "eur": 0.278068,
+    "eur_market_cap": 36082825014.64731,
+    "eur_24h_vol": 3071230029.6613803,
+    "last_updated_at": 1622099382
+  }
+},{
+  "_id": {
+    "$oid": "60af46a8fb0d6b6df0f23a26"
+  },
+  "dogecoin": {
+    "eur": 0.278066,
+    "eur_market_cap": 36082825014.64731,
+    "eur_24h_vol": 3050205969.4526954,
+    "last_updated_at": 1622099519
+  }
+},{
+  "_id": {
+    "$oid": "60af46e4fb0d6b6df0f23a59"
+  },
+  "dogecoin": {
+    "eur": 0.278066,
+    "eur_market_cap": 36082825014.64731,
+    "eur_24h_vol": 3050205969.4526954,
+    "last_updated_at": 1622099519
+  }
+},{
+  "_id": {
+    "$oid": "60af4720fb0d6b6df0f23a9c"
+  },
+  "dogecoin": {
+    "eur": 0.27815,
+    "eur_market_cap": 36082825014.64731,
+    "eur_24h_vol": 2948429050.1279593,
+    "last_updated_at": 1622099623
+  }
+},{
+  "_id": {
+    "$oid": "60af475cfb0d6b6df0f23abd"
+  },
+  "dogecoin": {
+    "eur": 0.27815,
+    "eur_market_cap": 36082825014.64731,
+    "eur_24h_vol": 2948429050.1279593,
+    "last_updated_at": 1622099623
+  }
+},{
+  "_id": {
+    "$oid": "60af4799fb0d6b6df0f23aee"
+  },
+  "dogecoin": {
+    "eur": 0.277807,
+    "eur_market_cap": 36082825014.64731,
+    "eur_24h_vol": 2932985170.382623,
+    "last_updated_at": 1622099772
+  }
+},{
+  "_id": {
+    "$oid": "60af47d5fb0d6b6df0f23b2a"
+  },
+  "dogecoin": {
+    "eur": 0.277807,
+    "eur_market_cap": 36082825014.64731,
+    "eur_24h_vol": 2932985170.382623,
+    "last_updated_at": 1622099772
+  }
+},{
+  "_id": {
+    "$oid": "60af4810fb0d6b6df0f23b57"
+  },
+  "dogecoin": {
+    "eur": 0.277767,
+    "eur_market_cap": 36082825014.64731,
+    "eur_24h_vol": 2932113277.858693,
+    "last_updated_at": 1622099903
+  }
+},{
+  "_id": {
+    "$oid": "60af484dfb0d6b6df0f23b83"
+  },
+  "dogecoin": {
+    "eur": 0.277767,
+    "eur_market_cap": 36082825014.64731,
+    "eur_24h_vol": 2932113277.858693,
+    "last_updated_at": 1622099903
+  }
+},{
+  "_id": {
+    "$oid": "60af4889fb0d6b6df0f23bc5"
+  },
+  "dogecoin": {
+    "eur": 0.277692,
+    "eur_market_cap": 36043746025.7811,
+    "eur_24h_vol": 2935725851.2360606,
+    "last_updated_at": 1622100038
+  }
+},{
+  "_id": {
+    "$oid": "60af48c6fb0d6b6df0f23bfb"
+  },
+  "dogecoin": {
+    "eur": 0.277692,
+    "eur_market_cap": 36043746025.7811,
+    "eur_24h_vol": 2935725851.2360606,
+    "last_updated_at": 1622100038
+  }
+},{
+  "_id": {
+    "$oid": "60af4901fb0d6b6df0f23c2f"
+  },
+  "dogecoin": {
+    "eur": 0.277621,
+    "eur_market_cap": 36043746025.7811,
+    "eur_24h_vol": 2928518113.3377085,
+    "last_updated_at": 1622100195
+  }
+},{
+  "_id": {
+    "$oid": "60af493dfb0d6b6df0f23c6f"
+  },
+  "dogecoin": {
+    "eur": 0.277621,
+    "eur_market_cap": 36043746025.7811,
+    "eur_24h_vol": 2928518113.3377085,
+    "last_updated_at": 1622100195
+  }
+},{
+  "_id": {
+    "$oid": "60af497afb0d6b6df0f23ca2"
+  },
+  "dogecoin": {
+    "eur": 0.27744,
+    "eur_market_cap": 36043746025.7811,
+    "eur_24h_vol": 3037083956.317815,
+    "last_updated_at": 1622100338
+  }
+},{
+  "_id": {
+    "$oid": "60af49b5fb0d6b6df0f23ce2"
+  },
+  "dogecoin": {
+    "eur": 0.27744,
+    "eur_market_cap": 36043746025.7811,
+    "eur_24h_vol": 3037083956.317815,
+    "last_updated_at": 1622100338
+  }
+},{
+  "_id": {
+    "$oid": "60af49f2fb0d6b6df0f23d15"
+  },
+  "dogecoin": {
+    "eur": 0.27744,
+    "eur_market_cap": 36043746025.7811,
+    "eur_24h_vol": 3037083956.317815,
+    "last_updated_at": 1622100338
+  }
+},{
+  "_id": {
+    "$oid": "60af4a2efb0d6b6df0f23d43"
+  },
+  "dogecoin": {
+    "eur": 0.27744,
+    "eur_market_cap": 36043746025.7811,
+    "eur_24h_vol": 3037083956.317815,
+    "last_updated_at": 1622100338
+  }
+},{
+  "_id": {
+    "$oid": "60af4a6bfb0d6b6df0f23d65"
+  },
+  "dogecoin": {
+    "eur": 0.277822,
+    "eur_market_cap": 36043746025.7811,
+    "eur_24h_vol": 3045990255.5320954,
+    "last_updated_at": 1622100499
+  }
+},{
+  "_id": {
+    "$oid": "60af4aa6fb0d6b6df0f23da4"
+  },
+  "dogecoin": {
+    "eur": 0.277822,
+    "eur_market_cap": 36043746025.7811,
+    "eur_24h_vol": 3045990255.5320954,
+    "last_updated_at": 1622100499
+  }
+},{
+  "_id": {
+    "$oid": "60af4ae2fb0d6b6df0f23de3"
+  },
+  "dogecoin": {
+    "eur": 0.277524,
+    "eur_market_cap": 36050961429.59601,
+    "eur_24h_vol": 3034240825.058484,
+    "last_updated_at": 1622100658
+  }
+},{
+  "_id": {
+    "$oid": "60af4b1ffb0d6b6df0f23e0b"
+  },
+  "dogecoin": {
+    "eur": 0.277524,
+    "eur_market_cap": 36050961429.59601,
+    "eur_24h_vol": 3034240825.058484,
+    "last_updated_at": 1622100658
+  }
+},{
+  "_id": {
+    "$oid": "60af4b5bfb0d6b6df0f23e4b"
+  },
+  "dogecoin": {
+    "eur": 0.277524,
+    "eur_market_cap": 36050961429.59601,
+    "eur_24h_vol": 3034240825.058484,
+    "last_updated_at": 1622100658
+  }
+},{
+  "_id": {
+    "$oid": "60af4b98fb0d6b6df0f23e76"
+  },
+  "dogecoin": {
+    "eur": 0.277594,
+    "eur_market_cap": 36050961429.59601,
+    "eur_24h_vol": 3034313548.314423,
+    "last_updated_at": 1622100825
+  }
+},{
+  "_id": {
+    "$oid": "60af4bd4fb0d6b6df0f23ea4"
+  },
+  "dogecoin": {
+    "eur": 0.277594,
+    "eur_market_cap": 36050961429.59601,
+    "eur_24h_vol": 3034313548.314423,
+    "last_updated_at": 1622100825
+  }
+},{
+  "_id": {
+    "$oid": "60af4c0ffb0d6b6df0f23ede"
+  },
+  "dogecoin": {
+    "eur": 0.277937,
+    "eur_market_cap": 36050961429.59601,
+    "eur_24h_vol": 3036022612.516447,
+    "last_updated_at": 1622100952
+  }
+},{
+  "_id": {
+    "$oid": "60af4c4cfb0d6b6df0f23f0c"
+  },
+  "dogecoin": {
+    "eur": 0.277937,
+    "eur_market_cap": 36050961429.59601,
+    "eur_24h_vol": 3036022612.516447,
+    "last_updated_at": 1622100952
+  }
+},{
+  "_id": {
+    "$oid": "60af4c88fb0d6b6df0f23f39"
+  },
+  "dogecoin": {
+    "eur": 0.278022,
+    "eur_market_cap": 36050961429.59601,
+    "eur_24h_vol": 3047439131.371773,
+    "last_updated_at": 1622101090
+  }
+},{
+  "_id": {
+    "$oid": "60af4cc4fb0d6b6df0f23f70"
+  },
+  "dogecoin": {
+    "eur": 0.278022,
+    "eur_market_cap": 36050961429.59601,
+    "eur_24h_vol": 3047439131.371773,
+    "last_updated_at": 1622101090
+  }
+},{
+  "_id": {
+    "$oid": "60af4d00fb0d6b6df0f23fae"
+  },
+  "dogecoin": {
+    "eur": 0.278189,
+    "eur_market_cap": 36076891937.7451,
+    "eur_24h_vol": 3047976436.3536487,
+    "last_updated_at": 1622101224
+  }
+},{
+  "_id": {
+    "$oid": "60af4d3cfb0d6b6df0f23fd9"
+  },
+  "dogecoin": {
+    "eur": 0.278189,
+    "eur_market_cap": 36076891937.7451,
+    "eur_24h_vol": 3047976436.3536487,
+    "last_updated_at": 1622101224
+  }
+},{
+  "_id": {
+    "$oid": "60af4d79fb0d6b6df0f24015"
+  },
+  "dogecoin": {
+    "eur": 0.278189,
+    "eur_market_cap": 36076891937.7451,
+    "eur_24h_vol": 3047976436.3536487,
+    "last_updated_at": 1622101224
+  }
+},{
+  "_id": {
+    "$oid": "60af4db4fb0d6b6df0f24048"
+  },
+  "dogecoin": {
+    "eur": 0.278189,
+    "eur_market_cap": 36076891937.7451,
+    "eur_24h_vol": 3047976436.3536487,
+    "last_updated_at": 1622101224
+  }
+},{
+  "_id": {
+    "$oid": "60af4df1fb0d6b6df0f24075"
+  },
+  "dogecoin": {
+    "eur": 0.278119,
+    "eur_market_cap": 36076891937.7451,
+    "eur_24h_vol": 3047089422.0597506,
+    "last_updated_at": 1622101397
+  }
+},{
+  "_id": {
+    "$oid": "60af4e2dfb0d6b6df0f240bc"
+  },
+  "dogecoin": {
+    "eur": 0.278119,
+    "eur_market_cap": 36076891937.7451,
+    "eur_24h_vol": 3047089422.0597506,
+    "last_updated_at": 1622101397
+  }
+},{
+  "_id": {
+    "$oid": "60af4e69fb0d6b6df0f240f7"
+  },
+  "dogecoin": {
+    "eur": 0.27817,
+    "eur_market_cap": 36076891937.7451,
+    "eur_24h_vol": 2928122509.686004,
+    "last_updated_at": 1622101568
+  }
+},{
+  "_id": {
+    "$oid": "60af4ea5fb0d6b6df0f24119"
+  },
+  "dogecoin": {
+    "eur": 0.27817,
+    "eur_market_cap": 36076891937.7451,
+    "eur_24h_vol": 2928122509.686004,
+    "last_updated_at": 1622101568
+  }
+},{
+  "_id": {
+    "$oid": "60af4ee1fb0d6b6df0f24167"
+  },
+  "dogecoin": {
+    "eur": 0.27817,
+    "eur_market_cap": 36076891937.7451,
+    "eur_24h_vol": 2928122509.686004,
+    "last_updated_at": 1622101568
+  }
+},{
+  "_id": {
+    "$oid": "60af4f1efb0d6b6df0f2418e"
+  },
+  "dogecoin": {
+    "eur": 0.27817,
+    "eur_market_cap": 36076891937.7451,
+    "eur_24h_vol": 2928122509.686004,
+    "last_updated_at": 1622101568
+  }
+},{
+  "_id": {
+    "$oid": "60af4f59fb0d6b6df0f241b9"
+  },
+  "dogecoin": {
+    "eur": 0.278221,
+    "eur_market_cap": 36102760231.02868,
+    "eur_24h_vol": 2928186600.8029184,
+    "last_updated_at": 1622101735
+  }
+},{
+  "_id": {
+    "$oid": "60af4f95fb0d6b6df0f24203"
+  },
+  "dogecoin": {
+    "eur": 0.278221,
+    "eur_market_cap": 36102760231.02868,
+    "eur_24h_vol": 2928186600.8029184,
+    "last_updated_at": 1622101735
+  }
+},{
+  "_id": {
+    "$oid": "60af4fd2fb0d6b6df0f24252"
+  },
+  "dogecoin": {
+    "eur": 0.278492,
+    "eur_market_cap": 36102760231.02868,
+    "eur_24h_vol": 2929834896.0672255,
+    "last_updated_at": 1622101918
+  }
+},{
+  "_id": {
+    "$oid": "60af500efb0d6b6df0f2428b"
+  },
+  "dogecoin": {
+    "eur": 0.278492,
+    "eur_market_cap": 36102760231.02868,
+    "eur_24h_vol": 2929834896.0672255,
+    "last_updated_at": 1622101918
+  }
+},{
+  "_id": {
+    "$oid": "60af504bfb0d6b6df0f242c0"
+  },
+  "dogecoin": {
+    "eur": 0.278268,
+    "eur_market_cap": 36102760231.02868,
+    "eur_24h_vol": 2914739644.70174,
+    "last_updated_at": 1622102062
+  }
+},{
+  "_id": {
+    "$oid": "60af5087fb0d6b6df0f242f7"
+  },
+  "dogecoin": {
+    "eur": 0.278268,
+    "eur_market_cap": 36102760231.02868,
+    "eur_24h_vol": 2914739644.70174,
+    "last_updated_at": 1622102062
+  }
+},{
+  "_id": {
+    "$oid": "60af50c4fb0d6b6df0f2432e"
+  },
+  "dogecoin": {
+    "eur": 0.277805,
+    "eur_market_cap": 36102760231.02868,
+    "eur_24h_vol": 3011219969.392761,
+    "last_updated_at": 1622102196
+  }
+},{
+  "_id": {
+    "$oid": "60af5101fb0d6b6df0f24365"
+  },
+  "dogecoin": {
+    "eur": 0.277805,
+    "eur_market_cap": 36102760231.02868,
+    "eur_24h_vol": 3011219969.392761,
+    "last_updated_at": 1622102196
+  }
+},{
+  "_id": {
+    "$oid": "60af513dfb0d6b6df0f2439f"
+  },
+  "dogecoin": {
+    "eur": 0.277805,
+    "eur_market_cap": 36102760231.02868,
+    "eur_24h_vol": 3011219969.392761,
+    "last_updated_at": 1622102196
+  }
+},{
+  "_id": {
+    "$oid": "60af5179fb0d6b6df0f243da"
+  },
+  "dogecoin": {
+    "eur": 0.277644,
+    "eur_market_cap": 36102760231.02868,
+    "eur_24h_vol": 3016899302.2621894,
+    "last_updated_at": 1622102354
+  }
+},{
+  "_id": {
+    "$oid": "60af51b5fb0d6b6df0f24412"
+  },
+  "dogecoin": {
+    "eur": 0.277644,
+    "eur_market_cap": 36102760231.02868,
+    "eur_24h_vol": 3016899302.2621894,
+    "last_updated_at": 1622102354
+  }
+},{
+  "_id": {
+    "$oid": "60af51f1fb0d6b6df0f24443"
+  },
+  "dogecoin": {
+    "eur": 0.277644,
+    "eur_market_cap": 36027765844.26351,
+    "eur_24h_vol": 3016899302.2621894,
+    "last_updated_at": 1622102354
+  }
+},{
+  "_id": {
+    "$oid": "60af522efb0d6b6df0f2447e"
+  },
+  "dogecoin": {
+    "eur": 0.277644,
+    "eur_market_cap": 36027765844.26351,
+    "eur_24h_vol": 3016899302.2621894,
+    "last_updated_at": 1622102354
+  }
+},{
+  "_id": {
+    "$oid": "60af526afb0d6b6df0f244b4"
+  },
+  "dogecoin": {
+    "eur": 0.277424,
+    "eur_market_cap": 36027765844.26351,
+    "eur_24h_vol": 2993009181.898834,
+    "last_updated_at": 1622102530
+  }
+},{
+  "_id": {
+    "$oid": "60af52a6fb0d6b6df0f244ea"
+  },
+  "dogecoin": {
+    "eur": 0.277424,
+    "eur_market_cap": 36027765844.26351,
+    "eur_24h_vol": 2993009181.898834,
+    "last_updated_at": 1622102530
+  }
+},{
+  "_id": {
+    "$oid": "60af52e2fb0d6b6df0f24522"
+  },
+  "dogecoin": {
+    "eur": 0.277424,
+    "eur_market_cap": 36027765844.26351,
+    "eur_24h_vol": 2993009181.898834,
+    "last_updated_at": 1622102530
+  }
+},{
+  "_id": {
+    "$oid": "60af531efb0d6b6df0f24558"
+  },
+  "dogecoin": {
+    "eur": 0.277424,
+    "eur_market_cap": 36027765844.26351,
+    "eur_24h_vol": 2993009181.898834,
+    "last_updated_at": 1622102530
+  }
+},{
+  "_id": {
+    "$oid": "60af535bfb0d6b6df0f24593"
+  },
+  "dogecoin": {
+    "eur": 0.276218,
+    "eur_market_cap": 36027765844.26351,
+    "eur_24h_vol": 2998393126.0711656,
+    "last_updated_at": 1622102799
+  }
+},{
+  "_id": {
+    "$oid": "60af5396fb0d6b6df0f245c3"
+  },
+  "dogecoin": {
+    "eur": 0.276218,
+    "eur_market_cap": 36027765844.26351,
+    "eur_24h_vol": 2998393126.0711656,
+    "last_updated_at": 1622102799
+  }
+},{
+  "_id": {
+    "$oid": "60af53d3fb0d6b6df0f245f2"
+  },
+  "dogecoin": {
+    "eur": 0.275266,
+    "eur_market_cap": 36027765844.26351,
+    "eur_24h_vol": 2980034241.0248237,
+    "last_updated_at": 1622102988
+  }
+},{
+  "_id": {
+    "$oid": "60af540ffb0d6b6df0f24624"
+  },
+  "dogecoin": {
+    "eur": 0.275266,
+    "eur_market_cap": 36027765844.26351,
+    "eur_24h_vol": 2980034241.0248237,
+    "last_updated_at": 1622102988
+  }
+},{
+  "_id": {
+    "$oid": "60af544bfb0d6b6df0f24650"
+  },
+  "dogecoin": {
+    "eur": 0.275266,
+    "eur_market_cap": 35719299397.16851,
+    "eur_24h_vol": 2980034241.0248237,
+    "last_updated_at": 1622102988
+  }
+},{
+  "_id": {
+    "$oid": "60af5488fb0d6b6df0f24722"
+  },
+  "dogecoin": {
+    "eur": 0.275266,
+    "eur_market_cap": 35719299397.16851,
+    "eur_24h_vol": 2980034241.0248237,
+    "last_updated_at": 1622102988
+  }
+},{
+  "_id": {
+    "$oid": "60af54c4fb0d6b6df0f247b2"
+  },
+  "dogecoin": {
+    "eur": 0.275619,
+    "eur_market_cap": 35719299397.16851,
+    "eur_24h_vol": 2981454584.5067863,
+    "last_updated_at": 1622103152
+  }
+},{
+  "_id": {
+    "$oid": "60af54fffb0d6b6df0f24820"
+  },
+  "dogecoin": {
+    "eur": 0.275619,
+    "eur_market_cap": 35719299397.16851,
+    "eur_24h_vol": 2981454584.5067863,
+    "last_updated_at": 1622103152
+  }
+},{
+  "_id": {
+    "$oid": "60af553cfb0d6b6df0f2488b"
+  },
+  "dogecoin": {
+    "eur": 0.277395,
+    "eur_market_cap": 35719299397.16851,
+    "eur_24h_vol": 2982974054.1725807,
+    "last_updated_at": 1622103319
+  }
+},{
+  "_id": {
+    "$oid": "60af5578fb0d6b6df0f248e0"
+  },
+  "dogecoin": {
+    "eur": 0.277395,
+    "eur_market_cap": 35719299397.16851,
+    "eur_24h_vol": 2982974054.1725807,
+    "last_updated_at": 1622103319
+  }
+},{
+  "_id": {
+    "$oid": "60af55b6fb0d6b6df0f2494b"
+  },
+  "dogecoin": {
+    "eur": 0.277626,
+    "eur_market_cap": 35719299397.16851,
+    "eur_24h_vol": 2985114878.0973864,
+    "last_updated_at": 1622103444
+  }
+},{
+  "_id": {
+    "$oid": "60af55f2fb0d6b6df0f2499f"
+  },
+  "dogecoin": {
+    "eur": 0.277626,
+    "eur_market_cap": 35719299397.16851,
+    "eur_24h_vol": 2985114878.0973864,
+    "last_updated_at": 1622103444
+  }
+},{
+  "_id": {
+    "$oid": "60af562efb0d6b6df0f249e3"
+  },
+  "dogecoin": {
+    "eur": 0.27765,
+    "eur_market_cap": 35719299397.16851,
+    "eur_24h_vol": 2982084585.3227553,
+    "last_updated_at": 1622103551
+  }
+},{
+  "_id": {
+    "$oid": "60af566afb0d6b6df0f24a3f"
+  },
+  "dogecoin": {
+    "eur": 0.27765,
+    "eur_market_cap": 35719299397.16851,
+    "eur_24h_vol": 2982084585.3227553,
+    "last_updated_at": 1622103551
+  }
+},{
+  "_id": {
+    "$oid": "60af56a6fb0d6b6df0f24a86"
+  },
+  "dogecoin": {
+    "eur": 0.27765,
+    "eur_market_cap": 36028655963.22176,
+    "eur_24h_vol": 2982084585.3227553,
+    "last_updated_at": 1622103551
+  }
+},{
+  "_id": {
+    "$oid": "60af56e3fb0d6b6df0f24ac4"
+  },
+  "dogecoin": {
+    "eur": 0.27765,
+    "eur_market_cap": 36028655963.22176,
+    "eur_24h_vol": 2982084585.3227553,
+    "last_updated_at": 1622103551
+  }
+},{
+  "_id": {
+    "$oid": "60af571ffb0d6b6df0f24afb"
+  },
+  "dogecoin": {
+    "eur": 0.278622,
+    "eur_market_cap": 36028655963.22176,
+    "eur_24h_vol": 2866126993.3370166,
+    "last_updated_at": 1622103771
+  }
+},{
+  "_id": {
+    "$oid": "60af575afb0d6b6df0f24b50"
+  },
+  "dogecoin": {
+    "eur": 0.278622,
+    "eur_market_cap": 36028655963.22176,
+    "eur_24h_vol": 2866126993.3370166,
+    "last_updated_at": 1622103771
+  }
+},{
+  "_id": {
+    "$oid": "60af5797fb0d6b6df0f24b9e"
+  },
+  "dogecoin": {
+    "eur": 0.277777,
+    "eur_market_cap": 36028655963.22176,
+    "eur_24h_vol": 2957823085.5391073,
+    "last_updated_at": 1622103937
+  }
+},{
+  "_id": {
+    "$oid": "60af57d3fb0d6b6df0f24bde"
+  },
+  "dogecoin": {
+    "eur": 0.277777,
+    "eur_market_cap": 36028655963.22176,
+    "eur_24h_vol": 2957823085.5391073,
+    "last_updated_at": 1622103937
+  }
+},{
+  "_id": {
+    "$oid": "60af5810fb0d6b6df0f24c2d"
+  },
+  "dogecoin": {
+    "eur": 0.277777,
+    "eur_market_cap": 36028655963.22176,
+    "eur_24h_vol": 2957823085.5391073,
+    "last_updated_at": 1622103937
+  }
+},{
+  "_id": {
+    "$oid": "60af584bfb0d6b6df0f24c6c"
+  },
+  "dogecoin": {
+    "eur": 0.277777,
+    "eur_market_cap": 36028655963.22176,
+    "eur_24h_vol": 2957823085.5391073,
+    "last_updated_at": 1622103937
+  }
+},{
+  "_id": {
+    "$oid": "60af5888fb0d6b6df0f24ca9"
+  },
+  "dogecoin": {
+    "eur": 0.277722,
+    "eur_market_cap": 36028655963.22176,
+    "eur_24h_vol": 2954824565.819812,
+    "last_updated_at": 1622104126
+  }
+},{
+  "_id": {
+    "$oid": "60af58c4fb0d6b6df0f24cf2"
+  },
+  "dogecoin": {
+    "eur": 0.277722,
+    "eur_market_cap": 36028655963.22176,
+    "eur_24h_vol": 2954824565.819812,
+    "last_updated_at": 1622104126
+  }
+},{
+  "_id": {
+    "$oid": "60af5900fb0d6b6df0f24d31"
+  },
+  "dogecoin": {
+    "eur": 0.279163,
+    "eur_market_cap": 36037935754.90705,
+    "eur_24h_vol": 2828902385.886254,
+    "last_updated_at": 1622104273
+  }
+},{
+  "_id": {
+    "$oid": "60af593cfb0d6b6df0f24d7c"
+  },
+  "dogecoin": {
+    "eur": 0.279163,
+    "eur_market_cap": 36037935754.90705,
+    "eur_24h_vol": 2828902385.886254,
+    "last_updated_at": 1622104273
+  }
+},{
+  "_id": {
+    "$oid": "60af5979fb0d6b6df0f24dd9"
+  },
+  "dogecoin": {
+    "eur": 0.279163,
+    "eur_market_cap": 36037935754.90705,
+    "eur_24h_vol": 2828902385.886254,
+    "last_updated_at": 1622104273
+  }
+},{
+  "_id": {
+    "$oid": "60af59b5fb0d6b6df0f24e2e"
+  },
+  "dogecoin": {
+    "eur": 0.279163,
+    "eur_market_cap": 36037935754.90705,
+    "eur_24h_vol": 2828902385.886254,
+    "last_updated_at": 1622104273
+  }
+},{
+  "_id": {
+    "$oid": "60af59f2fb0d6b6df0f24e78"
+  },
+  "dogecoin": {
+    "eur": 0.280907,
+    "eur_market_cap": 36037935754.90705,
+    "eur_24h_vol": 2955735215.4470186,
+    "last_updated_at": 1622104496
+  }
+},{
+  "_id": {
+    "$oid": "60af5a2dfb0d6b6df0f24ed1"
+  },
+  "dogecoin": {
+    "eur": 0.280907,
+    "eur_market_cap": 36037935754.90705,
+    "eur_24h_vol": 2955735215.4470186,
+    "last_updated_at": 1622104496
+  }
+},{
+  "_id": {
+    "$oid": "60af5a6afb0d6b6df0f24f15"
+  },
+  "dogecoin": {
+    "eur": 0.281133,
+    "eur_market_cap": 36037935754.90705,
+    "eur_24h_vol": 2959348008.9011297,
+    "last_updated_at": 1622104660
+  }
+},{
+  "_id": {
+    "$oid": "60af5aa6fb0d6b6df0f24f56"
+  },
+  "dogecoin": {
+    "eur": 0.281133,
+    "eur_market_cap": 36037935754.90705,
+    "eur_24h_vol": 2959348008.9011297,
+    "last_updated_at": 1622104660
+  }
+},{
+  "_id": {
+    "$oid": "60af5ae3fb0d6b6df0f24f94"
+  },
+  "dogecoin": {
+    "eur": 0.281524,
+    "eur_market_cap": 36531281746.09573,
+    "eur_24h_vol": 2961591804.405862,
+    "last_updated_at": 1622104796
+  }
+},{
+  "_id": {
+    "$oid": "60af5b20fb0d6b6df0f24fc9"
+  },
+  "dogecoin": {
+    "eur": 0.281524,
+    "eur_market_cap": 36531281746.09573,
+    "eur_24h_vol": 2961591804.405862,
+    "last_updated_at": 1622104796
+  }
+},{
+  "_id": {
+    "$oid": "60af5b5cfb0d6b6df0f2500f"
+  },
+  "dogecoin": {
+    "eur": 0.281524,
+    "eur_market_cap": 36531281746.09573,
+    "eur_24h_vol": 2961591804.405862,
+    "last_updated_at": 1622104796
+  }
+},{
+  "_id": {
+    "$oid": "60af5b97fb0d6b6df0f25044"
+  },
+  "dogecoin": {
+    "eur": 0.281524,
+    "eur_market_cap": 36531281746.09573,
+    "eur_24h_vol": 2961591804.405862,
+    "last_updated_at": 1622104796
+  }
+},{
+  "_id": {
+    "$oid": "60af5bd4fb0d6b6df0f2507a"
+  },
+  "dogecoin": {
+    "eur": 0.281683,
+    "eur_market_cap": 36531281746.09573,
+    "eur_24h_vol": 2963919080.17537,
+    "last_updated_at": 1622104942
+  }
+},{
+  "_id": {
+    "$oid": "60af5c10fb0d6b6df0f250b5"
+  },
+  "dogecoin": {
+    "eur": 0.281683,
+    "eur_market_cap": 36531281746.09573,
+    "eur_24h_vol": 2963919080.17537,
+    "last_updated_at": 1622104942
+  }
+},{
+  "_id": {
+    "$oid": "60af5c4dfb0d6b6df0f250fc"
+  },
+  "dogecoin": {
+    "eur": 0.281609,
+    "eur_market_cap": 36531281746.09573,
+    "eur_24h_vol": 2962693215.8473415,
+    "last_updated_at": 1622105067
+  }
+},{
+  "_id": {
+    "$oid": "60af5c88fb0d6b6df0f2513b"
+  },
+  "dogecoin": {
+    "eur": 0.281609,
+    "eur_market_cap": 36531281746.09573,
+    "eur_24h_vol": 2962693215.8473415,
+    "last_updated_at": 1622105067
+  }
+},{
+  "_id": {
+    "$oid": "60af5cc6fb0d6b6df0f25176"
+  },
+  "dogecoin": {
+    "eur": 0.282471,
+    "eur_market_cap": 36531281746.09573,
+    "eur_24h_vol": 2974995952.0943036,
+    "last_updated_at": 1622105220
+  }
+},{
+  "_id": {
+    "$oid": "60af5d01fb0d6b6df0f251b5"
+  },
+  "dogecoin": {
+    "eur": 0.282471,
+    "eur_market_cap": 36531281746.09573,
+    "eur_24h_vol": 2974995952.0943036,
+    "last_updated_at": 1622105220
+  }
+},{
+  "_id": {
+    "$oid": "60af5d3dfb0d6b6df0f251eb"
+  },
+  "dogecoin": {
+    "eur": 0.28162,
+    "eur_market_cap": 36543780454.013855,
+    "eur_24h_vol": 2964462887.24232,
+    "last_updated_at": 1622105395
+  }
+},{
+  "_id": {
+    "$oid": "60af5d79fb0d6b6df0f2521a"
+  },
+  "dogecoin": {
+    "eur": 0.28162,
+    "eur_market_cap": 36543780454.013855,
+    "eur_24h_vol": 2964462887.24232,
+    "last_updated_at": 1622105395
+  }
+},{
+  "_id": {
+    "$oid": "60af5db5fb0d6b6df0f25258"
+  },
+  "dogecoin": {
+    "eur": 0.28162,
+    "eur_market_cap": 36543780454.013855,
+    "eur_24h_vol": 2964462887.24232,
+    "last_updated_at": 1622105395
+  }
+},{
+  "_id": {
+    "$oid": "60af5df2fb0d6b6df0f2528c"
+  },
+  "dogecoin": {
+    "eur": 0.28162,
+    "eur_market_cap": 36543780454.013855,
+    "eur_24h_vol": 2964462887.24232,
+    "last_updated_at": 1622105395
+  }
+},{
+  "_id": {
+    "$oid": "60af5e2efb0d6b6df0f252cd"
+  },
+  "dogecoin": {
+    "eur": 0.281752,
+    "eur_market_cap": 36543780454.013855,
+    "eur_24h_vol": 2967097942.9144764,
+    "last_updated_at": 1622105566
+  }
+},{
+  "_id": {
+    "$oid": "60af5e6afb0d6b6df0f25304"
+  },
+  "dogecoin": {
+    "eur": 0.281752,
+    "eur_market_cap": 36543780454.013855,
+    "eur_24h_vol": 2967097942.9144764,
+    "last_updated_at": 1622105566
+  }
+},{
+  "_id": {
+    "$oid": "60af5ea6fb0d6b6df0f2533c"
+  },
+  "dogecoin": {
+    "eur": 0.282016,
+    "eur_market_cap": 36543780454.013855,
+    "eur_24h_vol": 2969085141.669258,
+    "last_updated_at": 1622105708
+  }
+},{
+  "_id": {
+    "$oid": "60af5ee2fb0d6b6df0f25374"
+  },
+  "dogecoin": {
+    "eur": 0.282016,
+    "eur_market_cap": 36543780454.013855,
+    "eur_24h_vol": 2969085141.669258,
+    "last_updated_at": 1622105708
+  }
+},{
+  "_id": {
+    "$oid": "60af5f1efb0d6b6df0f253a3"
+  },
+  "dogecoin": {
+    "eur": 0.282173,
+    "eur_market_cap": 36543780454.013855,
+    "eur_24h_vol": 2962936322.0220013,
+    "last_updated_at": 1622105860
+  }
+},{
+  "_id": {
+    "$oid": "60af5f5afb0d6b6df0f253db"
+  },
+  "dogecoin": {
+    "eur": 0.282173,
+    "eur_market_cap": 36543780454.013855,
+    "eur_24h_vol": 2962936322.0220013,
+    "last_updated_at": 1622105860
+  }
+},{
+  "_id": {
+    "$oid": "60af5f97fb0d6b6df0f2540e"
+  },
+  "dogecoin": {
+    "eur": 0.282173,
+    "eur_market_cap": 36615578159.85925,
+    "eur_24h_vol": 2962936322.0220013,
+    "last_updated_at": 1622105860
+  }
+},{
+  "_id": {
+    "$oid": "60af5fd3fb0d6b6df0f2545a"
+  },
+  "dogecoin": {
+    "eur": 0.282173,
+    "eur_market_cap": 36615578159.85925,
+    "eur_24h_vol": 2962936322.0220013,
+    "last_updated_at": 1622105860
+  }
+},{
+  "_id": {
+    "$oid": "60af600ffb0d6b6df0f2548f"
+  },
+  "dogecoin": {
+    "eur": 0.28099,
+    "eur_market_cap": 36615578159.85925,
+    "eur_24h_vol": 2950631485.4272733,
+    "last_updated_at": 1622106056
+  }
+},{
+  "_id": {
+    "$oid": "60af604bfb0d6b6df0f254bf"
+  },
+  "dogecoin": {
+    "eur": 0.28099,
+    "eur_market_cap": 36615578159.85925,
+    "eur_24h_vol": 2950631485.4272733,
+    "last_updated_at": 1622106056
+  }
+},{
+  "_id": {
+    "$oid": "60af6088fb0d6b6df0f254f8"
+  },
+  "dogecoin": {
+    "eur": 0.28099,
+    "eur_market_cap": 36615578159.85925,
+    "eur_24h_vol": 2950631485.4272733,
+    "last_updated_at": 1622106056
+  }
+},{
+  "_id": {
+    "$oid": "60af60c5fb0d6b6df0f25530"
+  },
+  "dogecoin": {
+    "eur": 0.28099,
+    "eur_market_cap": 36615578159.85925,
+    "eur_24h_vol": 2950631485.4272733,
+    "last_updated_at": 1622106056
+  }
+},{
+  "_id": {
+    "$oid": "60af6101fb0d6b6df0f2558d"
+  },
+  "dogecoin": {
+    "eur": 0.281125,
+    "eur_market_cap": 36615578159.85925,
+    "eur_24h_vol": 2947665388.282463,
+    "last_updated_at": 1622106342
+  }
+},{
+  "_id": {
+    "$oid": "60af613cfb0d6b6df0f25612"
+  },
+  "dogecoin": {
+    "eur": 0.281125,
+    "eur_market_cap": 36615578159.85925,
+    "eur_24h_vol": 2947665388.282463,
+    "last_updated_at": 1622106342
+  }
+},{
+  "_id": {
+    "$oid": "60af6179fb0d6b6df0f256a7"
+  },
+  "dogecoin": {
+    "eur": 0.281125,
+    "eur_market_cap": 36615578159.85925,
+    "eur_24h_vol": 2947665388.282463,
+    "last_updated_at": 1622106342
+  }
+},{
+  "_id": {
+    "$oid": "60af61b5fb0d6b6df0f2572d"
+  },
+  "dogecoin": {
+    "eur": 0.281125,
+    "eur_market_cap": 36615578159.85925,
+    "eur_24h_vol": 2947665388.282463,
+    "last_updated_at": 1622106342
+  }
+},{
+  "_id": {
+    "$oid": "60af61f1fb0d6b6df0f257ac"
+  },
+  "dogecoin": {
+    "eur": 0.281943,
+    "eur_market_cap": 36585664784.373344,
+    "eur_24h_vol": 2834981011.142455,
+    "last_updated_at": 1622106585
+  }
+},{
+  "_id": {
+    "$oid": "60af622dfb0d6b6df0f25825"
+  },
+  "dogecoin": {
+    "eur": 0.281943,
+    "eur_market_cap": 36585664784.373344,
+    "eur_24h_vol": 2834981011.142455,
+    "last_updated_at": 1622106585
+  }
+},{
+  "_id": {
+    "$oid": "60af6269fb0d6b6df0f25890"
+  },
+  "dogecoin": {
+    "eur": 0.281943,
+    "eur_market_cap": 36585664784.373344,
+    "eur_24h_vol": 2834981011.142455,
+    "last_updated_at": 1622106585
+  }
+},{
+  "_id": {
+    "$oid": "60af62a5fb0d6b6df0f258f5"
+  },
+  "dogecoin": {
+    "eur": 0.281943,
+    "eur_market_cap": 36585664784.373344,
+    "eur_24h_vol": 2834981011.142455,
+    "last_updated_at": 1622106585
+  }
+}]

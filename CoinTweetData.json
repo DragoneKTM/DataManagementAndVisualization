@@ -1,0 +1,5742 @@
+[{
+  "_id": {
+    "$oid": "60af6518f61b1b174f800b4e"
+  },
+  "day": {
+    "$date": "2021-05-27T00:00:00Z"
+  },
+  "data": [
+    {
+      "date": {
+        "$date": "2021-05-27T00:05:00Z"
+      },
+      "price": 0.285015,
+      "market_cap": 37046383176.41104,
+      "volume": 3302484080.6638913,
+      "number_of_tweet_tot": 188,
+      "number_of_tweet": 109,
+      "number_of_retweet": 79,
+      "hashtags": [
+        "rt2win",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "memes2021",
+        "Doge4Tesla",
+        "ps5",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "rt2win",
+        "PoSVv2",
+        "PancakeSwapV2"
+      ],
+      "posTweets": 120,
+      "negTweets": 23,
+      "neutTweets": 45
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T00:10:00Z"
+      },
+      "price": 0.284097,
+      "market_cap": 36955800710.08168,
+      "volume": 3279124526.8902426,
+      "number_of_tweet_tot": 221,
+      "number_of_tweet": 133,
+      "number_of_retweet": 88,
+      "hashtags": [
+        "PoSVv2",
+        "DogeCoinTo1Dollar",
+        "rt2win",
+        "DropsFee100x",
+        "doge4amazon",
+        "Doge4Tesla",
+        "Doge4Tesla",
+        "TRC20",
+        "rt2win",
+        "doge4amazon",
+        "Doge4Tesla",
+        "TRC20",
+        "Consensus2021"
+      ],
+      "posTweets": 151,
+      "negTweets": 24,
+      "neutTweets": 46
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T00:15:00Z"
+      },
+      "price": 0.284478,
+      "market_cap": 36865218243.75233,
+      "volume": 3282495831.78974,
+      "number_of_tweet_tot": 176,
+      "number_of_tweet": 80,
+      "number_of_retweet": 96,
+      "hashtags": [
+        "ThePeoplesCoin2",
+        "Tesla4Doge",
+        "Doge4AMC",
+        "doge4slimjim",
+        "a4token",
+        "DogeCoinTo1Dollar",
+        "doge1",
+        "Tesla4Doge",
+        "Doge4AMC",
+        "doge4slimjim",
+        "DogeCoinTo1Dollar",
+        "tesla4doge",
+        "Doge4Apple",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "doge4apple",
+        "Doge4Apple",
+        "ps5",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 108,
+      "negTweets": 25,
+      "neutTweets": 43
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T00:20:00Z"
+      },
+      "price": 0.2846035,
+      "market_cap": 36865218243.75233,
+      "volume": 3345097897.148921,
+      "number_of_tweet_tot": 171,
+      "number_of_tweet": 88,
+      "number_of_retweet": 83,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "AMC100K",
+        "AMC500k",
+        "ps5",
+        "DogeCoinTo1Dollar",
+        "COVID19"
+      ],
+      "posTweets": 112,
+      "negTweets": 20,
+      "neutTweets": 39
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T00:25:00Z"
+      },
+      "price": 0.28512600000000005,
+      "market_cap": 36927192825.009575,
+      "volume": 3288967467.6788177,
+      "number_of_tweet_tot": 156,
+      "number_of_tweet": 77,
+      "number_of_retweet": 79,
+      "hashtags": [
+        "rt2win",
+        "DogeCoinTo1Dollar",
+        "AMC500k",
+        "AMC100K",
+        "Survivor2021"
+      ],
+      "posTweets": 104,
+      "negTweets": 15,
+      "neutTweets": 37
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T00:30:00Z"
+      },
+      "price": 0.28479,
+      "market_cap": 36927192825.00957,
+      "volume": 3272825130.717267,
+      "number_of_tweet_tot": 168,
+      "number_of_tweet": 76,
+      "number_of_retweet": 92,
+      "hashtags": [
+        "Windows10",
+        "iPhone13",
+        "iOS15",
+        "android12",
+        "Windows10",
+        "iPhone13",
+        "iOS15",
+        "android12",
+        "AMC100K",
+        "AMC500k"
+      ],
+      "posTweets": 101,
+      "negTweets": 23,
+      "neutTweets": 44
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T00:35:00Z"
+      },
+      "price": 0.284955,
+      "market_cap": 36954889874.46284,
+      "volume": 3272035584.1313415,
+      "number_of_tweet_tot": 150,
+      "number_of_tweet": 78,
+      "number_of_retweet": 72,
+      "hashtags": [
+        "Doge4Tesla",
+        "COVID19",
+        "doge2mars",
+        "AMC100K",
+        "AMC500k",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 86,
+      "negTweets": 27,
+      "neutTweets": 37
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T00:40:00Z"
+      },
+      "price": 0.28503633333333334,
+      "market_cap": 36961661045.399704,
+      "volume": 3272976598.3365884,
+      "number_of_tweet_tot": 138,
+      "number_of_tweet": 69,
+      "number_of_retweet": 69,
+      "hashtags": [
+        "ps5",
+        "bitcoin2021",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "LunarEclipse2021"
+      ],
+      "posTweets": 73,
+      "negTweets": 21,
+      "neutTweets": 44
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T00:45:00Z"
+      },
+      "price": 0.284508,
+      "market_cap": 36975203387.27344,
+      "volume": 3259665447.769842,
+      "number_of_tweet_tot": 157,
+      "number_of_tweet": 53,
+      "number_of_retweet": 104,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "dojo4doge",
+        "LunarEclipse2021"
+      ],
+      "posTweets": 85,
+      "negTweets": 26,
+      "neutTweets": 46
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T00:50:00Z"
+      },
+      "price": 0.284309,
+      "market_cap": 36975203387.27344,
+      "volume": 3257401055.1542535,
+      "number_of_tweet_tot": 145,
+      "number_of_tweet": 72,
+      "number_of_retweet": 73,
+      "hashtags": [
+        "LunarEclipse2021",
+        "DogeCoinTo1Dollar",
+        "Doge2",
+        "COVID19"
+      ],
+      "posTweets": 86,
+      "negTweets": 21,
+      "neutTweets": 38
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T00:55:00Z"
+      },
+      "price": 0.2843096666666667,
+      "market_cap": 36896438263.68157,
+      "volume": 3252213018.5600457,
+      "number_of_tweet_tot": 146,
+      "number_of_tweet": 49,
+      "number_of_retweet": 97,
+      "hashtags": [
+        "AMC100K",
+        "AMC500k",
+        "DogeCoinTo1Dollar",
+        "dogeday420",
+        "COVID19",
+        "AMC100K"
+      ],
+      "posTweets": 70,
+      "negTweets": 31,
+      "neutTweets": 45
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T01:00:00Z"
+      },
+      "price": 0.2842245,
+      "market_cap": 36896438263.681564,
+      "volume": 3261381503.9354677,
+      "number_of_tweet_tot": 141,
+      "number_of_tweet": 50,
+      "number_of_retweet": 91,
+      "hashtags": [
+        "AMC100K",
+        "DogeCoinTo1Dollar",
+        "AMC500k",
+        "Doge4Tesla",
+        "Doge2",
+        "DogeCoinTo1Dollar",
+        "Dogecoin2",
+        "Doge2",
+        "doge2army"
+      ],
+      "posTweets": 70,
+      "negTweets": 31,
+      "neutTweets": 40
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T01:05:00Z"
+      },
+      "price": 0.284015,
+      "market_cap": 36862636320.880394,
+      "volume": 3254265706.9452906,
+      "number_of_tweet_tot": 183,
+      "number_of_tweet": 75,
+      "number_of_retweet": 108,
+      "hashtags": [
+        "playstation5",
+        "PS5",
+        "playstation5",
+        "PS5",
+        "playstation5",
+        "PS5",
+        "COVID19",
+        "playstation5",
+        "PS5",
+        "playstation5",
+        "PS5",
+        "AMC100K",
+        "AMC500k",
+        "playstation5",
+        "PS5"
+      ],
+      "posTweets": 109,
+      "negTweets": 18,
+      "neutTweets": 56
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T01:10:00Z"
+      },
+      "price": 0.28390350000000003,
+      "market_cap": 36850737761.45747,
+      "volume": 3220380423.653668,
+      "number_of_tweet_tot": 185,
+      "number_of_tweet": 58,
+      "number_of_retweet": 127,
+      "hashtags": [
+        "LunarEclipse2021",
+        "PancakeSwapV2",
+        "playstation5",
+        "PS5",
+        "AMC100K",
+        "Dogecoin2",
+        "Doge2Army",
+        "Doge2",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 117,
+      "negTweets": 23,
+      "neutTweets": 45
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T01:15:00Z"
+      },
+      "price": 0.2848375,
+      "market_cap": 36815042083.18871,
+      "volume": 3220211617.83268,
+      "number_of_tweet_tot": 177,
+      "number_of_tweet": 64,
+      "number_of_retweet": 113,
+      "hashtags": [
+        "Tesla4Doge",
+        "Doge4AMC",
+        "doge4slimjim",
+        "doge2mars",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 121,
+      "negTweets": 22,
+      "neutTweets": 34
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T01:20:00Z"
+      },
+      "price": 0.28475933333333336,
+      "market_cap": 36856121725.2236,
+      "volume": 3205082583.5297675,
+      "number_of_tweet_tot": 143,
+      "number_of_tweet": 44,
+      "number_of_retweet": 99,
+      "hashtags": [
+        "playstation5",
+        "PS5"
+      ],
+      "posTweets": 83,
+      "negTweets": 15,
+      "neutTweets": 45
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T01:25:00Z"
+      },
+      "price": 0.284921,
+      "market_cap": 36938281009.29338,
+      "volume": 3212780658.705467,
+      "number_of_tweet_tot": 136,
+      "number_of_tweet": 56,
+      "number_of_retweet": 80,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 84,
+      "negTweets": 10,
+      "neutTweets": 42
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T01:30:00Z"
+      },
+      "price": 0.2869545,
+      "market_cap": 36938281009.29338,
+      "volume": 3246230483.454534,
+      "number_of_tweet_tot": 178,
+      "number_of_tweet": 71,
+      "number_of_retweet": 107,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "Doge4Tesla",
+        "eth2",
+        "DogeCoinTo1Dollar",
+        "dojo4doge",
+        "ps5",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 104,
+      "negTweets": 23,
+      "neutTweets": 51
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T01:35:00Z"
+      },
+      "price": 0.289493,
+      "market_cap": 37246474098.56931,
+      "volume": 3264703424.0582814,
+      "number_of_tweet_tot": 175,
+      "number_of_tweet": 83,
+      "number_of_retweet": 92,
+      "hashtags": [
+        "next100",
+        "Avatar10KJourney",
+        "ps5",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "ps5",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "playstation5",
+        "PS5",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 89,
+      "negTweets": 20,
+      "neutTweets": 66
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T01:40:00Z"
+      },
+      "price": 0.29004599999999997,
+      "market_cap": 37372995638.562645,
+      "volume": 3275256435.6746545,
+      "number_of_tweet_tot": 148,
+      "number_of_tweet": 78,
+      "number_of_retweet": 70,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 82,
+      "negTweets": 16,
+      "neutTweets": 50
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T01:45:00Z"
+      },
+      "price": 0.2899563333333333,
+      "market_cap": 37626038718.54931,
+      "volume": 3282593176.741657,
+      "number_of_tweet_tot": 164,
+      "number_of_tweet": 71,
+      "number_of_retweet": 93,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 109,
+      "negTweets": 21,
+      "neutTweets": 34
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T01:50:00Z"
+      },
+      "price": 0.290691,
+      "market_cap": 37699790280.35805,
+      "volume": 3291064531.4387355,
+      "number_of_tweet_tot": 156,
+      "number_of_tweet": 73,
+      "number_of_retweet": 83,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "LunarEclipse2021",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "emoji4doge",
+        "ps5",
+        "DogeCoinTo1Dollar",
+        "ps5"
+      ],
+      "posTweets": 108,
+      "negTweets": 12,
+      "neutTweets": 36
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T01:55:00Z"
+      },
+      "price": 0.291119,
+      "market_cap": 37773541842.166794,
+      "volume": 3295647447.7997007,
+      "number_of_tweet_tot": 170,
+      "number_of_tweet": 77,
+      "number_of_retweet": 93,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "bep20",
+        "eth2",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "ps5",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 102,
+      "negTweets": 16,
+      "neutTweets": 52
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T02:00:00Z"
+      },
+      "price": 0.29082175000000005,
+      "market_cap": 37754349731.47668,
+      "volume": 3290909781.199879,
+      "number_of_tweet_tot": 130,
+      "number_of_tweet": 40,
+      "number_of_retweet": 90,
+      "hashtags": [
+        "Altseason2021",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "Altseason2021",
+        "Altseason2021",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "Doge4AMC",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 71,
+      "negTweets": 20,
+      "neutTweets": 39
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T02:05:00Z"
+      },
+      "price": 0.291192,
+      "market_cap": 37696773399.40631,
+      "volume": 3286445684.982953,
+      "number_of_tweet_tot": 180,
+      "number_of_tweet": 87,
+      "number_of_retweet": 93,
+      "hashtags": [
+        "Altseason2021",
+        "DogeCoinTo1Dollar",
+        "Altseason2021",
+        "Doge4Tesla",
+        "Altseason2021",
+        "DogeCoinTo1Dollar",
+        "Altseason2021",
+        "DogeCoinTo1Dollar",
+        "Altseason2021",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "Altseason2021",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "Altseason2021",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 102,
+      "negTweets": 20,
+      "neutTweets": 58
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T02:10:00Z"
+      },
+      "price": 0.2898026666666667,
+      "market_cap": 37696773399.40631,
+      "volume": 3269952829.457405,
+      "number_of_tweet_tot": 185,
+      "number_of_tweet": 67,
+      "number_of_retweet": 118,
+      "hashtags": [
+        "Altseason2021",
+        "DogeCoinTo1Dollar",
+        "Altseason2021",
+        "DogeCoinTo1Dollar",
+        "playstation5",
+        "PS5",
+        "Altseason2021",
+        "doge2mars",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "Altseason2021",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "Altseason2021",
+        "Altseason2021",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "safemoon2"
+      ],
+      "posTweets": 84,
+      "negTweets": 45,
+      "neutTweets": 56
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T02:15:00Z"
+      },
+      "price": 0.288902,
+      "market_cap": 37696773399.40631,
+      "volume": 3259569278.3091817,
+      "number_of_tweet_tot": 149,
+      "number_of_tweet": 50,
+      "number_of_retweet": 99,
+      "hashtags": [
+        "Doge4AMC",
+        "Altseason2021",
+        "Altseason2021",
+        "safemoon2",
+        "x100coin",
+        "DogeCoinTo1Dollar",
+        "safemoon2",
+        "DogeCoinTo1Dollar",
+        "Altseason2021"
+      ],
+      "posTweets": 76,
+      "negTweets": 29,
+      "neutTweets": 44
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T02:20:00Z"
+      },
+      "price": 0.2873856666666667,
+      "market_cap": 37378153188.85607,
+      "volume": 3245931311.582861,
+      "number_of_tweet_tot": 151,
+      "number_of_tweet": 51,
+      "number_of_retweet": 100,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "dogecointo1dollar",
+        "Doge4Tesla"
+      ],
+      "posTweets": 94,
+      "negTweets": 23,
+      "neutTweets": 34
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T02:25:00Z"
+      },
+      "price": 0.284734,
+      "market_cap": 37157153050.51311,
+      "volume": 3330060445.8965306,
+      "number_of_tweet_tot": 150,
+      "number_of_tweet": 53,
+      "number_of_retweet": 97,
+      "hashtags": [
+        "dojo4doge",
+        "playstation5",
+        "PS5",
+        "Altseason2021",
+        "x100Easy",
+        "DogeCoinTo1Dollar",
+        "dojo4doge",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 74,
+      "negTweets": 26,
+      "neutTweets": 50
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T02:30:00Z"
+      },
+      "price": 0.2850713333333334,
+      "market_cap": 37157153050.51311,
+      "volume": 3228240332.8068256,
+      "number_of_tweet_tot": 144,
+      "number_of_tweet": 57,
+      "number_of_retweet": 87,
+      "hashtags": [
+        "erc20",
+        "erc20",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "doge4amazon",
+        "f4f",
+        "ps5",
+        "doge4amc"
+      ],
+      "posTweets": 92,
+      "negTweets": 15,
+      "neutTweets": 37
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T02:35:00Z"
+      },
+      "price": 0.28458350000000004,
+      "market_cap": 36970776124.80027,
+      "volume": 3273051875.2490764,
+      "number_of_tweet_tot": 205,
+      "number_of_tweet": 68,
+      "number_of_retweet": 137,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "Tesla4Doge",
+        "DogeCoinTo1Dollar",
+        "LitecoinTo10k",
+        "Tesla4Doge",
+        "doge2mars",
+        "Doge4Tesla"
+      ],
+      "posTweets": 133,
+      "negTweets": 28,
+      "neutTweets": 44
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T02:40:00Z"
+      },
+      "price": 0.281509,
+      "market_cap": 36763724844.491486,
+      "volume": 3290865196.825482,
+      "number_of_tweet_tot": 193,
+      "number_of_tweet": 85,
+      "number_of_retweet": 108,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "AMC100K",
+        "Doge4Tesla",
+        "AMC100K",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "Doge4amazon",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "ps5",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "doge420",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 116,
+      "negTweets": 23,
+      "neutTweets": 54
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T02:45:00Z"
+      },
+      "price": 0.2820063333333333,
+      "market_cap": 36556673564.18271,
+      "volume": 3294676274.2345314,
+      "number_of_tweet_tot": 182,
+      "number_of_tweet": 63,
+      "number_of_retweet": 119,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "AMC500k",
+        "AMC500k",
+        "AMC100K",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "AMC500k"
+      ],
+      "posTweets": 93,
+      "negTweets": 24,
+      "neutTweets": 65
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T02:50:00Z"
+      },
+      "price": 0.281856,
+      "market_cap": 36565498943.91789,
+      "volume": 3294586648.604921,
+      "number_of_tweet_tot": 181,
+      "number_of_tweet": 80,
+      "number_of_retweet": 101,
+      "hashtags": [
+        "MothersDay2021",
+        "DogeCoinTo1Dollar",
+        "AMC500k",
+        "Doge4Tesla",
+        "doge4everything",
+        "snlmay8",
+        "AMC500k",
+        "doge2",
+        "doge2army",
+        "DogeCoinTo1Dollar",
+        "AMC500k",
+        "f4f",
+        "Doge4Tesla",
+        "sp500"
+      ],
+      "posTweets": 111,
+      "negTweets": 15,
+      "neutTweets": 55
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T02:55:00Z"
+      },
+      "price": 0.28282799999999997,
+      "market_cap": 36574324323.653076,
+      "volume": 3253771540.656996,
+      "number_of_tweet_tot": 157,
+      "number_of_tweet": 56,
+      "number_of_retweet": 101,
+      "hashtags": [
+        "Doge4Apple",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "DadOf10",
+        "doge2mars",
+        "DogeCoinTo1Dollar",
+        "Altseason2021",
+        "ps5",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "Altseason2021"
+      ],
+      "posTweets": 90,
+      "negTweets": 15,
+      "neutTweets": 52
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T03:00:00Z"
+      },
+      "price": 0.2840036666666667,
+      "market_cap": 36652588239.57519,
+      "volume": 3250089035.9720745,
+      "number_of_tweet_tot": 119,
+      "number_of_tweet": 39,
+      "number_of_retweet": 80,
+      "hashtags": [
+        "Altseason2021",
+        "Doge4Apple",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "psd2",
+        "AMC500k",
+        "Altseason2021",
+        "Altseason2021",
+        "Altseason2021"
+      ],
+      "posTweets": 70,
+      "negTweets": 11,
+      "neutTweets": 38
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T03:05:00Z"
+      },
+      "price": 0.283351,
+      "market_cap": 36809116071.41941,
+      "volume": 3309156049.74884,
+      "number_of_tweet_tot": 144,
+      "number_of_tweet": 75,
+      "number_of_retweet": 69,
+      "hashtags": [
+        "Altseason2021",
+        "Altseason2021",
+        "Altseason2021",
+        "emoji4doge",
+        "Altseason2021",
+        "safemoon2",
+        "Altseason2021",
+        "AMC100K",
+        "Doge4Tesla",
+        "Altseason2021",
+        "Altseason2021",
+        "Altseason2021",
+        "safemoon2",
+        "PS5",
+        "safemoon2",
+        "Altseason2021",
+        "Altseason2021"
+      ],
+      "posTweets": 100,
+      "negTweets": 11,
+      "neutTweets": 33
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T03:10:00Z"
+      },
+      "price": 0.2830505,
+      "market_cap": 36752096812.35749,
+      "volume": 3302323289.203279,
+      "number_of_tweet_tot": 153,
+      "number_of_tweet": 48,
+      "number_of_retweet": 105,
+      "hashtags": [
+        "Altseason2021",
+        "PancakeSwapV2",
+        "Doge4Tesla",
+        "ps5",
+        "dojo4doge",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 103,
+      "negTweets": 15,
+      "neutTweets": 35
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T03:15:00Z"
+      },
+      "price": 0.282639,
+      "market_cap": 36695077553.29557,
+      "volume": 3298677453.190206,
+      "number_of_tweet_tot": 198,
+      "number_of_tweet": 65,
+      "number_of_retweet": 133,
+      "hashtags": [
+        "Altseason2021",
+        "AMC500k",
+        "DogeCoinTo1Dollar",
+        "Altseason2021",
+        "Altseason2021",
+        "Altseason2021",
+        "Altseason2021",
+        "Altseason2021",
+        "Altseason2021",
+        "Altseason2021",
+        "DogeCoinTo1Dollar",
+        "Altseason2021",
+        "Altseason2021",
+        "DogeCoinTo1Dollar",
+        "Altseason2021"
+      ],
+      "posTweets": 135,
+      "negTweets": 24,
+      "neutTweets": 39
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T03:20:00Z"
+      },
+      "price": 0.282285,
+      "market_cap": 36695077553.29557,
+      "volume": 3295473509.5179267,
+      "number_of_tweet_tot": 129,
+      "number_of_tweet": 44,
+      "number_of_retweet": 85,
+      "hashtags": [
+        "Altseason2021",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "Altseason2021",
+        "bep20",
+        "tech4all",
+        "Doge4Tesla",
+        "ps5",
+        "tech4all",
+        "emoji4doge",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 77,
+      "negTweets": 11,
+      "neutTweets": 41
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T03:25:00Z"
+      },
+      "price": 0.2803235,
+      "market_cap": 36577282597.76679,
+      "volume": 3275758976.103738,
+      "number_of_tweet_tot": 147,
+      "number_of_tweet": 60,
+      "number_of_retweet": 87,
+      "hashtags": [
+        "ThePeoplesCoin2",
+        "Doge4Tesla",
+        "Doge4Apple",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla"
+      ],
+      "posTweets": 95,
+      "negTweets": 10,
+      "neutTweets": 42
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T03:30:00Z"
+      },
+      "price": 0.27890000000000004,
+      "market_cap": 36376079092.15286,
+      "volume": 3269533420.7133636,
+      "number_of_tweet_tot": 140,
+      "number_of_tweet": 48,
+      "number_of_retweet": 92,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "dogecointo1dollar",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 83,
+      "negTweets": 14,
+      "neutTweets": 43
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T03:35:00Z"
+      },
+      "price": 0.277513,
+      "market_cap": 36174875586.538925,
+      "volume": 3254562136.4882746,
+      "number_of_tweet_tot": 156,
+      "number_of_tweet": 76,
+      "number_of_retweet": 80,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "AMC500k",
+        "Doge4Tesla",
+        "sp500"
+      ],
+      "posTweets": 89,
+      "negTweets": 18,
+      "neutTweets": 49
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T03:40:00Z"
+      },
+      "price": 0.2782183333333333,
+      "market_cap": 36172339152.17394,
+      "volume": 3266842856.1697373,
+      "number_of_tweet_tot": 175,
+      "number_of_tweet": 84,
+      "number_of_retweet": 91,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "dogeday420",
+        "AMC500k",
+        "COVID19"
+      ],
+      "posTweets": 102,
+      "negTweets": 16,
+      "neutTweets": 57
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T03:45:00Z"
+      },
+      "price": 0.278705,
+      "market_cap": 36167266283.44397,
+      "volume": 3270569510.177122,
+      "number_of_tweet_tot": 173,
+      "number_of_tweet": 88,
+      "number_of_retweet": 85,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "Altseason2021"
+      ],
+      "posTweets": 95,
+      "negTweets": 15,
+      "neutTweets": 63
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T03:50:00Z"
+      },
+      "price": 0.27914799999999995,
+      "market_cap": 36227904646.14934,
+      "volume": 3218215684.5629272,
+      "number_of_tweet_tot": 134,
+      "number_of_tweet": 70,
+      "number_of_retweet": 64,
+      "hashtags": [
+        "ps5",
+        "Doge4Apple",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla"
+      ],
+      "posTweets": 74,
+      "negTweets": 29,
+      "neutTweets": 31
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T03:55:00Z"
+      },
+      "price": 0.27879,
+      "market_cap": 36288543008.8547,
+      "volume": 3262966727.54992,
+      "number_of_tweet_tot": 155,
+      "number_of_tweet": 63,
+      "number_of_retweet": 92,
+      "hashtags": [
+        "hr100",
+        "AMC500k",
+        "DogeCoinTo1Dollar",
+        "MothersDay2021",
+        "DogeCoinTo1Dollar",
+        "Tesla4Doge",
+        "DogeCoinTo1Dollar",
+        "doge2",
+        "doge2",
+        "doge2army",
+        "Doge4Tesla"
+      ],
+      "posTweets": 97,
+      "negTweets": 13,
+      "neutTweets": 45
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T04:00:00Z"
+      },
+      "price": 0.27806442857142855,
+      "market_cap": 36219367022.675476,
+      "volume": 3265198680.7627068,
+      "number_of_tweet_tot": 137,
+      "number_of_tweet": 61,
+      "number_of_retweet": 76,
+      "hashtags": [
+        "Altseason2021",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "Altseason2021",
+        "Altseason2021",
+        "Altseason2021",
+        "dojo4doge",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 80,
+      "negTweets": 14,
+      "neutTweets": 43
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T04:05:00Z"
+      },
+      "price": 0.275745,
+      "market_cap": 36046427057.2274,
+      "volume": 3256131536.03,
+      "number_of_tweet_tot": 158,
+      "number_of_tweet": 75,
+      "number_of_retweet": 83,
+      "hashtags": [
+        "Doge4Tesla",
+        "FIFA21",
+        "BTCZto1dollar",
+        "Dogecoin2",
+        "Doge2Army",
+        "Doge2"
+      ],
+      "posTweets": 70,
+      "negTweets": 29,
+      "neutTweets": 59
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T04:10:00Z"
+      },
+      "price": 0.2762763333333333,
+      "market_cap": 36046427057.22741,
+      "volume": 3254729411.3381476,
+      "number_of_tweet_tot": 153,
+      "number_of_tweet": 61,
+      "number_of_retweet": 92,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 85,
+      "negTweets": 18,
+      "neutTweets": 50
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T04:15:00Z"
+      },
+      "price": 0.276753,
+      "market_cap": 35894804461.724365,
+      "volume": 3275690862.6936436,
+      "number_of_tweet_tot": 167,
+      "number_of_tweet": 74,
+      "number_of_retweet": 93,
+      "hashtags": [
+        "Doge4Tesla",
+        "ps5"
+      ],
+      "posTweets": 109,
+      "negTweets": 17,
+      "neutTweets": 41
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T04:20:00Z"
+      },
+      "price": 0.2775725,
+      "market_cap": 35894804461.724365,
+      "volume": 3287784533.126437,
+      "number_of_tweet_tot": 141,
+      "number_of_tweet": 59,
+      "number_of_retweet": 82,
+      "hashtags": [
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "Altseason2021",
+        "PlayStation5",
+        "PlayStation5"
+      ],
+      "posTweets": 76,
+      "negTweets": 19,
+      "neutTweets": 46
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T04:25:00Z"
+      },
+      "price": 0.27867966666666666,
+      "market_cap": 36017479380.11176,
+      "volume": 3290758556.0105977,
+      "number_of_tweet_tot": 135,
+      "number_of_tweet": 55,
+      "number_of_retweet": 80,
+      "hashtags": [
+        "Doge4Tesla",
+        "AMC500k",
+        "ps5",
+        "AMC100K",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 69,
+      "negTweets": 19,
+      "neutTweets": 47
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T04:30:00Z"
+      },
+      "price": 0.27826733333333337,
+      "market_cap": 36047169987.853455,
+      "volume": 3282091076.5899444,
+      "number_of_tweet_tot": 139,
+      "number_of_tweet": 61,
+      "number_of_retweet": 78,
+      "hashtags": [
+        "Dogecoin2",
+        "Doge2Army",
+        "Doge2",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "Money4The99Percent",
+        "DogeCoinTo1Dollar",
+        "ps5",
+        "DogeCoinTo1Dollar",
+        "dogecointo1dollar",
+        "DogeCoinTo1Dollar",
+        "emoji4doge"
+      ],
+      "posTweets": 80,
+      "negTweets": 19,
+      "neutTweets": 40
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T04:35:00Z"
+      },
+      "price": 0.276214,
+      "market_cap": 36106551203.336815,
+      "volume": 3241895122.3178797,
+      "number_of_tweet_tot": 146,
+      "number_of_tweet": 56,
+      "number_of_retweet": 90,
+      "hashtags": [
+        "altcoinseason2021",
+        "Top100",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "ps5"
+      ],
+      "posTweets": 83,
+      "negTweets": 16,
+      "neutTweets": 47
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T04:40:00Z"
+      },
+      "price": 0.2758203333333334,
+      "market_cap": 36002754527.04533,
+      "volume": 3238646416.363507,
+      "number_of_tweet_tot": 135,
+      "number_of_tweet": 66,
+      "number_of_retweet": 69,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "AMC100K",
+        "Doge4Tesla",
+        "ps5",
+        "ps5",
+        "dogecointo1dollar",
+        "AMC500k",
+        "ps5"
+      ],
+      "posTweets": 76,
+      "negTweets": 18,
+      "neutTweets": 41
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T04:45:00Z"
+      },
+      "price": 0.2756265,
+      "market_cap": 35795161174.46236,
+      "volume": 3233157553.955405,
+      "number_of_tweet_tot": 147,
+      "number_of_tweet": 56,
+      "number_of_retweet": 91,
+      "hashtags": [
+        "AMC100K",
+        "Doge4Tesla",
+        "Day1",
+        "doge2mars",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "doge2mars",
+        "Day1",
+        "doge2mars",
+        "dogecointo1dollar",
+        "AMC500k",
+        "DogeCoinTo1Dollar",
+        "Altseason2021",
+        "dojo4doge",
+        "ps5",
+        "AMC500k",
+        "Day1",
+        "ps5"
+      ],
+      "posTweets": 83,
+      "negTweets": 20,
+      "neutTweets": 44
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T04:50:00Z"
+      },
+      "price": 0.27555799999999997,
+      "market_cap": 35795161174.46236,
+      "volume": 3229129814.551841,
+      "number_of_tweet_tot": 132,
+      "number_of_tweet": 47,
+      "number_of_retweet": 85,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "dogeday420",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 72,
+      "negTweets": 15,
+      "neutTweets": 45
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T04:55:00Z"
+      },
+      "price": 0.275522,
+      "market_cap": 35768050301.44561,
+      "volume": 3223873947.1987343,
+      "number_of_tweet_tot": 185,
+      "number_of_tweet": 88,
+      "number_of_retweet": 97,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "doge2mars",
+        "DogeCoinTo1Dollar",
+        "dogeto10cents",
+        "dogecointo1dollar",
+        "Doge4Tesla",
+        "dogeto10cents",
+        "dogecointo1dollar"
+      ],
+      "posTweets": 85,
+      "negTweets": 9,
+      "neutTweets": 91
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T05:00:00Z"
+      },
+      "price": 0.274983,
+      "market_cap": 35768050301.4456,
+      "volume": 3211031233.4755373,
+      "number_of_tweet_tot": 206,
+      "number_of_tweet": 70,
+      "number_of_retweet": 136,
+      "hashtags": [
+        "Doge4Tesla",
+        "DogeTo117Dollars",
+        "DogeTo117Dollars",
+        "DogeCoinTo1Dollar",
+        "ps5"
+      ],
+      "posTweets": 131,
+      "negTweets": 19,
+      "neutTweets": 56
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T05:05:00Z"
+      },
+      "price": 0.275372,
+      "market_cap": 35714337264.43801,
+      "volume": 3216225139.830555,
+      "number_of_tweet_tot": 138,
+      "number_of_tweet": 62,
+      "number_of_retweet": 76,
+      "hashtags": [
+        "ps5",
+        "Summer2021",
+        "homeschooling2021",
+        "DogeCoinTo1Dollar",
+        "emoji4doge",
+        "DogeCoinTo1Dollar",
+        "doge2mars"
+      ],
+      "posTweets": 69,
+      "negTweets": 16,
+      "neutTweets": 53
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T05:10:00Z"
+      },
+      "price": 0.27402266666666664,
+      "market_cap": 35714337264.43801,
+      "volume": 3199461985.6262817,
+      "number_of_tweet_tot": 155,
+      "number_of_tweet": 49,
+      "number_of_retweet": 106,
+      "hashtags": [
+        "AMC500k",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "ps5",
+        "ps5",
+        "Doge4Tesla"
+      ],
+      "posTweets": 79,
+      "negTweets": 23,
+      "neutTweets": 53
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T05:15:00Z"
+      },
+      "price": 0.27220266666666665,
+      "market_cap": 35436392593.979256,
+      "volume": 3183834288.340693,
+      "number_of_tweet_tot": 148,
+      "number_of_tweet": 56,
+      "number_of_retweet": 92,
+      "hashtags": [
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "ALLDAYLO0ong",
+        "ps5"
+      ],
+      "posTweets": 80,
+      "negTweets": 26,
+      "neutTweets": 42
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T05:20:00Z"
+      },
+      "price": 0.271516,
+      "market_cap": 35436392593.97926,
+      "volume": 3201224404.8676786,
+      "number_of_tweet_tot": 108,
+      "number_of_tweet": 30,
+      "number_of_retweet": 78,
+      "hashtags": [
+        "Follow2Gain",
+        "memes2021",
+        "ps5",
+        "LitecoinTo10k",
+        "doge2mars",
+        "doge2mars"
+      ],
+      "posTweets": 60,
+      "negTweets": 15,
+      "neutTweets": 33
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T05:25:00Z"
+      },
+      "price": 0.27122250000000003,
+      "market_cap": 35224681910.18179,
+      "volume": 3216595473.968403,
+      "number_of_tweet_tot": 99,
+      "number_of_tweet": 57,
+      "number_of_retweet": 42,
+      "hashtags": [
+        "doge2mars",
+        "Doge4Tesla",
+        "doge2mars",
+        "DogeCoinTo1Dollar",
+        "doge1",
+        "Doge1mission",
+        "Doge4Tesla",
+        "COVID19"
+      ],
+      "posTweets": 57,
+      "negTweets": 17,
+      "neutTweets": 25
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T05:30:00Z"
+      },
+      "price": 0.2718736666666666,
+      "market_cap": 35224681910.18179,
+      "volume": 3230218450.9976306,
+      "number_of_tweet_tot": 128,
+      "number_of_tweet": 47,
+      "number_of_retweet": 81,
+      "hashtags": [
+        "Doge4Tesla",
+        "ps5",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 72,
+      "negTweets": 16,
+      "neutTweets": 40
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T05:35:00Z"
+      },
+      "price": 0.2725135,
+      "market_cap": 35322506730.39446,
+      "volume": 3219640554.1856103,
+      "number_of_tweet_tot": 135,
+      "number_of_tweet": 64,
+      "number_of_retweet": 71,
+      "hashtags": [
+        "memes2021",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 73,
+      "negTweets": 19,
+      "neutTweets": 43
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T05:40:00Z"
+      },
+      "price": 0.274402,
+      "market_cap": 35464806230.18353,
+      "volume": 3255242090.034155,
+      "number_of_tweet_tot": 141,
+      "number_of_tweet": 54,
+      "number_of_retweet": 87,
+      "hashtags": [
+        "PancakeSwapV2",
+        "dojo4doge",
+        "doge2mars",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "doge2mars",
+        "DogeCoinTo1Dollar",
+        "doge2mars"
+      ],
+      "posTweets": 77,
+      "negTweets": 20,
+      "neutTweets": 44
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T05:45:00Z"
+      },
+      "price": 0.273543,
+      "market_cap": 35607105729.972595,
+      "volume": 3228312314.1609426,
+      "number_of_tweet_tot": 115,
+      "number_of_tweet": 51,
+      "number_of_retweet": 64,
+      "hashtags": [
+        "ThePeoplesCoin2",
+        "Doge4Tesla",
+        "ThePeoplesCoin2",
+        "dogecoininto1dollar",
+        "Doge4Tesla",
+        "ps5"
+      ],
+      "posTweets": 54,
+      "negTweets": 13,
+      "neutTweets": 48
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T05:50:00Z"
+      },
+      "price": 0.273618,
+      "market_cap": 35574857098.892944,
+      "volume": 3234796507.8628364,
+      "number_of_tweet_tot": 151,
+      "number_of_tweet": 72,
+      "number_of_retweet": 79,
+      "hashtags": [
+        "f4f",
+        "kingdoge4life",
+        "doge2mars",
+        "horse2earth",
+        "DogeCoinTo1Dollar",
+        "a4token",
+        "ThePeoplesCoin2",
+        "doge2mars",
+        "horse2earth",
+        "DogeCoinTo1Dollar",
+        "danganronpav3",
+        "doge2mars"
+      ],
+      "posTweets": 86,
+      "negTweets": 19,
+      "neutTweets": 46
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T05:55:00Z"
+      },
+      "price": 0.2736785,
+      "market_cap": 35510359836.733635,
+      "volume": 3227777363.562196,
+      "number_of_tweet_tot": 112,
+      "number_of_tweet": 46,
+      "number_of_retweet": 66,
+      "hashtags": [
+        "dogecointo1dollar",
+        "TECNOSpark7P",
+        "TECNOSpark7P",
+        "ps5",
+        "AMC500k",
+        "AMC100K",
+        "DogeCoinTo1Dollar",
+        "ThePeoplesCoin2",
+        "TECNOSpark7P",
+        "DogeCoinTo1Dollar",
+        "doge2mars",
+        "horse2earth",
+        "DogeCoinTo1Dollar",
+        "Doge2",
+        "dogecoin2",
+        "doge2army",
+        "doge2mars"
+      ],
+      "posTweets": 68,
+      "negTweets": 11,
+      "neutTweets": 33
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T06:00:00Z"
+      },
+      "price": 0.27324750000000003,
+      "market_cap": 35485158814.07289,
+      "volume": 3183444089.371877,
+      "number_of_tweet_tot": 124,
+      "number_of_tweet": 38,
+      "number_of_retweet": 86,
+      "hashtags": [
+        "Doge2",
+        "dogecoin2",
+        "doge2army",
+        "Doge2",
+        "dogecoin2",
+        "doge2army",
+        "IGOT7",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "Doge2",
+        "dogecoin2",
+        "doge2army",
+        "Doge2",
+        "dogecoin2",
+        "doge2army",
+        "Doge2",
+        "dogecoin2",
+        "doge2army",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 80,
+      "negTweets": 17,
+      "neutTweets": 27
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T06:05:00Z"
+      },
+      "price": 0.274124,
+      "market_cap": 35459957791.412155,
+      "volume": 3159971143.1018524,
+      "number_of_tweet_tot": 156,
+      "number_of_tweet": 66,
+      "number_of_retweet": 90,
+      "hashtags": [
+        "Doge2",
+        "dogecoin2",
+        "doge2army",
+        "DogeCoinTo1Dollar",
+        "tier1",
+        "ps5",
+        "DogeCoinTo1Dollar",
+        "sp500",
+        "tier1"
+      ],
+      "posTweets": 88,
+      "negTweets": 24,
+      "neutTweets": 44
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T06:10:00Z"
+      },
+      "price": 0.27339166666666664,
+      "market_cap": 35455962929.721565,
+      "volume": 3130488853.0659137,
+      "number_of_tweet_tot": 158,
+      "number_of_tweet": 54,
+      "number_of_retweet": 104,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "dogecointo1dollar",
+        "IGOT7",
+        "TECNOSpark7P",
+        "sp500"
+      ],
+      "posTweets": 67,
+      "negTweets": 50,
+      "neutTweets": 41
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T06:15:00Z"
+      },
+      "price": 0.2734533333333334,
+      "market_cap": 35447973206.34039,
+      "volume": 3138754433.3381615,
+      "number_of_tweet_tot": 139,
+      "number_of_tweet": 58,
+      "number_of_retweet": 81,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "doge2mars",
+        "DogeCoinTo1Dollar",
+        "Tesla4Doge",
+        "DogeDay420",
+        "dogeto1dollar",
+        "COVID19"
+      ],
+      "posTweets": 67,
+      "negTweets": 35,
+      "neutTweets": 37
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T06:20:00Z"
+      },
+      "price": 0.273207,
+      "market_cap": 35446692405.344925,
+      "volume": 3139691395.8127675,
+      "number_of_tweet_tot": 128,
+      "number_of_tweet": 43,
+      "number_of_retweet": 85,
+      "hashtags": [
+        "Altseason2021",
+        "Doge4Tesla",
+        "doge2mars",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "ps5",
+        "DogeCoinTo1Dollar",
+        "AMC500k",
+        "AMC100K",
+        "ps5",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 61,
+      "negTweets": 35,
+      "neutTweets": 32
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T06:25:00Z"
+      },
+      "price": 0.2733583333333333,
+      "market_cap": 35445411604.34946,
+      "volume": 3120591567.331157,
+      "number_of_tweet_tot": 119,
+      "number_of_tweet": 46,
+      "number_of_retweet": 73,
+      "hashtags": [
+        "Doge4Tesla",
+        "DogeDay420",
+        "tesla4doge",
+        "dojo4doge",
+        "TECNOSpark7P",
+        "dogeto1dollar",
+        "Doge4Tesla",
+        "COVID19",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 62,
+      "negTweets": 18,
+      "neutTweets": 39
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T06:30:00Z"
+      },
+      "price": 0.27356766666666665,
+      "market_cap": 35478972715.66273,
+      "volume": 3117212248.4084554,
+      "number_of_tweet_tot": 150,
+      "number_of_tweet": 57,
+      "number_of_retweet": 93,
+      "hashtags": [
+        "Doge4Tesla",
+        "YouthWithYou3",
+        "YouthWithYou3",
+        "DogeCoinTo1Dollar",
+        "Doge2",
+        "dogecoin2",
+        "doge2army",
+        "Doge4Tesla",
+        "hicetnunc2000",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla"
+      ],
+      "posTweets": 67,
+      "negTweets": 35,
+      "neutTweets": 48
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T06:35:00Z"
+      },
+      "price": 0.273572,
+      "market_cap": 35495753271.31936,
+      "volume": 3117639315.889019,
+      "number_of_tweet_tot": 147,
+      "number_of_tweet": 69,
+      "number_of_retweet": 78,
+      "hashtags": [
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 67,
+      "negTweets": 33,
+      "neutTweets": 47
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T06:40:00Z"
+      },
+      "price": 0.273399,
+      "market_cap": 35495753271.31936,
+      "volume": 3111776423.7736654,
+      "number_of_tweet_tot": 137,
+      "number_of_tweet": 60,
+      "number_of_retweet": 77,
+      "hashtags": [],
+      "posTweets": 67,
+      "negTweets": 24,
+      "neutTweets": 46
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T06:45:00Z"
+      },
+      "price": 0.27286900000000003,
+      "market_cap": 35466735741.546104,
+      "volume": 3138746493.3166976,
+      "number_of_tweet_tot": 209,
+      "number_of_tweet": 58,
+      "number_of_retweet": 151,
+      "hashtags": [
+        "playstation5",
+        "PS5",
+        "ps5",
+        "hicetnunc2000",
+        "COVID19",
+        "DAX30"
+      ],
+      "posTweets": 73,
+      "negTweets": 90,
+      "neutTweets": 46
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T06:50:00Z"
+      },
+      "price": 0.2732776,
+      "market_cap": 35469094612.606155,
+      "volume": 3129204140.679971,
+      "number_of_tweet_tot": 234,
+      "number_of_tweet": 84,
+      "number_of_retweet": 150,
+      "hashtags": [
+        "Altseason2021",
+        "DogeCoinTo1Dollar",
+        "dogecointo1dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 86,
+      "negTweets": 58,
+      "neutTweets": 90
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T06:55:00Z"
+      },
+      "price": 0.273409,
+      "market_cap": 35470667193.31286,
+      "volume": 3135958440.305035,
+      "number_of_tweet_tot": 169,
+      "number_of_tweet": 52,
+      "number_of_retweet": 117,
+      "hashtags": [
+        "tier1",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla"
+      ],
+      "posTweets": 60,
+      "negTweets": 30,
+      "neutTweets": 79
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T07:00:00Z"
+      },
+      "price": 0.273336,
+      "market_cap": 35470667193.31286,
+      "volume": 3131085053.4535,
+      "number_of_tweet_tot": 164,
+      "number_of_tweet": 41,
+      "number_of_retweet": 123,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "MothersDay2021",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "dojo4doge",
+        "IPLAuction2021"
+      ],
+      "posTweets": 74,
+      "negTweets": 35,
+      "neutTweets": 55
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T07:05:00Z"
+      },
+      "price": 0.273593,
+      "market_cap": 35475720328.59783,
+      "volume": 3131831122.782023,
+      "number_of_tweet_tot": 186,
+      "number_of_tweet": 59,
+      "number_of_retweet": 127,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "IPLAuction2021",
+        "dogecointo1dollar",
+        "COVID19",
+        "FIFA21",
+        "apple4Doge"
+      ],
+      "posTweets": 81,
+      "negTweets": 49,
+      "neutTweets": 56
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T07:10:00Z"
+      },
+      "price": 0.2735982,
+      "market_cap": 35475720328.597824,
+      "volume": 3125734421.846968,
+      "number_of_tweet_tot": 165,
+      "number_of_tweet": 59,
+      "number_of_retweet": 106,
+      "hashtags": [
+        "Doge4Tesla",
+        "Tesla4Doge",
+        "Tesla4Doge"
+      ],
+      "posTweets": 81,
+      "negTweets": 44,
+      "neutTweets": 40
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T07:15:00Z"
+      },
+      "price": 0.2736296666666667,
+      "market_cap": 35495369294.70847,
+      "volume": 3128196541.6963005,
+      "number_of_tweet_tot": 128,
+      "number_of_tweet": 41,
+      "number_of_retweet": 87,
+      "hashtags": [
+        "Tesla4Doge",
+        "Tesla4Doge",
+        "DOGE1",
+        "Doge4Tesla",
+        "AMC500k",
+        "AMC100K",
+        "Tesla4Doge",
+        "Doge4AMC",
+        "doge4slimjim",
+        "Tesla4Doge",
+        "DogeCoinTo1Dollar",
+        "tesla4doge",
+        "teslamodel3",
+        "doge4amazon",
+        "doge4tesla",
+        "Amazon4Doge",
+        "tesla4doge",
+        "GME4Doge",
+        "walmart4doge",
+        "ebay4doge",
+        "Chewy4Doge",
+        "AMC4Doge",
+        "CVS4Doge",
+        "hicetnunc2000",
+        "Tesla4Doge",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 63,
+      "negTweets": 32,
+      "neutTweets": 33
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T07:20:00Z"
+      },
+      "price": 0.2729975,
+      "market_cap": 35465566054.80574,
+      "volume": 3130959149.3100567,
+      "number_of_tweet_tot": 189,
+      "number_of_tweet": 55,
+      "number_of_retweet": 134,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "AMC500k",
+        "AMC100K",
+        "ThePeoplesCoin2",
+        "ThePeoplesCoin2",
+        "playstation5",
+        "PS5",
+        "XiaomiMi11i",
+        "DogeCoinTo1Dollar",
+        "TeslaModel3",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 61,
+      "negTweets": 33,
+      "neutTweets": 95
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T07:25:00Z"
+      },
+      "price": 0.2729955,
+      "market_cap": 35425938331.84767,
+      "volume": 3130383968.479659,
+      "number_of_tweet_tot": 156,
+      "number_of_tweet": 58,
+      "number_of_retweet": 98,
+      "hashtags": [
+        "AMC500k",
+        "AMC100K",
+        "DogeCoinTo1Dollar",
+        "TeslaModel3",
+        "DogeCoinTo1Dollar",
+        "TeslaModel3",
+        "DogeCoinTo1Dollar",
+        "TeslaModel3",
+        "ThePeoplesCoin2",
+        "DogeCoinTo1Dollar",
+        "b2b",
+        "TexasWinterStorm2021",
+        "petrol100",
+        "emoji4doge",
+        "ThePeoplesCoin2"
+      ],
+      "posTweets": 81,
+      "negTweets": 21,
+      "neutTweets": 54
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T07:30:00Z"
+      },
+      "price": 0.2733044285714286,
+      "market_cap": 35434005227.75259,
+      "volume": 3133327365.9344625,
+      "number_of_tweet_tot": 126,
+      "number_of_tweet": 46,
+      "number_of_retweet": 80,
+      "hashtags": [
+        "Doge4Tesla",
+        "CNBCTV18Market",
+        "MothersDay2021",
+        "covid1948",
+        "ps5"
+      ],
+      "posTweets": 60,
+      "negTweets": 30,
+      "neutTweets": 36
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T07:35:00Z"
+      },
+      "price": 0.273125,
+      "market_cap": 35454172467.51488,
+      "volume": 3129301552.0150714,
+      "number_of_tweet_tot": 160,
+      "number_of_tweet": 80,
+      "number_of_retweet": 80,
+      "hashtags": [
+        "ThePeoplesCoin2",
+        "ThePeoplesCoin2",
+        "Ban24News",
+        "ps5",
+        "DogeCoinTo1Dollar",
+        "ps5"
+      ],
+      "posTweets": 79,
+      "negTweets": 25,
+      "neutTweets": 56
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T07:40:00Z"
+      },
+      "price": 0.273542,
+      "market_cap": 35454172467.514885,
+      "volume": 3128358389.441679,
+      "number_of_tweet_tot": 162,
+      "number_of_tweet": 93,
+      "number_of_retweet": 69,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "ALTSEASON2021",
+        "CincodeMayo2021",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 91,
+      "negTweets": 25,
+      "neutTweets": 46
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T07:45:00Z"
+      },
+      "price": 0.2737646666666667,
+      "market_cap": 35488284980.92014,
+      "volume": 3122239548.3322425,
+      "number_of_tweet_tot": 115,
+      "number_of_tweet": 41,
+      "number_of_retweet": 74,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 61,
+      "negTweets": 19,
+      "neutTweets": 35
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T07:50:00Z"
+      },
+      "price": 0.273947,
+      "market_cap": 35488284980.92014,
+      "volume": 3130022105.16033,
+      "number_of_tweet_tot": 119,
+      "number_of_tweet": 55,
+      "number_of_retweet": 64,
+      "hashtags": [
+        "ThePeoplesCoin2",
+        "Survivor2021",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "doge2army",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 66,
+      "negTweets": 18,
+      "neutTweets": 35
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T07:55:00Z"
+      },
+      "price": 0.2757623333333334,
+      "market_cap": 35561647386.48129,
+      "volume": 3240639063.1839557,
+      "number_of_tweet_tot": 127,
+      "number_of_tweet": 51,
+      "number_of_retweet": 76,
+      "hashtags": [
+        "x100",
+        "DogeCoinTo1Dollar",
+        "dojo4doge",
+        "x100",
+        "DogeCoinTo1Dollar",
+        "x100",
+        "DogeCoinTo1Dollar",
+        "hicetnunc2000"
+      ],
+      "posTweets": 64,
+      "negTweets": 14,
+      "neutTweets": 49
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T08:00:00Z"
+      },
+      "price": 0.276789,
+      "market_cap": 35561647386.48129,
+      "volume": 3268809671.4529953,
+      "number_of_tweet_tot": 118,
+      "number_of_tweet": 46,
+      "number_of_retweet": 72,
+      "hashtags": [
+        "tekashi69",
+        "tekashi6ix9ine",
+        "tekashi69",
+        "tekashi6ix9ine",
+        "ThePeoplesCoin2",
+        "x100",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 70,
+      "negTweets": 19,
+      "neutTweets": 29
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T08:05:00Z"
+      },
+      "price": 0.277997,
+      "market_cap": 35911298508.77679,
+      "volume": 3260731513.805984,
+      "number_of_tweet_tot": 137,
+      "number_of_tweet": 74,
+      "number_of_retweet": 63,
+      "hashtags": [
+        "ThePeoplesCoin2",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "playstation5",
+        "PS5",
+        "ThePeoplesCoin2",
+        "ThePeoplesCoin2",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 70,
+      "negTweets": 20,
+      "neutTweets": 47
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T08:10:00Z"
+      },
+      "price": 0.2785146666666667,
+      "market_cap": 35974891331.50909,
+      "volume": 3257972142.6290574,
+      "number_of_tweet_tot": 114,
+      "number_of_tweet": 56,
+      "number_of_retweet": 58,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "dogecoin2",
+        "doge2",
+        "sndl420gang",
+        "PancakeSwapV2",
+        "willieco1n",
+        "rt2win",
+        "dogecoin2",
+        "AMC500k"
+      ],
+      "posTweets": 59,
+      "negTweets": 13,
+      "neutTweets": 42
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T08:15:00Z"
+      },
+      "price": 0.27764300000000003,
+      "market_cap": 36102076976.97369,
+      "volume": 3246858888.8444595,
+      "number_of_tweet_tot": 130,
+      "number_of_tweet": 50,
+      "number_of_retweet": 80,
+      "hashtags": [
+        "dogeday420"
+      ],
+      "posTweets": 66,
+      "negTweets": 23,
+      "neutTweets": 41
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T08:20:00Z"
+      },
+      "price": 0.277892,
+      "market_cap": 36084409203.5413,
+      "volume": 3245246224.700229,
+      "number_of_tweet_tot": 140,
+      "number_of_tweet": 49,
+      "number_of_retweet": 91,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "COVID19",
+        "ps5",
+        "DogeCoinTo1Dollar",
+        "rt2win",
+        "Tesla4Doge",
+        "bep20",
+        "AMC500k",
+        "AMC500k",
+        "AMC500k",
+        "AMC500k",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 67,
+      "negTweets": 27,
+      "neutTweets": 46
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T08:25:00Z"
+      },
+      "price": 0.276598,
+      "market_cap": 36075575316.825096,
+      "volume": 3219929156.3770194,
+      "number_of_tweet_tot": 149,
+      "number_of_tweet": 58,
+      "number_of_retweet": 91,
+      "hashtags": [
+        "ThePeoplesCoin2",
+        "sedatpeker8",
+        "DavidoAt10",
+        "EURO2020",
+        "AMC500k",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 84,
+      "negTweets": 13,
+      "neutTweets": 52
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T08:30:00Z"
+      },
+      "price": 0.27665499999999993,
+      "market_cap": 35997321063.87525,
+      "volume": 3220334704.0812893,
+      "number_of_tweet_tot": 147,
+      "number_of_tweet": 59,
+      "number_of_retweet": 88,
+      "hashtags": [
+        "amc100k",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "AMC500k",
+        "DogeCoinTo1Dollar",
+        "teslamodel3",
+        "Model3",
+        "teslamodel3",
+        "Model3"
+      ],
+      "posTweets": 85,
+      "negTweets": 16,
+      "neutTweets": 46
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T08:35:00Z"
+      },
+      "price": 0.276786,
+      "market_cap": 35899503247.68795,
+      "volume": 3203561238.730779,
+      "number_of_tweet_tot": 159,
+      "number_of_tweet": 79,
+      "number_of_retweet": 80,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "ThePeoplesCoin2",
+        "ThePeoplesCoin2",
+        "rt2win",
+        "Doge4Tesla",
+        "willieco1n",
+        "rt2win",
+        "a4N",
+        "E25"
+      ],
+      "posTweets": 73,
+      "negTweets": 29,
+      "neutTweets": 57
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T08:40:00Z"
+      },
+      "price": 0.27711,
+      "market_cap": 35899503247.68795,
+      "volume": 3203561238.730779,
+      "number_of_tweet_tot": 153,
+      "number_of_tweet": 58,
+      "number_of_retweet": 95,
+      "hashtags": [
+        "dojo4doge",
+        "ThePeoplesCoin2",
+        "ThePeoplesCoin2",
+        "AMC500k",
+        "ThePeoplesCoin2",
+        "ThePeoplesCoin2"
+      ],
+      "posTweets": 71,
+      "negTweets": 19,
+      "neutTweets": 63
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T08:45:00Z"
+      },
+      "price": 0.27747179999999994,
+      "market_cap": 35916502055.35833,
+      "volume": 3102757225.2414618,
+      "number_of_tweet_tot": 123,
+      "number_of_tweet": 47,
+      "number_of_retweet": 76,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "AMC500k",
+        "AMC500k",
+        "hicetnunc2000",
+        "LunarEclipse2021",
+        "TECNOCamon17",
+        "TECNOCamon17",
+        "May26Coup"
+      ],
+      "posTweets": 61,
+      "negTweets": 12,
+      "neutTweets": 50
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T08:50:00Z"
+      },
+      "price": 0.277976,
+      "market_cap": 35916502055.35833,
+      "volume": 3102757225.2414618,
+      "number_of_tweet_tot": 129,
+      "number_of_tweet": 53,
+      "number_of_retweet": 76,
+      "hashtags": [
+        "bep20",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 55,
+      "negTweets": 26,
+      "neutTweets": 48
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T08:55:00Z"
+      },
+      "price": 0.278763,
+      "market_cap": 36059900687.48823,
+      "volume": 3053730165.8614492,
+      "number_of_tweet_tot": 145,
+      "number_of_tweet": 74,
+      "number_of_retweet": 71,
+      "hashtags": [
+        "dogeto1dollar",
+        "DogeCoinTo1Dollar",
+        "dogeto1dollar",
+        "DogeCoinTo1Dollar",
+        "dogeto1dollar",
+        "DogeDay420",
+        "DogeCoinTo1Dollar",
+        "AMC500k"
+      ],
+      "posTweets": 66,
+      "negTweets": 23,
+      "neutTweets": 56
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T09:00:00Z"
+      },
+      "price": 0.2785826,
+      "market_cap": 36095454189.92772,
+      "volume": 3168017122.091111,
+      "number_of_tweet_tot": 143,
+      "number_of_tweet": 61,
+      "number_of_retweet": 82,
+      "hashtags": [
+        "dogeto1dollar",
+        "DogeCoinTo1Dollar",
+        "COVID19",
+        "COVID19",
+        "dogeto1dollar",
+        "dogeto1dollar",
+        "dogeto1dollar",
+        "COVID19",
+        "DAX30",
+        "dogeto1dollar",
+        "DogeCoinTo1Dollar",
+        "dogecoin4tesla",
+        "dogeto1dollar",
+        "ThePeoplesCoin2",
+        "dogeto1dollar",
+        "a4N",
+        "E25"
+      ],
+      "posTweets": 71,
+      "negTweets": 26,
+      "neutTweets": 46
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T09:05:00Z"
+      },
+      "price": 0.278672,
+      "market_cap": 36148784443.58697,
+      "volume": 3103585655.7666917,
+      "number_of_tweet_tot": 147,
+      "number_of_tweet": 72,
+      "number_of_retweet": 75,
+      "hashtags": [
+        "dogeto1dollar",
+        "PancakeSwapV2",
+        "dogecoin2",
+        "doge2",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "TECNOCamon17",
+        "dogeto1dollar",
+        "AMC500k",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 90,
+      "negTweets": 21,
+      "neutTweets": 36
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T09:10:00Z"
+      },
+      "price": 0.27820833333333334,
+      "market_cap": 36126797967.27375,
+      "volume": 3074857396.6627617,
+      "number_of_tweet_tot": 146,
+      "number_of_tweet": 71,
+      "number_of_retweet": 75,
+      "hashtags": [
+        "AMC500k",
+        "FIFA21",
+        "Us30",
+        "BTCZto1dollar",
+        "Us30",
+        "ThePeoplesCoin2"
+      ],
+      "posTweets": 87,
+      "negTweets": 19,
+      "neutTweets": 40
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T09:15:00Z"
+      },
+      "price": 0.278108,
+      "market_cap": 36082825014.64731,
+      "volume": 2999317509.790327,
+      "number_of_tweet_tot": 128,
+      "number_of_tweet": 50,
+      "number_of_retweet": 78,
+      "hashtags": [
+        "ThePeoplesCoin2",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "ThePeoplesCoin2",
+        "Follow2Gain",
+        "ThePeoplesCoin2"
+      ],
+      "posTweets": 80,
+      "negTweets": 22,
+      "neutTweets": 26
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T09:20:00Z"
+      },
+      "price": 0.277787,
+      "market_cap": 36082825014.64731,
+      "volume": 2932549224.120658,
+      "number_of_tweet_tot": 121,
+      "number_of_tweet": 52,
+      "number_of_retweet": 69,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "FIFA21",
+        "dogeto1dollar",
+        "Doge4Tesla",
+        "dogeto1dollar"
+      ],
+      "posTweets": 63,
+      "negTweets": 18,
+      "neutTweets": 40
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T09:25:00Z"
+      },
+      "price": 0.2776565,
+      "market_cap": 36043746025.7811,
+      "volume": 2932121982.2868843,
+      "number_of_tweet_tot": 134,
+      "number_of_tweet": 57,
+      "number_of_retweet": 77,
+      "hashtags": [
+        "a4token",
+        "DogeCoinTo1Dollar",
+        "dogeto1dollar",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "Doge4Apple",
+        "Doge4Amazon",
+        "Doge4Tesla",
+        "dogeto1dollar",
+        "artvsartist2021",
+        "dogeto1dollar",
+        "dogeto1dollar",
+        "artvsartist2021",
+        "DogeCoinTo1Dollar",
+        "dogeto1dollar",
+        "dogeto1dollar",
+        "dogeto1dollar",
+        "dogeto1dollar"
+      ],
+      "posTweets": 69,
+      "negTweets": 25,
+      "neutTweets": 40
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T09:30:00Z"
+      },
+      "price": 0.27756733333333333,
+      "market_cap": 36043746025.7811,
+      "volume": 3040052722.7225747,
+      "number_of_tweet_tot": 123,
+      "number_of_tweet": 54,
+      "number_of_retweet": 69,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "dojo4doge",
+        "TRC20",
+        "iPhone12",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 75,
+      "negTweets": 18,
+      "neutTweets": 30
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T09:35:00Z"
+      },
+      "price": 0.277552,
+      "market_cap": 36050961429.59601,
+      "volume": 3034269914.36086,
+      "number_of_tweet_tot": 157,
+      "number_of_tweet": 90,
+      "number_of_retweet": 67,
+      "hashtags": [
+        "dogeto1dollar",
+        "dogecointo1dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 76,
+      "negTweets": 28,
+      "neutTweets": 53
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T09:40:00Z"
+      },
+      "price": 0.2779795,
+      "market_cap": 36050961429.59601,
+      "volume": 3041730871.94411,
+      "number_of_tweet_tot": 146,
+      "number_of_tweet": 71,
+      "number_of_retweet": 75,
+      "hashtags": [
+        "f4f",
+        "Doge4Tesla"
+      ],
+      "posTweets": 72,
+      "negTweets": 21,
+      "neutTweets": 53
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T09:45:00Z"
+      },
+      "price": 0.2781656666666667,
+      "market_cap": 36076891937.74511,
+      "volume": 3047680764.9223495,
+      "number_of_tweet_tot": 141,
+      "number_of_tweet": 65,
+      "number_of_retweet": 76,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "dogeto1dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 76,
+      "negTweets": 12,
+      "neutTweets": 53
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T09:50:00Z"
+      },
+      "price": 0.278187,
+      "market_cap": 36085514702.172966,
+      "volume": 2928143873.391642,
+      "number_of_tweet_tot": 171,
+      "number_of_tweet": 83,
+      "number_of_retweet": 88,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "doge1",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "tier1",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "ALLDAYLO0ong",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 100,
+      "negTweets": 9,
+      "neutTweets": 62
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T09:55:00Z"
+      },
+      "price": 0.27838,
+      "market_cap": 36102760231.02868,
+      "volume": 2922287270.384483,
+      "number_of_tweet_tot": 160,
+      "number_of_tweet": 57,
+      "number_of_retweet": 103,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "ThePeoplesCoin2",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "tier1",
+        "AMC500k"
+      ],
+      "posTweets": 74,
+      "negTweets": 22,
+      "neutTweets": 64
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T10:00:00Z"
+      },
+      "price": 0.277713,
+      "market_cap": 36081333263.38149,
+      "volume": 3014465302.4610057,
+      "number_of_tweet_tot": 146,
+      "number_of_tweet": 57,
+      "number_of_retweet": 89,
+      "hashtags": [
+        "AMC500k",
+        "doge1",
+        "dogeto1dollar",
+        "DogeCoinTo1Dollar",
+        "AMC500k",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 82,
+      "negTweets": 17,
+      "neutTweets": 47
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T10:05:00Z"
+      },
+      "price": 0.277424,
+      "market_cap": 36027765844.26351,
+      "volume": 2993009181.898834,
+      "number_of_tweet_tot": 155,
+      "number_of_tweet": 77,
+      "number_of_retweet": 78,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "dogecointo1dollar",
+        "TECNOCamon17",
+        "DogeCoinTo1Dollar",
+        "TECNOCamon17",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 72,
+      "negTweets": 13,
+      "neutTweets": 70
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T10:10:00Z"
+      },
+      "price": 0.27558333333333335,
+      "market_cap": 35924943695.23185,
+      "volume": 2986153869.3736043,
+      "number_of_tweet_tot": 148,
+      "number_of_tweet": 45,
+      "number_of_retweet": 103,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "TECNOCamon17",
+        "Doge4Amazon",
+        "Doge4Apple",
+        "DogeCoinTo1Dollar",
+        "dogeto1dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "dogeto1dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 60,
+      "negTweets": 33,
+      "neutTweets": 55
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T10:15:00Z"
+      },
+      "price": 0.275619,
+      "market_cap": 35719299397.16851,
+      "volume": 2981454584.5067863,
+      "number_of_tweet_tot": 134,
+      "number_of_tweet": 60,
+      "number_of_retweet": 74,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "Dollar1BSCGold",
+        "DogeCoinTo1Dollar",
+        "AMC500k",
+        "AMC100K",
+        "AMC100k",
+        "amc500k",
+        "dojo4doge",
+        "May26Coup",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 68,
+      "negTweets": 19,
+      "neutTweets": 47
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T10:20:00Z"
+      },
+      "price": 0.27758025,
+      "market_cap": 35796638538.68182,
+      "volume": 2983064525.728869,
+      "number_of_tweet_tot": 113,
+      "number_of_tweet": 59,
+      "number_of_retweet": 54,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "dogeto1dollar",
+        "safemoon2",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "dogeto1dollar",
+        "sayedmorteza21",
+        "safemoon2",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 70,
+      "negTweets": 5,
+      "neutTweets": 38
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T10:25:00Z"
+      },
+      "price": 0.278622,
+      "market_cap": 36028655963.22176,
+      "volume": 2866126993.3370166,
+      "number_of_tweet_tot": 117,
+      "number_of_tweet": 50,
+      "number_of_retweet": 67,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "sayedmorteza21",
+        "sayedmorteza21",
+        "safemoon2",
+        "DogeCoinTo1Dollar",
+        "dogeto1dollar",
+        "sayedmorteza21",
+        "sayedmorteza21",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla"
+      ],
+      "posTweets": 54,
+      "negTweets": 9,
+      "neutTweets": 54
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T10:30:00Z"
+      },
+      "price": 0.27775866666666665,
+      "market_cap": 36028655963.22176,
+      "volume": 2956823578.966009,
+      "number_of_tweet_tot": 146,
+      "number_of_tweet": 57,
+      "number_of_retweet": 89,
+      "hashtags": [
+        "Doge4Tesla",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "sayedmorteza21",
+        "Doge4Tesla",
+        "Doge4Tesla",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "Doge4Tesla",
+        "safemoon2",
+        "Doge4AMC",
+        "dogeto1dollar",
+        "dogeto1dollar",
+        "sayedmorteza21",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "ThePeoplesCoin2",
+        "covid1948",
+        "safemoon2",
+        "dogeto1dollar",
+        "Doge4Tesla",
+        "dogeto1dollar",
+        "sayedmorteza21",
+        "dogeto1dollar",
+        "DogeCoinTo1Dollar",
+        "dogeto1dollar"
+      ],
+      "posTweets": 75,
+      "negTweets": 10,
+      "neutTweets": 61
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T10:35:00Z"
+      },
+      "price": 0.2797443333333333,
+      "market_cap": 36037935754.90705,
+      "volume": 2871179995.739842,
+      "number_of_tweet_tot": 165,
+      "number_of_tweet": 86,
+      "number_of_retweet": 79,
+      "hashtags": [
+        "dogeto1dollar",
+        "dogeto1dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "doge4amazon",
+        "Tesla4Doge",
+        "DOGE1",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "dogeto1dollar",
+        "sayedmorteza21",
+        "Doge4Amazon",
+        "Doge4Tesla",
+        "Doge4Tesla",
+        "dogeto1dollar",
+        "dogeto1dollar",
+        "ThePeoplesCoin2",
+        "dogeto1dollar",
+        "Doge4Tesla",
+        "dogeto1dollar",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "safemoon2",
+        "Doge4Tesla",
+        "dogeto1dollar",
+        "dogeto1dollar",
+        "ThePeoplesCoin2",
+        "Doge4Tesla",
+        "doge4tesla",
+        "dogeto1dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "dogeto1dollar",
+        "dogeto1dollar",
+        "AMC500k",
+        "Doge4Tesla",
+        "dogeto1dollar",
+        "Doge4Tesla",
+        "Doge4Amazon",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "Doge4Amazon",
+        "Doge4Tesla",
+        "Doge4Tesla",
+        "dogeto1dollar"
+      ],
+      "posTweets": 83,
+      "negTweets": 11,
+      "neutTweets": 71
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T10:40:00Z"
+      },
+      "price": 0.2813936666666667,
+      "market_cap": 36366833082.36617,
+      "volume": 2960843872.570951,
+      "number_of_tweet_tot": 158,
+      "number_of_tweet": 67,
+      "number_of_retweet": 91,
+      "hashtags": [
+        "ThePeoplesCoin2",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "ThePeoplesCoin2",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "Doge4Amazon",
+        "Doge4Tesla",
+        "Doge4Tesla",
+        "Doge4Tesla",
+        "Doge4Tesla",
+        "doge4amazon",
+        "Doge4Tesla",
+        "DogeCoinTo1Dollar",
+        "Doge4Eco",
+        "Love4Doge",
+        "Doge4Discoveries",
+        "Architecture4Doge",
+        "Doge4Creation",
+        "DogeCoinTo1Dollar",
+        "Doge4Tesla",
+        "dogeto1dollar",
+        "DogeCoinTo1Dollar",
+        "psd2",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 81,
+      "negTweets": 16,
+      "neutTweets": 61
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T10:45:00Z"
+      },
+      "price": 0.281646,
+      "market_cap": 36531281746.09573,
+      "volume": 2963306148.011356,
+      "number_of_tweet_tot": 125,
+      "number_of_tweet": 59,
+      "number_of_retweet": 66,
+      "hashtags": [
+        "sayedmorteza21",
+        "dogeto1dollar",
+        "psd2",
+        "dogeto1dollar",
+        "dogeto1dollar",
+        "DogeCoinTo1Dollar",
+        "safemoon2",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 68,
+      "negTweets": 7,
+      "neutTweets": 50
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T10:50:00Z"
+      },
+      "price": 0.28190366666666666,
+      "market_cap": 36539614218.041145,
+      "volume": 2967973908.859648,
+      "number_of_tweet_tot": 147,
+      "number_of_tweet": 73,
+      "number_of_retweet": 74,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "sayedmorteza21",
+        "Follow2Gain",
+        "DogeCoinTo1Dollar",
+        "covid19",
+        "sayedmorteza21",
+        "DogeCoinTo1Dollar",
+        "safemoon2",
+        "DogeCoinTo1Dollar",
+        "safemoon2",
+        "safemoon2",
+        "a4token",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 80,
+      "negTweets": 9,
+      "neutTweets": 58
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T10:55:00Z"
+      },
+      "price": 0.281752,
+      "market_cap": 36543780454.013855,
+      "volume": 2967097942.9144764,
+      "number_of_tweet_tot": 118,
+      "number_of_tweet": 51,
+      "number_of_retweet": 67,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "safemoon2",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "AMC500k"
+      ],
+      "posTweets": 53,
+      "negTweets": 7,
+      "neutTweets": 58
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T11:00:00Z"
+      },
+      "price": 0.2821206666666667,
+      "market_cap": 36567713022.62899,
+      "volume": 2964985928.571087,
+      "number_of_tweet_tot": 111,
+      "number_of_tweet": 56,
+      "number_of_retweet": 55,
+      "hashtags": [
+        "AMC500k",
+        "DogeCoinTo1Dollar",
+        "ThePeoplesCoin2",
+        "ThePeoplesCoin2",
+        "sayedmorteza21",
+        "Doge4Tesla",
+        "sayedmorteza21",
+        "psd2",
+        "dogeto1dollar",
+        "sayedmorteza21",
+        "DogeCoinTo1Dollar",
+        "doge4tesla"
+      ],
+      "posTweets": 58,
+      "negTweets": 9,
+      "neutTweets": 44
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T11:05:00Z"
+      },
+      "price": 0.28099,
+      "market_cap": 36615578159.85925,
+      "volume": 2950631485.4272733,
+      "number_of_tweet_tot": 130,
+      "number_of_tweet": 60,
+      "number_of_retweet": 70,
+      "hashtags": [
+        "P2P",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "Altseason2021",
+        "Altseason2021"
+      ],
+      "posTweets": 71,
+      "negTweets": 12,
+      "neutTweets": 47
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T11:10:00Z"
+      },
+      "price": 0.281534,
+      "market_cap": 36600621472.1163,
+      "volume": 2891323199.7124596,
+      "number_of_tweet_tot": 336,
+      "number_of_tweet": 85,
+      "number_of_retweet": 251,
+      "hashtags": [
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "DogeCoinTo1Dollar",
+        "Doge4AMC",
+        "DogeCoinTo1Dollar",
+        "safemoon2",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 279,
+      "negTweets": 7,
+      "neutTweets": 50
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T11:15:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 183,
+      "number_of_tweet": 56,
+      "number_of_retweet": 127,
+      "hashtags": [
+        "psd2",
+        "psd2",
+        "sayedmorteza21",
+        "DogeCoinTo1Dollar"
+      ],
+      "posTweets": 138,
+      "negTweets": 15,
+      "neutTweets": 30
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T11:20:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T11:25:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T11:30:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T11:35:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T11:40:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T11:45:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T11:50:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T11:55:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T12:00:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T12:05:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T12:10:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T12:15:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T12:20:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T12:25:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T12:30:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T12:35:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T12:40:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T12:45:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T12:50:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T12:55:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T13:00:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T13:05:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T13:10:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T13:15:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T13:20:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T13:25:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T13:30:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T13:35:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T13:40:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T13:45:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T13:50:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T13:55:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T14:00:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T14:05:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T14:10:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T14:15:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T14:20:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T14:25:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T14:30:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T14:35:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T14:40:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T14:45:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T14:50:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T14:55:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T15:00:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T15:05:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T15:10:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T15:15:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T15:20:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T15:25:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T15:30:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T15:35:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T15:40:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T15:45:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T15:50:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T15:55:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T16:00:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T16:05:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T16:10:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T16:15:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T16:20:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T16:25:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T16:30:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T16:35:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T16:40:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T16:45:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T16:50:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T16:55:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T17:00:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T17:05:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T17:10:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T17:15:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T17:20:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T17:25:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T17:30:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T17:35:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T17:40:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T17:45:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T17:50:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T17:55:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T18:00:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T18:05:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T18:10:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T18:15:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T18:20:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T18:25:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T18:30:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T18:35:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T18:40:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T18:45:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T18:50:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T18:55:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T19:00:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T19:05:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T19:10:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T19:15:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T19:20:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T19:25:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T19:30:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T19:35:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T19:40:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T19:45:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T19:50:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T19:55:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T20:00:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T20:05:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T20:10:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T20:15:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T20:20:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T20:25:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T20:30:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T20:35:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T20:40:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T20:45:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T20:50:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T20:55:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T21:00:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T21:05:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T21:10:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T21:15:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T21:20:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T21:25:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T21:30:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T21:35:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T21:40:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T21:45:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T21:50:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T21:55:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T22:00:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T22:05:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T22:10:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T22:15:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T22:20:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T22:25:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T22:30:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T22:35:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T22:40:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T22:45:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T22:50:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T22:55:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T23:00:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T23:05:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T23:10:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T23:15:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T23:20:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T23:25:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T23:30:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T23:35:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T23:40:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T23:45:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T23:50:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-27T23:55:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    },
+    {
+      "date": {
+        "$date": "2021-05-28T00:00:00Z"
+      },
+      "price": 0,
+      "market_cap": 0,
+      "volume": 0,
+      "number_of_tweet_tot": 0,
+      "number_of_tweet": 0,
+      "number_of_retweet": 0,
+      "hashtags": [],
+      "posTweets": 0,
+      "negTweets": 0,
+      "neutTweets": 0
+    }
+  ]
+}]
